@@ -1,0 +1,3144 @@
+--------------------------------------------------------------------------------
+
+https://www.channel4.com/
+https://www.channel4.com/categories
+
+https://www.channel4.com/programmes/jack-irish
+  series
+
+https://www.channel4.com/programmes/jack-irish/on-demand/77468-001
+  episode in series
+
+-------------------------------------------------------------------------------- before login:
+
+view-source:https://www.channel4.com/programmes/jack-irish
+
+<script>
+  window.__PARAMS__ = {
+    "initialData": {
+      "brand": {
+        "exclusive": undefined,
+        "websafeTitle": "jack-irish",
+        "presentationBrand": "channel4",
+        "programmeType": "MSU",
+        "title": "Jack Irish",
+        "summary": "Australian drama starring Guy Pearce as Jack Irish, an ex-lawyer whose life has descended into debt collection and beer. But a surprise encounter opens up a new career as a private investigator.",
+        "shortSummary": "Tense Australian drama starring Guy Pearce as an unlikely private investigator",
+        "allEpisodesCount": 16,
+        "allSeriesCount": 3,
+        "onDemandEpisodesCount": 0,
+        "earlyAccessEpisodesCount": undefined,
+        "categories": [{
+          "id": "drama",
+          "displayName": "Drama",
+          "categoryPath": "https:\u002F\u002Fwww.channel4.com\u002Fcategories\u002Fdrama",
+          "source": "brandhub::textlink::|::drama||"
+        }],
+        "brandInfo": "",
+        "episodeOrder": "first_series_first_episode",
+        "isInMyList": false,
+        "hasGuidance": false,
+        "hasSubtitles": true,
+        "hasHD": true,
+        "hasAD": false,
+        "images": {
+          "hero": {
+            "landscape": {
+              "src": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish\u002FA7A262CC-DBD7-490A-BE9DCA839524CC20.jpg?imformat=chrome",
+              "alt": "Jack_Irish_Brand_1920x1080",
+              "type": "image\u002Fjpeg"
+            },
+            "portrait": {
+              "src": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish\u002F68B6098A-A6DB-411D-A799897A848E98FB.jpg?imformat=chrome",
+              "alt": "Jack_Irish_Brand_3000x3000",
+              "type": "image\u002Fjpeg"
+            }
+          },
+          "title": {
+            "landscape": {
+              "src": "https:\u002F\u002Fic.c4assets.com\u002Fbips\u002F22784966\u002FEFD7B4BB-9502-4d54-a0f9-30312faedf2f.png?imformat=chrome",
+              "alt": "",
+              "type": "image\u002Fpng"
+            },
+            "portrait": {
+              "src": "https:\u002F\u002Fic.c4assets.com\u002Fbips\u002F22784966\u002F84C2ABD7-38AF-48ab-b549-edde9a4120c4.png?imformat=chrome",
+              "alt": "",
+              "type": "image\u002Fpng"
+            }
+          }
+        },
+        "series": [{
+          "seriesNumber": 2016,
+          "title": "Series 1: Blind Faith",
+          "summary": "Australian drama starring Guy Pearce as Jack Irish, an ex-lawyer whose life has descended into debt collection and beer. But a surprise encounter opens up a new career as a private investigator."
+        }, {
+          "seriesNumber": 2018,
+          "title": "Series 2: Last Rites",
+          "summary": "While investigating the case of a missing foreign student he once knew, Jack delves into a murky criminal conspiracy involving an exorbitant - and very fishy - private international college"
+        }, {
+          "seriesNumber": 2021,
+          "title": "Series 3: Hell Bent",
+          "summary": "In the final series, Jack revisits the trauma of his wife Isabel's brutal and random murder - and discovers that there was much more to those fateful events all those years ago"
+        }],
+        "nextOnLabel": undefined,
+        "episodes": [{
+          "dateLabel": "First shown: Mon 17 Feb 2025",
+          "episodeNumber": 1,
+          "firstTXChannel": "C4",
+          "seriesNumber": 2016,
+          "image": {
+            "src": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish-yr-1---blind-faith-episode-1\u002FB97A98C8-D6E6-4080-A496A4A795A21E66.jpg?imformat=chrome",
+            "alt": "Jack_Irish_S1_Ep1_1920x1080",
+            "type": "image\u002Fjpeg"
+          },
+          "title": "Episode 1",
+          "fullTitle": "Episode 1",
+          "bottomText": "First shown: Mon 17 Feb 2025 | 55 mins",
+          "showPlayLabel": true,
+          "originalTitle": "Jack Irish",
+          "secondaryTitle": "",
+          "summary": "Jack’s work as a debt collector is seedy, and his girlfriend has left to report on a terrorist group in Manila. Then, out of nowhere, he finds purpose when he’s asked to track down a missing person.",
+          "description": "Just as his journalist girlfriend leaves, Jack finds new purpose as a private investigator",
+          "fullDescription": "Just as his journalist girlfriend leaves, Jack finds new purpose as a private investigator",
+          "programmeId": "77468-001",
+          "upgradeToPlay": {
+            "active": false,
+            "label": undefined
+          },
+          "showPlusIcon": false,
+          "hrefLink": "\u002Fprogrammes\u002Fjack-irish\u002Fon-demand\u002F77468-001",
+          "guidance": "Strong language, violence and nudity",
+          "hasSubtitles": true,
+          "hasAD": false,
+          "hasHD": true,
+          "durationLabel": "55 mins",
+          "assetId": "12137686",
+          "progressBar": {}
+        }, {
+          "dateLabel": "First shown: Mon 17 Feb 2025",
+          "episodeNumber": 2,
+          "firstTXChannel": "C4",
+          "seriesNumber": 2016,
+          "image": {
+            "src": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish-yr-1---blind-faith-episode-2\u002F9DE74669-9922-48D3-BBFA835CBCF14CE5.jpg?imformat=chrome",
+            "alt": "Jack_Irish_S1_Ep2_1920x1080",
+            "type": "image\u002Fjpeg"
+          },
+          "title": "Episode 2",
+          "fullTitle": "Episode 2",
+          "bottomText": "First shown: Mon 17 Feb 2025 | 55 mins",
+          "showPlayLabel": true,
+          "originalTitle": "Jack Irish",
+          "secondaryTitle": "",
+          "summary": "The bodies pile up as Jack helps the mystery woman who bailed him out of jail find her missing sister. In Manila, Linda tries to make contact with a renowned terrorist who's originally from Melbourne.",
+          "description": "Jack helps the mysterious woman who bailed him out of jail find her missing sister",
+          "fullDescription": "Jack helps the mysterious woman who bailed him out of jail find her missing sister",
+          "programmeId": "77468-002",
+          "upgradeToPlay": {
+            "active": false,
+            "label": undefined
+          },
+          "showPlusIcon": false,
+          "hrefLink": "\u002Fprogrammes\u002Fjack-irish\u002Fon-demand\u002F77468-002",
+          "guidance": "Strong language and violence",
+          "hasSubtitles": true,
+          "hasAD": false,
+          "hasHD": true,
+          "durationLabel": "55 mins",
+          "assetId": "12137675",
+          "progressBar": {}
+        }, {
+          "dateLabel": "First shown: Mon 17 Feb 2025",
+          "episodeNumber": 3,
+          "firstTXChannel": "C4",
+          "seriesNumber": 2016,
+          "image": {
+            "src": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish-yr-1---blind-faith-episode-3\u002FF9192722-E929-4AAD-9341ED2AC167A34E.jpg?imformat=chrome",
+            "alt": "Jack_Irish_S1_Ep3_1920x1080",
+            "type": "image\u002Fjpeg"
+          },
+          "title": "Episode 3",
+          "fullTitle": "Episode 3",
+          "bottomText": "First shown: Mon 17 Feb 2025 | 58 mins",
+          "showPlayLabel": true,
+          "originalTitle": "Jack Irish",
+          "secondaryTitle": "",
+          "summary": "With links between Jack’s framing and a cult-like mega-church growing increasingly obvious, Jack and Sarah set out to talk to Pastor Rob, the organisation’s creepy leader",
+          "description": "Jack and Sarah set out to talk to the leader of a cult-like church about Jack being framed",
+          "fullDescription": "Jack and Sarah set out to talk to the leader of a cult-like church about Jack being framed",
+          "programmeId": "77468-003",
+          "upgradeToPlay": {
+            "active": false,
+            "label": undefined
+          },
+          "showPlusIcon": false,
+          "hrefLink": "\u002Fprogrammes\u002Fjack-irish\u002Fon-demand\u002F77468-003",
+          "guidance": "Strong language and violence",
+          "hasSubtitles": true,
+          "hasAD": false,
+          "hasHD": true,
+          "durationLabel": "58 mins",
+          "assetId": "12137679",
+          "progressBar": {}
+        }, {
+          "dateLabel": "First shown: Mon 17 Feb 2025",
+          "episodeNumber": 4,
+          "firstTXChannel": "C4",
+          "seriesNumber": 2016,
+          "image": {
+            "src": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish-yr-1---blind-faith-episode-4\u002F0E7C1AF9-784F-47B9-B8BA6D3014588B11.jpg?imformat=chrome",
+            "alt": "Jack_Irish_S1_Ep4_1920x1080",
+            "type": "image\u002Fjpeg"
+          },
+          "title": "Episode 4",
+          "fullTitle": "Episode 4",
+          "bottomText": "First shown: Mon 17 Feb 2025 | 56 mins",
+          "showPlayLabel": true,
+          "originalTitle": "Jack Irish",
+          "secondaryTitle": "",
+          "summary": "Jack discovers a solid lead linking Pastor Rob’s church with the terrorist group in the Philippines. Meanwhile, Sarah is consumed by vengeance.",
+          "description": "Jack discovers a solid lead linking Pastor Rob’s church with the terrorist group in Manila",
+          "fullDescription": "Jack discovers a solid lead linking Pastor Rob’s church with the terrorist group in Manila",
+          "programmeId": "77468-004",
+          "upgradeToPlay": {
+            "active": false,
+            "label": undefined
+          },
+          "showPlusIcon": false,
+          "hrefLink": "\u002Fprogrammes\u002Fjack-irish\u002Fon-demand\u002F77468-004",
+          "guidance": "Strong language and violence",
+          "hasSubtitles": true,
+          "hasAD": false,
+          "hasHD": true,
+          "durationLabel": "56 mins",
+          "assetId": "12137691",
+          "progressBar": {}
+        }, {
+          "dateLabel": "First shown: Mon 17 Feb 2025",
+          "episodeNumber": 5,
+          "firstTXChannel": "C4",
+          "seriesNumber": 2016,
+          "image": {
+            "src": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish-yr-1---blind-faith-episode-5\u002F10096ACA-0307-4999-86B76BBA2FA53C41.jpg?imformat=chrome",
+            "alt": "Jack_Irish_S1_Ep5_1920x1080",
+            "type": "image\u002Fjpeg"
+          },
+          "title": "Episode 5",
+          "fullTitle": "Episode 5",
+          "bottomText": "First shown: Mon 17 Feb 2025 | 54 mins",
+          "showPlayLabel": true,
+          "originalTitle": "Jack Irish",
+          "secondaryTitle": "",
+          "summary": "Linda returns to Melbourne to comfort Jack, who’s distraught following the workshop explosion. He sends her away, but as soon as she lands back in Manila, she’s abducted.",
+          "description": "After an ill-fated trip home to comfort Jack, Linda gets abducted on her return to Manila",
+          "fullDescription": "After an ill-fated trip home to comfort Jack, Linda gets abducted on her return to Manila",
+          "programmeId": "77468-005",
+          "upgradeToPlay": {
+            "active": false,
+            "label": undefined
+          },
+          "showPlusIcon": false,
+          "hrefLink": "\u002Fprogrammes\u002Fjack-irish\u002Fon-demand\u002F77468-005",
+          "guidance": "Strong language and violence",
+          "hasSubtitles": true,
+          "hasAD": false,
+          "hasHD": true,
+          "durationLabel": "54 mins",
+          "assetId": "12137705",
+          "progressBar": {}
+        }, {
+          "dateLabel": "First shown: Mon 17 Feb 2025",
+          "episodeNumber": 6,
+          "firstTXChannel": "C4",
+          "seriesNumber": 2016,
+          "image": {
+            "src": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish-yr-1---blind-faith-episode-6\u002F1FB61253-81F7-4EF3-804D6C8C4255AD84.jpg?imformat=chrome",
+            "alt": "Jack_Irish_S1_Ep6_1920x1080",
+            "type": "image\u002Fjpeg"
+          },
+          "title": "Episode 6",
+          "fullTitle": "Episode 6",
+          "bottomText": "First shown: Mon 17 Feb 2025 | 54 mins",
+          "showPlayLabel": true,
+          "originalTitle": "Jack Irish",
+          "secondaryTitle": "",
+          "summary": "Jack uncovers the truth about The Way of the Cross and sets out to stop the people behind the vicious group. In the Philippines, Linda finally comes face-to-face with terrorist leader Hadji Adhib.",
+          "description": "The secret behind Pastor Rob’s church is out. Can Jack stop the people behind it?",
+          "fullDescription": "The secret behind Pastor Rob’s church is out. Can Jack stop the people behind it?",
+          "programmeId": "77468-006",
+          "upgradeToPlay": {
+            "active": false,
+            "label": undefined
+          },
+          "showPlusIcon": false,
+          "hrefLink": "\u002Fprogrammes\u002Fjack-irish\u002Fon-demand\u002F77468-006",
+          "guidance": "Strong language, violence and graphic images",
+          "hasSubtitles": true,
+          "hasAD": false,
+          "hasHD": true,
+          "durationLabel": "54 mins",
+          "assetId": "12137710",
+          "progressBar": {}
+        }, {
+          "dateLabel": "First shown: Mon 17 Feb 2025",
+          "episodeNumber": 1,
+          "firstTXChannel": "C4",
+          "seriesNumber": 2018,
+          "image": {
+            "src": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish-yr-2---last-rites-the-last-post\u002FFF034132-AD42-4A98-A0DB499FAFF486AE.jpg?imformat=chrome",
+            "alt": "JackIrish_S2_Ep1_1920x1080",
+            "type": "image\u002Fjpeg"
+          },
+          "title": "Episode 1",
+          "fullTitle": "Episode 1",
+          "bottomText": "First shown: Mon 17 Feb 2025 | 58 mins",
+          "showPlayLabel": true,
+          "originalTitle": "Jack Irish",
+          "secondaryTitle": "",
+          "summary": "Jack's back practising law. But the mundanity of the 9-to-5 doesn't cut it, and he soon finds himself embroiled in the case of a foreign student who disappeared three years earlier.",
+          "description": "Jack becomes embroiled in the case of a foreign student who vanished three years earlier",
+          "fullDescription": "Jack becomes embroiled in the case of a foreign student who vanished three years earlier",
+          "programmeId": "77469-001",
+          "upgradeToPlay": {
+            "active": false,
+            "label": undefined
+          },
+          "showPlusIcon": false,
+          "hrefLink": "\u002Fprogrammes\u002Fjack-irish\u002Fon-demand\u002F77469-001",
+          "guidance": "Strong language and violence",
+          "hasSubtitles": true,
+          "hasAD": false,
+          "hasHD": true,
+          "durationLabel": "58 mins",
+          "assetId": "12137715",
+          "progressBar": {}
+        }, {
+          "dateLabel": "First shown: Mon 17 Feb 2025",
+          "episodeNumber": 2,
+          "firstTXChannel": "C4",
+          "seriesNumber": 2018,
+          "image": {
+            "src": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish-yr-2---last-rites-deal-with-the-dead\u002FB54D042E-5DD1-4C51-99B8E509C9F3BF72.jpg?imformat=chrome",
+            "alt": "JackIrish_S2_Ep2_1920x1080",
+            "type": "image\u002Fjpeg"
+          },
+          "title": "Episode 2",
+          "fullTitle": "Episode 2",
+          "bottomText": "First shown: Mon 17 Feb 2025 | 55 mins",
+          "showPlayLabel": true,
+          "originalTitle": "Jack Irish",
+          "secondaryTitle": "",
+          "summary": "Now with two deaths to investigate, Jack learns that a group of international students were deported the day after Lakshmi died. And then he receives a terrifying warning...",
+          "description": "Now with two deaths to investigate, Jack receives a terrifying warning...",
+          "fullDescription": "Now with two deaths to investigate, Jack receives a terrifying warning...",
+          "programmeId": "77469-002",
+          "upgradeToPlay": {
+            "active": false,
+            "label": undefined
+          },
+          "showPlusIcon": false,
+          "hrefLink": "\u002Fprogrammes\u002Fjack-irish\u002Fon-demand\u002F77469-002",
+          "guidance": "Strong language and violence",
+          "hasSubtitles": true,
+          "hasAD": false,
+          "hasHD": true,
+          "durationLabel": "55 mins",
+          "assetId": "12137727",
+          "progressBar": {}
+        }, {
+          "dateLabel": "First shown: Mon 17 Feb 2025",
+          "episodeNumber": 3,
+          "firstTXChannel": "C4",
+          "seriesNumber": 2018,
+          "image": {
+            "src": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish-yr-2---last-rites-from-the-ashes\u002F5B77FE17-4275-424F-858027DD769977A4.jpg?imformat=chrome",
+            "alt": "JackIrish_S2_Ep3_1920x1080",
+            "type": "image\u002Fjpeg"
+          },
+          "title": "Episode 3",
+          "fullTitle": "Episode 3",
+          "bottomText": "First shown: Mon 17 Feb 2025 | 56 mins",
+          "showPlayLabel": true,
+          "originalTitle": "Jack Irish",
+          "secondaryTitle": "",
+          "summary": "Lakshmi's father is determined to find his daughter's remains - but the college's slimy principal isn't to be trusted. Jack visits a former student in prison who's been arrested for terrorism.",
+          "description": "Jack visits a former student who was set to be deported, but is now in jail for terrorism",
+          "fullDescription": "Jack visits a former student who was set to be deported, but is now in jail for terrorism",
+          "programmeId": "77469-003",
+          "upgradeToPlay": {
+            "active": false,
+            "label": undefined
+          },
+          "showPlusIcon": false,
+          "hrefLink": "\u002Fprogrammes\u002Fjack-irish\u002Fon-demand\u002F77469-003",
+          "guidance": "Strong language, violence and sexual scenes",
+          "hasSubtitles": true,
+          "hasAD": false,
+          "hasHD": true,
+          "durationLabel": "56 mins",
+          "assetId": "12137729",
+          "progressBar": {}
+        }, {
+          "dateLabel": "First shown: Mon 17 Feb 2025",
+          "episodeNumber": 4,
+          "firstTXChannel": "C4",
+          "seriesNumber": 2018,
+          "image": {
+            "src": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish-yr-2---last-rites-the-a-list\u002F4CEF9715-C6E2-4D00-8332184125187C3E.jpg?imformat=chrome",
+            "alt": "JackIrish_S2_Ep4_1920x1080",
+            "type": "image\u002Fjpeg"
+          },
+          "title": "Episode 4",
+          "fullTitle": "Episode 4",
+          "bottomText": "First shown: Mon 17 Feb 2025 | 57 mins",
+          "showPlayLabel": true,
+          "originalTitle": "Jack Irish",
+          "secondaryTitle": "",
+          "summary": "Linda, now working the case on the ground in Mumbai, discovers that half of Lakshmi and Eddie's classmates are dead. Back in Melbourne, Jack does some digging to find out why.",
+          "description": "Linda, working the case in Mumbai, discovers that half of the college's students are dead",
+          "fullDescription": "Linda, working the case in Mumbai, discovers that half of the college's students are dead",
+          "programmeId": "77469-004",
+          "upgradeToPlay": {
+            "active": false,
+            "label": undefined
+          },
+          "showPlusIcon": false,
+          "hrefLink": "\u002Fprogrammes\u002Fjack-irish\u002Fon-demand\u002F77469-004",
+          "guidance": "Strong language and violence",
+          "hasSubtitles": true,
+          "hasAD": false,
+          "hasHD": true,
+          "durationLabel": "57 mins",
+          "assetId": "12137724",
+          "progressBar": {}
+        }, {
+          "dateLabel": "First shown: Mon 17 Feb 2025",
+          "episodeNumber": 5,
+          "firstTXChannel": "C4",
+          "seriesNumber": 2018,
+          "image": {
+            "src": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish-yr-2---last-rites-sins-of-omission\u002F8A5A492B-D738-42C4-AFDB9818B95B72B9.jpg?imformat=chrome",
+            "alt": "JackIrish_S2_Ep5_1920x1080",
+            "type": "image\u002Fjpeg"
+          },
+          "title": "Episode 5",
+          "fullTitle": "Episode 5",
+          "bottomText": "First shown: Mon 17 Feb 2025 | 56 mins",
+          "showPlayLabel": true,
+          "originalTitle": "Jack Irish",
+          "secondaryTitle": "",
+          "summary": "As Jack edges closer to the truth, the college is shut down and the principal does a runner. But a new lead arrives when Jack visits the building that Javed attacked.",
+          "description": "As Jack edges closer to the truth, the college is shut down and the principal flees",
+          "fullDescription": "As Jack edges closer to the truth, the college is shut down and the principal flees",
+          "programmeId": "77469-005",
+          "upgradeToPlay": {
+            "active": false,
+            "label": undefined
+          },
+          "showPlusIcon": false,
+          "hrefLink": "\u002Fprogrammes\u002Fjack-irish\u002Fon-demand\u002F77469-005",
+          "guidance": "Strong and offensive language and violence",
+          "hasSubtitles": true,
+          "hasAD": false,
+          "hasHD": true,
+          "durationLabel": "56 mins",
+          "assetId": "12137723",
+          "progressBar": {}
+        }, {
+          "dateLabel": "First shown: Mon 17 Feb 2025",
+          "episodeNumber": 6,
+          "firstTXChannel": "C4",
+          "seriesNumber": 2018,
+          "image": {
+            "src": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish-yr-2---last-rites-returning-home\u002FE7D5079F-DFD9-44DE-9D933B42FB0AD3AB.jpg?imformat=chrome",
+            "alt": "JackIrish_S2_Ep6_1920x1080",
+            "type": "image\u002Fjpeg"
+          },
+          "title": "Episode 6",
+          "fullTitle": "Episode 6",
+          "bottomText": "First shown: Mon 17 Feb 2025 | 56 mins",
+          "showPlayLabel": true,
+          "originalTitle": "Jack Irish",
+          "secondaryTitle": "",
+          "summary": "Jack and Linda converge on a pharmaceutical company with some damning evidence about its new drug. But the path to justice is dramatically blocked by Rory and Thornton.",
+          "description": "Jack and Linda risk their lives as they converge on a shady pharmaceutical company",
+          "fullDescription": "Jack and Linda risk their lives as they converge on a shady pharmaceutical company",
+          "programmeId": "77469-006",
+          "upgradeToPlay": {
+            "active": false,
+            "label": undefined
+          },
+          "showPlusIcon": false,
+          "hrefLink": "\u002Fprogrammes\u002Fjack-irish\u002Fon-demand\u002F77469-006",
+          "guidance": "Strong language and violence",
+          "hasSubtitles": true,
+          "hasAD": false,
+          "hasHD": true,
+          "durationLabel": "56 mins",
+          "assetId": "12137728",
+          "progressBar": {}
+        }, {
+          "dateLabel": "First shown: Mon 17 Feb 2025",
+          "episodeNumber": 1,
+          "firstTXChannel": "C4",
+          "seriesNumber": 2021,
+          "image": {
+            "src": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish-yr-3---hell-bent-episode-1\u002FAE1DE0DF-2380-4F54-9237752744516162.jpg?imformat=chrome",
+            "alt": "JackIrish_S3_Ep1_1920x1080",
+            "type": "image\u002Fjpeg"
+          },
+          "title": "Episode 1",
+          "fullTitle": "Episode 1",
+          "bottomText": "First shown: Mon 17 Feb 2025 | 53 mins",
+          "showPlayLabel": true,
+          "originalTitle": "Jack Irish",
+          "secondaryTitle": "",
+          "summary": "After the execution-style death of an off-duty cop, homicide detective Barry Tregear calls in a favour with Jack, leading him on the path to uncovering a buried truth about his murdered wife",
+          "description": "Jack uncovers a connection between an executed cop and his own wife's savage murder",
+          "fullDescription": "Jack uncovers a connection between an executed cop and his own wife's savage murder",
+          "programmeId": "77470-001",
+          "upgradeToPlay": {
+            "active": false,
+            "label": undefined
+          },
+          "showPlusIcon": false,
+          "hrefLink": "\u002Fprogrammes\u002Fjack-irish\u002Fon-demand\u002F77470-001",
+          "guidance": "Strong language and violence",
+          "hasSubtitles": true,
+          "hasAD": false,
+          "hasHD": true,
+          "durationLabel": "53 mins",
+          "assetId": "12137735",
+          "progressBar": {}
+        }, {
+          "dateLabel": "First shown: Mon 17 Feb 2025",
+          "episodeNumber": 2,
+          "firstTXChannel": "C4",
+          "seriesNumber": 2021,
+          "image": {
+            "src": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish-yr-3---hell-bent-episode-2\u002FA2A0C2F2-553A-4D0D-B5A7A24445AF12C4.jpg?imformat=chrome",
+            "alt": "JackIrish_S3_Ep2_1920x1080",
+            "type": "image\u002Fjpeg"
+          },
+          "title": "Episode 2",
+          "fullTitle": "Episode 2",
+          "bottomText": "First shown: Mon 17 Feb 2025 | 54 mins",
+          "showPlayLabel": true,
+          "originalTitle": "Jack Irish",
+          "secondaryTitle": "",
+          "summary": "Fuelled by grief, Jack tracks down Linda to ask her to help investigate Isabel's death. Meanwhile, another police officer turns up dead.",
+          "description": "Jack tracks down Linda to ask for her help. Another cop turns up dead.",
+          "fullDescription": "Jack tracks down Linda to ask for her help. Another cop turns up dead.",
+          "programmeId": "77470-002",
+          "upgradeToPlay": {
+            "active": false,
+            "label": undefined
+          },
+          "showPlusIcon": false,
+          "hrefLink": "\u002Fprogrammes\u002Fjack-irish\u002Fon-demand\u002F77470-002",
+          "guidance": "Strong language and violence from the start",
+          "hasSubtitles": true,
+          "hasAD": false,
+          "hasHD": true,
+          "durationLabel": "54 mins",
+          "assetId": "12137743",
+          "progressBar": {}
+        }, {
+          "dateLabel": "First shown: Mon 17 Feb 2025",
+          "episodeNumber": 3,
+          "firstTXChannel": "C4",
+          "seriesNumber": 2021,
+          "image": {
+            "src": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish-yr-3---hell-bent-episode-3\u002FEF0B79DA-C7C4-4F7D-8FA82F5E14F30274.jpg?imformat=chrome",
+            "alt": "JackIrish_S3_Ep3_1920x1080",
+            "type": "image\u002Fjpeg"
+          },
+          "title": "Episode 3",
+          "fullTitle": "Episode 3",
+          "bottomText": "First shown: Mon 17 Feb 2025 | 55 mins",
+          "showPlayLabel": true,
+          "originalTitle": "Jack Irish",
+          "secondaryTitle": "",
+          "summary": "Jack and Linda are certain they know who the killer on the loose is, and Jack just needs to track him down. But he didn't count on the killer finding him first...",
+          "description": "Jack needs to track the killer down. But he didn't count on the killer finding him first.",
+          "fullDescription": "Jack needs to track the killer down. But he didn't count on the killer finding him first.",
+          "programmeId": "77470-003",
+          "upgradeToPlay": {
+            "active": false,
+            "label": undefined
+          },
+          "showPlusIcon": false,
+          "hrefLink": "\u002Fprogrammes\u002Fjack-irish\u002Fon-demand\u002F77470-003",
+          "guidance": "",
+          "hasSubtitles": true,
+          "hasAD": false,
+          "hasHD": true,
+          "durationLabel": "55 mins",
+          "assetId": "12137731",
+          "progressBar": {}
+        }, {
+          "dateLabel": "First shown: Mon 17 Feb 2025",
+          "episodeNumber": 4,
+          "firstTXChannel": "C4",
+          "seriesNumber": 2021,
+          "image": {
+            "src": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish-yr-3---hell-bent-episode-4\u002F7BB0E3FB-9689-438C-9AD1B145EC5C92D7.jpg?imformat=chrome",
+            "alt": "JackIrish_S3_Ep4_1920x1080",
+            "type": "image\u002Fjpeg"
+          },
+          "title": "Episode 4",
+          "fullTitle": "Episode 4",
+          "bottomText": "First shown: Mon 17 Feb 2025 | 58 mins",
+          "showPlayLabel": true,
+          "originalTitle": "Jack Irish",
+          "secondaryTitle": "",
+          "summary": "With his life very quickly spiralling out of control and his loved ones leaving him, Jack makes an astonishing - and extremely dangerous - breakthrough",
+          "description": "With his life falling apart, Jack makes an astonishing - and dangerous - breakthrough",
+          "fullDescription": "With his life falling apart, Jack makes an astonishing - and dangerous - breakthrough",
+          "programmeId": "77470-004",
+          "upgradeToPlay": {
+            "active": false,
+            "label": undefined
+          },
+          "showPlusIcon": false,
+          "hrefLink": "\u002Fprogrammes\u002Fjack-irish\u002Fon-demand\u002F77470-004",
+          "guidance": "Strong language and violence",
+          "hasSubtitles": true,
+          "hasAD": false,
+          "hasHD": true,
+          "durationLabel": "58 mins",
+          "assetId": "12137738",
+          "progressBar": {}
+        }],
+        "fwProgrammeId": "77470\u002F004",
+        "helpMessage": {
+          "title": "Affected by issues in the show?",
+          "linkText": "Visit 4Viewers",
+          "url": "http:\u002F\u002Fwww.channel4.com\u002F4viewers\u002Fhelp-support"
+        }
+      },
+      "pageData": {
+        "summary": "Australian drama starring Guy Pearce as Jack Irish, an ex-lawyer whose life has descended into debt collection and beer. But a surprise encounter opens up a new career as a private investigator.",
+        "theme": "c4",
+        "title": "Jack Irish"
+      },
+      "recommendationsData": {
+        "items": [{
+          "imageLink": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fthe-cane-field-killings\u002FA92E6C54-AFBF-4242-894F50D746F9E1FB.jpg?imformat=chrome",
+          "labelText": "The Cane Field Killings",
+          "altText": "The Cane Field Killings",
+          "overlayText": "Crime drama starring Kim Engelbrecht and Iain Glen. Reyka and a new team are chasing down a serial killer in South Africa's busiest port in Durban. But someone from her past is stalking her...",
+          "hrefLink": "\u002Fprogrammes\u002Fthe-cane-field-killings",
+          "showExclusiveContentFlag": false,
+          "watchSeriesEarlyLabelText": "",
+          "expandedTile": {
+            "title": "The Cane Field Killings",
+            "summary": "Crime drama starring Kim Engelbrecht and Iain Glen. Reyka and a new team are chasing down a serial killer in South Africa's busiest port in Durban. But someone from her past is stalking her...",
+            "genres": ["Drama", "Crime"],
+            "availableContent": "2 series"
+          }
+        }, {
+          "imageLink": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fsuspect\u002FFC3F4AD2-0F9F-4E4E-811BD677CEF803CF.jpg?imformat=chrome",
+          "labelText": "Suspect",
+          "altText": "Suspect",
+          "overlayText": "Psychological drama starring Anne-Marie Duff and James Nesbitt. A veteran detective and his psychotherapist ex-wife each face an agonising mission to uncover the truth about their daughter's death.",
+          "hrefLink": "\u002Fprogrammes\u002Fsuspect",
+          "showExclusiveContentFlag": false,
+          "watchSeriesEarlyLabelText": "",
+          "expandedTile": {
+            "title": "Suspect",
+            "summary": "Psychological drama starring Anne-Marie Duff and James Nesbitt. A veteran detective and his psychotherapist ex-wife each face an agonising mission to uncover the truth about their daughter's death.",
+            "genres": ["Drama", "Crime"],
+            "availableContent": "2 series"
+          }
+        }, {
+          "imageLink": "https:\u002F\u002Fic.c4assets.com\u002Fbrands\u002Fthe-killing\u002Ff861b716-f635-470f-ab0a-8d6128c77219.jpg?imformat=chrome",
+          "labelText": "The Killing",
+          "altText": "The Killing",
+          "overlayText": "Absorbing US crime thriller. Two detectives attempt to untangle a dark, twisting mystery after a 17-year-old girl is murdered in Seattle. Starring Mireille Enos, Joel Kinnaman and Peter Sarsgaard.",
+          "hrefLink": "\u002Fprogrammes\u002Fthe-killing",
+          "showExclusiveContentFlag": false,
+          "watchSeriesEarlyLabelText": "",
+          "expandedTile": {
+            "title": "The Killing",
+            "summary": "Absorbing US crime thriller. Two detectives attempt to untangle a dark, twisting mystery after a 17-year-old girl is murdered in Seattle. Starring Mireille Enos, Joel Kinnaman and Peter Sarsgaard.",
+            "genres": ["Drama", "Crime"],
+            "availableContent": "4 series"
+          }
+        }, {
+          "imageLink": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fthe-sommerdahl-murders\u002F4EEBAB63-FBC1-4122-81C4398D908C94FB.jpg?imformat=chrome",
+          "labelText": "The Sommerdahl Murders",
+          "altText": "The Sommerdahl Murders",
+          "overlayText": "Touching Danish crime drama from Walter Presents. Police detective Dan Sommerdahl investigates crime in an idyllic seaside town. What effect does his work obsession have on his personal life?",
+          "hrefLink": "\u002Fprogrammes\u002Fthe-sommerdahl-murders",
+          "showExclusiveContentFlag": false,
+          "watchSeriesEarlyLabelText": "",
+          "expandedTile": {
+            "title": "The Sommerdahl Murders",
+            "summary": "Touching Danish crime drama from Walter Presents. Police detective Dan Sommerdahl investigates crime in an idyllic seaside town. What effect does his work obsession have on his personal life?",
+            "genres": ["World-Drama", "Drama", "Crime"],
+            "availableContent": "1 series"
+          }
+        }, {
+          "imageLink": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fwhite-lies\u002F6D64215C-C434-4635-823E2868BC6436D8.jpg?imformat=chrome",
+          "labelText": "White Lies",
+          "altText": "White Lies",
+          "overlayText": "South African crime drama starring Natalie Dormer, set in a well-to-do Cape Town suburb",
+          "hrefLink": "\u002Fprogrammes\u002Fwhite-lies",
+          "showExclusiveContentFlag": false,
+          "watchSeriesEarlyLabelText": "",
+          "expandedTile": {
+            "title": "White Lies",
+            "summary": "South African crime drama starring Natalie Dormer, set in a well-to-do Cape Town suburb",
+            "genres": ["Drama", "Crime"],
+            "availableContent": "1 series"
+          }
+        }, {
+          "imageLink": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fpatience-drama\u002FF7BEA81A-2C98-4F24-874BC7A30A55D7B2.jpg?imformat=chrome",
+          "labelText": "Patience",
+          "altText": "Patience",
+          "overlayText": "Intriguing crime drama set in York with Laura Fraser and Ella Maisy Purvis. Talented autistic archivist Patience enters an unpredictable world when detective Bea spots her unique crime-solving skills.",
+          "hrefLink": "\u002Fprogrammes\u002Fpatience",
+          "showExclusiveContentFlag": false,
+          "watchSeriesEarlyLabelText": "",
+          "expandedTile": {
+            "title": "Patience",
+            "summary": "Intriguing crime drama set in York with Laura Fraser and Ella Maisy Purvis. Talented autistic archivist Patience enters an unpredictable world when detective Bea spots her unique crime-solving skills.",
+            "genres": ["Drama", "Crime"],
+            "availableContent": "1 series"
+          }
+        }, {
+          "imageLink": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fastrid-murder-in-paris\u002F0DE304CB-C1F7-4F05-8E71AE8F3A48B3FE.jpg?imformat=chrome",
+          "labelText": "Astrid: Murder in Paris",
+          "altText": "Astrid: Murder in Paris",
+          "overlayText": "Intriguing French crime drama from Walter Presents. Rule-breaking detective Raphaëlle Coste and autistic archivist Astrid Nielsen work together to investigate puzzling crimes.",
+          "hrefLink": "\u002Fprogrammes\u002Fastrid-murder-in-paris",
+          "showExclusiveContentFlag": false,
+          "watchSeriesEarlyLabelText": "",
+          "expandedTile": {
+            "title": "Astrid: Murder in Paris",
+            "summary": "Intriguing French crime drama from Walter Presents. Rule-breaking detective Raphaëlle Coste and autistic archivist Astrid Nielsen work together to investigate puzzling crimes.",
+            "genres": ["World-Drama", "Drama", "Crime"],
+            "availableContent": "5 series"
+          }
+        }, {
+          "imageLink": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fbordertown\u002F9049B1A1-6E26-42CD-8B82C87F93476282.jpg?imformat=chrome",
+          "labelText": "Bordertown",
+          "altText": "Bordertown",
+          "overlayText": "Sharp Finnish crime drama from Walter Presents. Detective Kari Sorjonen and his family move to a town on the border with Russia, hoping for a quiet life. But then the bodies start piling up...",
+          "hrefLink": "\u002Fprogrammes\u002Fbordertown",
+          "showExclusiveContentFlag": false,
+          "watchSeriesEarlyLabelText": "",
+          "expandedTile": {
+            "title": "Bordertown",
+            "summary": "Sharp Finnish crime drama from Walter Presents. Detective Kari Sorjonen and his family move to a town on the border with Russia, hoping for a quiet life. But then the bodies start piling up...",
+            "genres": ["World-Drama", "Drama", "Crime"],
+            "availableContent": "1 series"
+          }
+        }],
+        "mvt": {
+          "userAction": [{
+            "action": "page_interaction",
+            "eventKeyPrefix": "click"
+          }, {
+            "action": "video_view",
+            "eventKeyPrefix": "video_view"
+          }, {
+            "action": "video_completion",
+            "eventKeyPrefix": "video_completion"
+          }],
+          "eventKey": ["_brandhub", "_brandhub_recommendations"]
+        },
+        "title": "More Like This"
+      },
+      "moreAboutThisProgrammeData": {
+        "items": [],
+        "title": ""
+      },
+      "selectedEpisode": {
+        "dateLabel": "First shown: Mon 17 Feb 2025",
+        "episodeNumber": 1,
+        "firstTXChannel": "C4",
+        "seriesNumber": 2016,
+        "image": {
+          "src": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish-yr-1---blind-faith-episode-1\u002FB97A98C8-D6E6-4080-A496A4A795A21E66.jpg?imformat=chrome",
+          "alt": "Jack_Irish_S1_Ep1_1920x1080",
+          "type": "image\u002Fjpeg"
+        },
+        "title": "Episode 1",
+        "fullTitle": "Episode 1",
+        "bottomText": "First shown: Mon 17 Feb 2025 | 55 mins",
+        "showPlayLabel": true,
+        "originalTitle": "Jack Irish",
+        "secondaryTitle": "",
+        "summary": "Jack’s work as a debt collector is seedy, and his girlfriend has left to report on a terrorist group in Manila. Then, out of nowhere, he finds purpose when he’s asked to track down a missing person.",
+        "description": "Just as his journalist girlfriend leaves, Jack finds new purpose as a private investigator",
+        "fullDescription": "Just as his journalist girlfriend leaves, Jack finds new purpose as a private investigator",
+        "programmeId": "77468-001",
+        "upgradeToPlay": {
+          "active": false,
+          "label": undefined
+        },
+        "showPlusIcon": false,
+        "hrefLink": "\u002Fprogrammes\u002Fjack-irish\u002Fon-demand\u002F77468-001",
+        "guidance": "Strong language, violence and nudity",
+        "hasSubtitles": true,
+        "hasAD": false,
+        "hasHD": true,
+        "durationLabel": "55 mins",
+        "assetId": "12137686",
+        "progressBar": {}
+      },
+      "selectedEpisodeSeries": {
+        "seriesNumber": 2016,
+        "title": "Series 1: Blind Faith",
+        "summary": "Australian drama starring Guy Pearce as Jack Irish, an ex-lawyer whose life has descended into debt collection and beer. But a surprise encounter opens up a new career as a private investigator."
+      },
+      "action": {
+        "type": "PLAY_NEXT_EPISODE",
+        "title": "Sign in to play",
+        "secondaryTitle": "Episode 1",
+        "programmeId": "77468-001",
+        "progressBar": undefined,
+        "url": "https:\u002F\u002Fwww.channel4.com\u002Fprogrammes\u002Fjack-irish\u002Fon-demand\u002F77468-001",
+        "relativeUrl": "\u002Fprogrammes\u002Fjack-irish\u002Fon-demand\u002F77468-001",
+        "guidance": "Strong language, violence and nudity"
+      },
+      "isUserAuthenticated": false,
+      "ogTags": {
+        "title": "Jack Irish",
+        "type": "video.tv_show",
+        "description": "Tense Australian drama starring Guy Pearce as an unlikely private investigator",
+        "image": {
+          "url": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish\u002FA7A262CC-DBD7-490A-BE9DCA839524CC20.jpg?imformat=chrome&resize=1200px:*",
+          "type": "image\u002Fjpeg"
+        }
+      },
+      "jsonLDSchema": {
+        "@context": "http:\u002F\u002Fschema.org",
+        "name": "Jack Irish",
+        "description": "Tense Australian drama starring Guy Pearce as an unlikely private investigator",
+        "image": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish\u002FA7A262CC-DBD7-490A-BE9DCA839524CC20.jpg",
+        "genre": ["Drama", "Crime"],
+        "publisher": "Channel 4",
+        "@type": "TVSeries",
+        "numberOfSeasons": 3,
+        "url": "https:\u002F\u002Fwww.channel4.com\u002Fprogrammes\u002Fjack-irish",
+        "containsSeason": [{
+          "@type": "TVSeason",
+          "name": "Series 1: Blind Faith",
+          "description": "Australian drama starring Guy Pearce as Jack Irish, an ex-lawyer whose life has descended into debt collection and beer. But a surprise encounter opens up a new career as a private investigator.",
+          "position": 2016,
+          "numberOfEpisodes": 6
+        }, {
+          "@type": "TVSeason",
+          "name": "Series 2: Last Rites",
+          "description": "While investigating the case of a missing foreign student he once knew, Jack delves into a murky criminal conspiracy involving an exorbitant - and very fishy - private international college",
+          "position": 2018,
+          "numberOfEpisodes": 6
+        }, {
+          "@type": "TVSeason",
+          "name": "Series 3: Hell Bent",
+          "description": "In the final series, Jack revisits the trauma of his wife Isabel's brutal and random murder - and discovers that there was much more to those fateful events all those years ago",
+          "position": 2021,
+          "numberOfEpisodes": 4
+        }]
+      },
+      "all4PlusButtonConfig": undefined
+    },
+    "sumoLogic": {
+      "url": "https:\u002F\u002Fmonitor.channel4.com\u002Flogs\u002Fdotcom\u002Fclient\u002Fbrandhub",
+      "resource": "BRANDHUB",
+      "environment": "prod",
+      "enabled": "true"
+    },
+    "userId": null,
+    "playerEndpoint": "https:\u002F\u002Fwww.channel4.com\u002Fplayer\u002FplayerLoader.js?toBody=1&assetId=:assetId&brandWebSafeTitle=:brand&postponeTrackingUntilVisible=1",
+    "configUrls": {
+      "baseUrl": "https:\u002F\u002Fwww.channel4.com",
+      "episodeUrl": "\u002Fprogrammes\u002F:brand\u002Fon-demand\u002F:programmeId",
+      "identityUrl": "https:\u002F\u002Fwww.channel4.com\u002Fsign-in-or-register",
+      "brandUrl": "\u002Fprogrammes\u002F:brand",
+      "all4PlusUrl": "\u002Fplus",
+      "watchLiveUrl": "https:\u002F\u002Fwww.channel4.com\u002Fnow\u002F:channel",
+      "myListServiceUrl": "https:\u002F\u002Fwww.channel4.com\u002Fmy4\u002Fapi\u002Fv1\u002Fuser\u002Ffavourites\u002F"
+    },
+    "braze": {
+      "brazeSDKEndpointUrl": "sdk.fra-01.braze.eu",
+      "brazeSDKAPIKey": "2e1e6ac0-7468-40a8-bc2e-bc60be155231",
+      "brazeSDKEnabled": true,
+      "inAppMessagingEnabled": true,
+      "anonUsers": true
+    },
+    "mazeConfig": {
+      "mazeEnabled": true,
+      "mazeScriptUrl": "https:\u002F\u002Fsnippet.maze.co\u002Fmaze-universal-loader.js",
+      "mazeApiKey": "4f48c7e5-f420-4f3d-8fcf-810a018b62d4"
+    },
+    "hdEnabledFeature": true,
+    "turnOffPersonalisation": false,
+    "titleTreatmentsEnabled": true,
+    "mParticleConfig": {
+      "apiKey": "eu1-785e164941c9ed4880842cc0c6d6bf0c",
+      "developmentMode": "false",
+      "domainForCollectingEvents": "et.channel4.com",
+      "logLevel": "warning",
+      "planId": "main_data_plan",
+      "planVersion": 2
+    },
+    "appLink": {
+      "android": {
+        "appName": "Channel 4",
+        "package": "com.channel4.ondemand"
+      },
+      "ios": {
+        "appName": "Channel 4",
+        "appStoreId": "432494037"
+      }
+    },
+    "appContainerID": "app"
+  }
+</script>
+
+notes:
+======
+* window.__PARAMS__.initialData.brand.episodes.length === 16
+
+--------------------------------------------------------------------------------
+
+view-source:https://www.channel4.com/programmes/jack-irish/on-demand/77468-001
+
+<script>
+  window.__PARAMS__ = {
+    "initialData": {
+      "brand": {
+        "exclusive": undefined,
+        "websafeTitle": "jack-irish",
+        "presentationBrand": "channel4",
+        "programmeType": "MSU",
+        "title": "Jack Irish",
+        "summary": "Australian drama starring Guy Pearce as Jack Irish, an ex-lawyer whose life has descended into debt collection and beer. But a surprise encounter opens up a new career as a private investigator.",
+        "shortSummary": "Tense Australian drama starring Guy Pearce as an unlikely private investigator",
+        "allEpisodesCount": 16,
+        "allSeriesCount": 3,
+        "onDemandEpisodesCount": 0,
+        "earlyAccessEpisodesCount": undefined,
+        "categories": [{
+          "id": "drama",
+          "displayName": "Drama",
+          "categoryPath": "https:\u002F\u002Fwww.channel4.com\u002Fcategories\u002Fdrama",
+          "source": "brandhub::textlink::|::drama||"
+        }],
+        "brandInfo": "",
+        "episodeOrder": "first_series_first_episode",
+        "isInMyList": false,
+        "hasGuidance": false,
+        "hasSubtitles": true,
+        "hasHD": true,
+        "hasAD": false,
+        "images": {
+          "hero": {
+            "landscape": {
+              "src": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish\u002FA7A262CC-DBD7-490A-BE9DCA839524CC20.jpg?imformat=chrome",
+              "alt": "Jack_Irish_Brand_1920x1080",
+              "type": "image\u002Fjpeg"
+            },
+            "portrait": {
+              "src": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish\u002F68B6098A-A6DB-411D-A799897A848E98FB.jpg?imformat=chrome",
+              "alt": "Jack_Irish_Brand_3000x3000",
+              "type": "image\u002Fjpeg"
+            }
+          },
+          "title": {
+            "landscape": {
+              "src": "https:\u002F\u002Fic.c4assets.com\u002Fbips\u002F22784966\u002FEFD7B4BB-9502-4d54-a0f9-30312faedf2f.png?imformat=chrome",
+              "alt": "",
+              "type": "image\u002Fpng"
+            },
+            "portrait": {
+              "src": "https:\u002F\u002Fic.c4assets.com\u002Fbips\u002F22784966\u002F84C2ABD7-38AF-48ab-b549-edde9a4120c4.png?imformat=chrome",
+              "alt": "",
+              "type": "image\u002Fpng"
+            }
+          }
+        },
+        "series": [{
+          "seriesNumber": 2016,
+          "title": "Series 1: Blind Faith",
+          "summary": "Australian drama starring Guy Pearce as Jack Irish, an ex-lawyer whose life has descended into debt collection and beer. But a surprise encounter opens up a new career as a private investigator."
+        }, {
+          "seriesNumber": 2018,
+          "title": "Series 2: Last Rites",
+          "summary": "While investigating the case of a missing foreign student he once knew, Jack delves into a murky criminal conspiracy involving an exorbitant - and very fishy - private international college"
+        }, {
+          "seriesNumber": 2021,
+          "title": "Series 3: Hell Bent",
+          "summary": "In the final series, Jack revisits the trauma of his wife Isabel's brutal and random murder - and discovers that there was much more to those fateful events all those years ago"
+        }],
+        "nextOnLabel": undefined,
+        "episodes": [{
+          "dateLabel": "First shown: Mon 17 Feb 2025",
+          "episodeNumber": 1,
+          "firstTXChannel": "C4",
+          "seriesNumber": 2016,
+          "image": {
+            "src": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish-yr-1---blind-faith-episode-1\u002FB97A98C8-D6E6-4080-A496A4A795A21E66.jpg?imformat=chrome",
+            "alt": "Jack_Irish_S1_Ep1_1920x1080",
+            "type": "image\u002Fjpeg"
+          },
+          "title": "Episode 1",
+          "fullTitle": "Episode 1",
+          "bottomText": "First shown: Mon 17 Feb 2025 | 55 mins",
+          "showPlayLabel": true,
+          "originalTitle": "Jack Irish",
+          "secondaryTitle": "",
+          "summary": "Jack’s work as a debt collector is seedy, and his girlfriend has left to report on a terrorist group in Manila. Then, out of nowhere, he finds purpose when he’s asked to track down a missing person.",
+          "description": "Just as his journalist girlfriend leaves, Jack finds new purpose as a private investigator",
+          "fullDescription": "Just as his journalist girlfriend leaves, Jack finds new purpose as a private investigator",
+          "programmeId": "77468-001",
+          "upgradeToPlay": {
+            "active": false,
+            "label": undefined
+          },
+          "showPlusIcon": false,
+          "hrefLink": "\u002Fprogrammes\u002Fjack-irish\u002Fon-demand\u002F77468-001",
+          "guidance": "Strong language, violence and nudity",
+          "hasSubtitles": true,
+          "hasAD": false,
+          "hasHD": true,
+          "durationLabel": "55 mins",
+          "assetId": "12137686",
+          "progressBar": {}
+        }, {
+          "dateLabel": "First shown: Mon 17 Feb 2025",
+          "episodeNumber": 2,
+          "firstTXChannel": "C4",
+          "seriesNumber": 2016,
+          "image": {
+            "src": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish-yr-1---blind-faith-episode-2\u002F9DE74669-9922-48D3-BBFA835CBCF14CE5.jpg?imformat=chrome",
+            "alt": "Jack_Irish_S1_Ep2_1920x1080",
+            "type": "image\u002Fjpeg"
+          },
+          "title": "Episode 2",
+          "fullTitle": "Episode 2",
+          "bottomText": "First shown: Mon 17 Feb 2025 | 55 mins",
+          "showPlayLabel": true,
+          "originalTitle": "Jack Irish",
+          "secondaryTitle": "",
+          "summary": "The bodies pile up as Jack helps the mystery woman who bailed him out of jail find her missing sister. In Manila, Linda tries to make contact with a renowned terrorist who's originally from Melbourne.",
+          "description": "Jack helps the mysterious woman who bailed him out of jail find her missing sister",
+          "fullDescription": "Jack helps the mysterious woman who bailed him out of jail find her missing sister",
+          "programmeId": "77468-002",
+          "upgradeToPlay": {
+            "active": false,
+            "label": undefined
+          },
+          "showPlusIcon": false,
+          "hrefLink": "\u002Fprogrammes\u002Fjack-irish\u002Fon-demand\u002F77468-002",
+          "guidance": "Strong language and violence",
+          "hasSubtitles": true,
+          "hasAD": false,
+          "hasHD": true,
+          "durationLabel": "55 mins",
+          "assetId": "12137675",
+          "progressBar": {}
+        }, {
+          "dateLabel": "First shown: Mon 17 Feb 2025",
+          "episodeNumber": 3,
+          "firstTXChannel": "C4",
+          "seriesNumber": 2016,
+          "image": {
+            "src": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish-yr-1---blind-faith-episode-3\u002FF9192722-E929-4AAD-9341ED2AC167A34E.jpg?imformat=chrome",
+            "alt": "Jack_Irish_S1_Ep3_1920x1080",
+            "type": "image\u002Fjpeg"
+          },
+          "title": "Episode 3",
+          "fullTitle": "Episode 3",
+          "bottomText": "First shown: Mon 17 Feb 2025 | 58 mins",
+          "showPlayLabel": true,
+          "originalTitle": "Jack Irish",
+          "secondaryTitle": "",
+          "summary": "With links between Jack’s framing and a cult-like mega-church growing increasingly obvious, Jack and Sarah set out to talk to Pastor Rob, the organisation’s creepy leader",
+          "description": "Jack and Sarah set out to talk to the leader of a cult-like church about Jack being framed",
+          "fullDescription": "Jack and Sarah set out to talk to the leader of a cult-like church about Jack being framed",
+          "programmeId": "77468-003",
+          "upgradeToPlay": {
+            "active": false,
+            "label": undefined
+          },
+          "showPlusIcon": false,
+          "hrefLink": "\u002Fprogrammes\u002Fjack-irish\u002Fon-demand\u002F77468-003",
+          "guidance": "Strong language and violence",
+          "hasSubtitles": true,
+          "hasAD": false,
+          "hasHD": true,
+          "durationLabel": "58 mins",
+          "assetId": "12137679",
+          "progressBar": {}
+        }, {
+          "dateLabel": "First shown: Mon 17 Feb 2025",
+          "episodeNumber": 4,
+          "firstTXChannel": "C4",
+          "seriesNumber": 2016,
+          "image": {
+            "src": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish-yr-1---blind-faith-episode-4\u002F0E7C1AF9-784F-47B9-B8BA6D3014588B11.jpg?imformat=chrome",
+            "alt": "Jack_Irish_S1_Ep4_1920x1080",
+            "type": "image\u002Fjpeg"
+          },
+          "title": "Episode 4",
+          "fullTitle": "Episode 4",
+          "bottomText": "First shown: Mon 17 Feb 2025 | 56 mins",
+          "showPlayLabel": true,
+          "originalTitle": "Jack Irish",
+          "secondaryTitle": "",
+          "summary": "Jack discovers a solid lead linking Pastor Rob’s church with the terrorist group in the Philippines. Meanwhile, Sarah is consumed by vengeance.",
+          "description": "Jack discovers a solid lead linking Pastor Rob’s church with the terrorist group in Manila",
+          "fullDescription": "Jack discovers a solid lead linking Pastor Rob’s church with the terrorist group in Manila",
+          "programmeId": "77468-004",
+          "upgradeToPlay": {
+            "active": false,
+            "label": undefined
+          },
+          "showPlusIcon": false,
+          "hrefLink": "\u002Fprogrammes\u002Fjack-irish\u002Fon-demand\u002F77468-004",
+          "guidance": "Strong language and violence",
+          "hasSubtitles": true,
+          "hasAD": false,
+          "hasHD": true,
+          "durationLabel": "56 mins",
+          "assetId": "12137691",
+          "progressBar": {}
+        }, {
+          "dateLabel": "First shown: Mon 17 Feb 2025",
+          "episodeNumber": 5,
+          "firstTXChannel": "C4",
+          "seriesNumber": 2016,
+          "image": {
+            "src": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish-yr-1---blind-faith-episode-5\u002F10096ACA-0307-4999-86B76BBA2FA53C41.jpg?imformat=chrome",
+            "alt": "Jack_Irish_S1_Ep5_1920x1080",
+            "type": "image\u002Fjpeg"
+          },
+          "title": "Episode 5",
+          "fullTitle": "Episode 5",
+          "bottomText": "First shown: Mon 17 Feb 2025 | 54 mins",
+          "showPlayLabel": true,
+          "originalTitle": "Jack Irish",
+          "secondaryTitle": "",
+          "summary": "Linda returns to Melbourne to comfort Jack, who’s distraught following the workshop explosion. He sends her away, but as soon as she lands back in Manila, she’s abducted.",
+          "description": "After an ill-fated trip home to comfort Jack, Linda gets abducted on her return to Manila",
+          "fullDescription": "After an ill-fated trip home to comfort Jack, Linda gets abducted on her return to Manila",
+          "programmeId": "77468-005",
+          "upgradeToPlay": {
+            "active": false,
+            "label": undefined
+          },
+          "showPlusIcon": false,
+          "hrefLink": "\u002Fprogrammes\u002Fjack-irish\u002Fon-demand\u002F77468-005",
+          "guidance": "Strong language and violence",
+          "hasSubtitles": true,
+          "hasAD": false,
+          "hasHD": true,
+          "durationLabel": "54 mins",
+          "assetId": "12137705",
+          "progressBar": {}
+        }, {
+          "dateLabel": "First shown: Mon 17 Feb 2025",
+          "episodeNumber": 6,
+          "firstTXChannel": "C4",
+          "seriesNumber": 2016,
+          "image": {
+            "src": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish-yr-1---blind-faith-episode-6\u002F1FB61253-81F7-4EF3-804D6C8C4255AD84.jpg?imformat=chrome",
+            "alt": "Jack_Irish_S1_Ep6_1920x1080",
+            "type": "image\u002Fjpeg"
+          },
+          "title": "Episode 6",
+          "fullTitle": "Episode 6",
+          "bottomText": "First shown: Mon 17 Feb 2025 | 54 mins",
+          "showPlayLabel": true,
+          "originalTitle": "Jack Irish",
+          "secondaryTitle": "",
+          "summary": "Jack uncovers the truth about The Way of the Cross and sets out to stop the people behind the vicious group. In the Philippines, Linda finally comes face-to-face with terrorist leader Hadji Adhib.",
+          "description": "The secret behind Pastor Rob’s church is out. Can Jack stop the people behind it?",
+          "fullDescription": "The secret behind Pastor Rob’s church is out. Can Jack stop the people behind it?",
+          "programmeId": "77468-006",
+          "upgradeToPlay": {
+            "active": false,
+            "label": undefined
+          },
+          "showPlusIcon": false,
+          "hrefLink": "\u002Fprogrammes\u002Fjack-irish\u002Fon-demand\u002F77468-006",
+          "guidance": "Strong language, violence and graphic images",
+          "hasSubtitles": true,
+          "hasAD": false,
+          "hasHD": true,
+          "durationLabel": "54 mins",
+          "assetId": "12137710",
+          "progressBar": {}
+        }, {
+          "dateLabel": "First shown: Mon 17 Feb 2025",
+          "episodeNumber": 1,
+          "firstTXChannel": "C4",
+          "seriesNumber": 2018,
+          "image": {
+            "src": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish-yr-2---last-rites-the-last-post\u002FFF034132-AD42-4A98-A0DB499FAFF486AE.jpg?imformat=chrome",
+            "alt": "JackIrish_S2_Ep1_1920x1080",
+            "type": "image\u002Fjpeg"
+          },
+          "title": "Episode 1",
+          "fullTitle": "Episode 1",
+          "bottomText": "First shown: Mon 17 Feb 2025 | 58 mins",
+          "showPlayLabel": true,
+          "originalTitle": "Jack Irish",
+          "secondaryTitle": "",
+          "summary": "Jack's back practising law. But the mundanity of the 9-to-5 doesn't cut it, and he soon finds himself embroiled in the case of a foreign student who disappeared three years earlier.",
+          "description": "Jack becomes embroiled in the case of a foreign student who vanished three years earlier",
+          "fullDescription": "Jack becomes embroiled in the case of a foreign student who vanished three years earlier",
+          "programmeId": "77469-001",
+          "upgradeToPlay": {
+            "active": false,
+            "label": undefined
+          },
+          "showPlusIcon": false,
+          "hrefLink": "\u002Fprogrammes\u002Fjack-irish\u002Fon-demand\u002F77469-001",
+          "guidance": "Strong language and violence",
+          "hasSubtitles": true,
+          "hasAD": false,
+          "hasHD": true,
+          "durationLabel": "58 mins",
+          "assetId": "12137715",
+          "progressBar": {}
+        }, {
+          "dateLabel": "First shown: Mon 17 Feb 2025",
+          "episodeNumber": 2,
+          "firstTXChannel": "C4",
+          "seriesNumber": 2018,
+          "image": {
+            "src": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish-yr-2---last-rites-deal-with-the-dead\u002FB54D042E-5DD1-4C51-99B8E509C9F3BF72.jpg?imformat=chrome",
+            "alt": "JackIrish_S2_Ep2_1920x1080",
+            "type": "image\u002Fjpeg"
+          },
+          "title": "Episode 2",
+          "fullTitle": "Episode 2",
+          "bottomText": "First shown: Mon 17 Feb 2025 | 55 mins",
+          "showPlayLabel": true,
+          "originalTitle": "Jack Irish",
+          "secondaryTitle": "",
+          "summary": "Now with two deaths to investigate, Jack learns that a group of international students were deported the day after Lakshmi died. And then he receives a terrifying warning...",
+          "description": "Now with two deaths to investigate, Jack receives a terrifying warning...",
+          "fullDescription": "Now with two deaths to investigate, Jack receives a terrifying warning...",
+          "programmeId": "77469-002",
+          "upgradeToPlay": {
+            "active": false,
+            "label": undefined
+          },
+          "showPlusIcon": false,
+          "hrefLink": "\u002Fprogrammes\u002Fjack-irish\u002Fon-demand\u002F77469-002",
+          "guidance": "Strong language and violence",
+          "hasSubtitles": true,
+          "hasAD": false,
+          "hasHD": true,
+          "durationLabel": "55 mins",
+          "assetId": "12137727",
+          "progressBar": {}
+        }, {
+          "dateLabel": "First shown: Mon 17 Feb 2025",
+          "episodeNumber": 3,
+          "firstTXChannel": "C4",
+          "seriesNumber": 2018,
+          "image": {
+            "src": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish-yr-2---last-rites-from-the-ashes\u002F5B77FE17-4275-424F-858027DD769977A4.jpg?imformat=chrome",
+            "alt": "JackIrish_S2_Ep3_1920x1080",
+            "type": "image\u002Fjpeg"
+          },
+          "title": "Episode 3",
+          "fullTitle": "Episode 3",
+          "bottomText": "First shown: Mon 17 Feb 2025 | 56 mins",
+          "showPlayLabel": true,
+          "originalTitle": "Jack Irish",
+          "secondaryTitle": "",
+          "summary": "Lakshmi's father is determined to find his daughter's remains - but the college's slimy principal isn't to be trusted. Jack visits a former student in prison who's been arrested for terrorism.",
+          "description": "Jack visits a former student who was set to be deported, but is now in jail for terrorism",
+          "fullDescription": "Jack visits a former student who was set to be deported, but is now in jail for terrorism",
+          "programmeId": "77469-003",
+          "upgradeToPlay": {
+            "active": false,
+            "label": undefined
+          },
+          "showPlusIcon": false,
+          "hrefLink": "\u002Fprogrammes\u002Fjack-irish\u002Fon-demand\u002F77469-003",
+          "guidance": "Strong language, violence and sexual scenes",
+          "hasSubtitles": true,
+          "hasAD": false,
+          "hasHD": true,
+          "durationLabel": "56 mins",
+          "assetId": "12137729",
+          "progressBar": {}
+        }, {
+          "dateLabel": "First shown: Mon 17 Feb 2025",
+          "episodeNumber": 4,
+          "firstTXChannel": "C4",
+          "seriesNumber": 2018,
+          "image": {
+            "src": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish-yr-2---last-rites-the-a-list\u002F4CEF9715-C6E2-4D00-8332184125187C3E.jpg?imformat=chrome",
+            "alt": "JackIrish_S2_Ep4_1920x1080",
+            "type": "image\u002Fjpeg"
+          },
+          "title": "Episode 4",
+          "fullTitle": "Episode 4",
+          "bottomText": "First shown: Mon 17 Feb 2025 | 57 mins",
+          "showPlayLabel": true,
+          "originalTitle": "Jack Irish",
+          "secondaryTitle": "",
+          "summary": "Linda, now working the case on the ground in Mumbai, discovers that half of Lakshmi and Eddie's classmates are dead. Back in Melbourne, Jack does some digging to find out why.",
+          "description": "Linda, working the case in Mumbai, discovers that half of the college's students are dead",
+          "fullDescription": "Linda, working the case in Mumbai, discovers that half of the college's students are dead",
+          "programmeId": "77469-004",
+          "upgradeToPlay": {
+            "active": false,
+            "label": undefined
+          },
+          "showPlusIcon": false,
+          "hrefLink": "\u002Fprogrammes\u002Fjack-irish\u002Fon-demand\u002F77469-004",
+          "guidance": "Strong language and violence",
+          "hasSubtitles": true,
+          "hasAD": false,
+          "hasHD": true,
+          "durationLabel": "57 mins",
+          "assetId": "12137724",
+          "progressBar": {}
+        }, {
+          "dateLabel": "First shown: Mon 17 Feb 2025",
+          "episodeNumber": 5,
+          "firstTXChannel": "C4",
+          "seriesNumber": 2018,
+          "image": {
+            "src": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish-yr-2---last-rites-sins-of-omission\u002F8A5A492B-D738-42C4-AFDB9818B95B72B9.jpg?imformat=chrome",
+            "alt": "JackIrish_S2_Ep5_1920x1080",
+            "type": "image\u002Fjpeg"
+          },
+          "title": "Episode 5",
+          "fullTitle": "Episode 5",
+          "bottomText": "First shown: Mon 17 Feb 2025 | 56 mins",
+          "showPlayLabel": true,
+          "originalTitle": "Jack Irish",
+          "secondaryTitle": "",
+          "summary": "As Jack edges closer to the truth, the college is shut down and the principal does a runner. But a new lead arrives when Jack visits the building that Javed attacked.",
+          "description": "As Jack edges closer to the truth, the college is shut down and the principal flees",
+          "fullDescription": "As Jack edges closer to the truth, the college is shut down and the principal flees",
+          "programmeId": "77469-005",
+          "upgradeToPlay": {
+            "active": false,
+            "label": undefined
+          },
+          "showPlusIcon": false,
+          "hrefLink": "\u002Fprogrammes\u002Fjack-irish\u002Fon-demand\u002F77469-005",
+          "guidance": "Strong and offensive language and violence",
+          "hasSubtitles": true,
+          "hasAD": false,
+          "hasHD": true,
+          "durationLabel": "56 mins",
+          "assetId": "12137723",
+          "progressBar": {}
+        }, {
+          "dateLabel": "First shown: Mon 17 Feb 2025",
+          "episodeNumber": 6,
+          "firstTXChannel": "C4",
+          "seriesNumber": 2018,
+          "image": {
+            "src": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish-yr-2---last-rites-returning-home\u002FE7D5079F-DFD9-44DE-9D933B42FB0AD3AB.jpg?imformat=chrome",
+            "alt": "JackIrish_S2_Ep6_1920x1080",
+            "type": "image\u002Fjpeg"
+          },
+          "title": "Episode 6",
+          "fullTitle": "Episode 6",
+          "bottomText": "First shown: Mon 17 Feb 2025 | 56 mins",
+          "showPlayLabel": true,
+          "originalTitle": "Jack Irish",
+          "secondaryTitle": "",
+          "summary": "Jack and Linda converge on a pharmaceutical company with some damning evidence about its new drug. But the path to justice is dramatically blocked by Rory and Thornton.",
+          "description": "Jack and Linda risk their lives as they converge on a shady pharmaceutical company",
+          "fullDescription": "Jack and Linda risk their lives as they converge on a shady pharmaceutical company",
+          "programmeId": "77469-006",
+          "upgradeToPlay": {
+            "active": false,
+            "label": undefined
+          },
+          "showPlusIcon": false,
+          "hrefLink": "\u002Fprogrammes\u002Fjack-irish\u002Fon-demand\u002F77469-006",
+          "guidance": "Strong language and violence",
+          "hasSubtitles": true,
+          "hasAD": false,
+          "hasHD": true,
+          "durationLabel": "56 mins",
+          "assetId": "12137728",
+          "progressBar": {}
+        }, {
+          "dateLabel": "First shown: Mon 17 Feb 2025",
+          "episodeNumber": 1,
+          "firstTXChannel": "C4",
+          "seriesNumber": 2021,
+          "image": {
+            "src": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish-yr-3---hell-bent-episode-1\u002FAE1DE0DF-2380-4F54-9237752744516162.jpg?imformat=chrome",
+            "alt": "JackIrish_S3_Ep1_1920x1080",
+            "type": "image\u002Fjpeg"
+          },
+          "title": "Episode 1",
+          "fullTitle": "Episode 1",
+          "bottomText": "First shown: Mon 17 Feb 2025 | 53 mins",
+          "showPlayLabel": true,
+          "originalTitle": "Jack Irish",
+          "secondaryTitle": "",
+          "summary": "After the execution-style death of an off-duty cop, homicide detective Barry Tregear calls in a favour with Jack, leading him on the path to uncovering a buried truth about his murdered wife",
+          "description": "Jack uncovers a connection between an executed cop and his own wife's savage murder",
+          "fullDescription": "Jack uncovers a connection between an executed cop and his own wife's savage murder",
+          "programmeId": "77470-001",
+          "upgradeToPlay": {
+            "active": false,
+            "label": undefined
+          },
+          "showPlusIcon": false,
+          "hrefLink": "\u002Fprogrammes\u002Fjack-irish\u002Fon-demand\u002F77470-001",
+          "guidance": "Strong language and violence",
+          "hasSubtitles": true,
+          "hasAD": false,
+          "hasHD": true,
+          "durationLabel": "53 mins",
+          "assetId": "12137735",
+          "progressBar": {}
+        }, {
+          "dateLabel": "First shown: Mon 17 Feb 2025",
+          "episodeNumber": 2,
+          "firstTXChannel": "C4",
+          "seriesNumber": 2021,
+          "image": {
+            "src": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish-yr-3---hell-bent-episode-2\u002FA2A0C2F2-553A-4D0D-B5A7A24445AF12C4.jpg?imformat=chrome",
+            "alt": "JackIrish_S3_Ep2_1920x1080",
+            "type": "image\u002Fjpeg"
+          },
+          "title": "Episode 2",
+          "fullTitle": "Episode 2",
+          "bottomText": "First shown: Mon 17 Feb 2025 | 54 mins",
+          "showPlayLabel": true,
+          "originalTitle": "Jack Irish",
+          "secondaryTitle": "",
+          "summary": "Fuelled by grief, Jack tracks down Linda to ask her to help investigate Isabel's death. Meanwhile, another police officer turns up dead.",
+          "description": "Jack tracks down Linda to ask for her help. Another cop turns up dead.",
+          "fullDescription": "Jack tracks down Linda to ask for her help. Another cop turns up dead.",
+          "programmeId": "77470-002",
+          "upgradeToPlay": {
+            "active": false,
+            "label": undefined
+          },
+          "showPlusIcon": false,
+          "hrefLink": "\u002Fprogrammes\u002Fjack-irish\u002Fon-demand\u002F77470-002",
+          "guidance": "Strong language and violence from the start",
+          "hasSubtitles": true,
+          "hasAD": false,
+          "hasHD": true,
+          "durationLabel": "54 mins",
+          "assetId": "12137743",
+          "progressBar": {}
+        }, {
+          "dateLabel": "First shown: Mon 17 Feb 2025",
+          "episodeNumber": 3,
+          "firstTXChannel": "C4",
+          "seriesNumber": 2021,
+          "image": {
+            "src": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish-yr-3---hell-bent-episode-3\u002FEF0B79DA-C7C4-4F7D-8FA82F5E14F30274.jpg?imformat=chrome",
+            "alt": "JackIrish_S3_Ep3_1920x1080",
+            "type": "image\u002Fjpeg"
+          },
+          "title": "Episode 3",
+          "fullTitle": "Episode 3",
+          "bottomText": "First shown: Mon 17 Feb 2025 | 55 mins",
+          "showPlayLabel": true,
+          "originalTitle": "Jack Irish",
+          "secondaryTitle": "",
+          "summary": "Jack and Linda are certain they know who the killer on the loose is, and Jack just needs to track him down. But he didn't count on the killer finding him first...",
+          "description": "Jack needs to track the killer down. But he didn't count on the killer finding him first.",
+          "fullDescription": "Jack needs to track the killer down. But he didn't count on the killer finding him first.",
+          "programmeId": "77470-003",
+          "upgradeToPlay": {
+            "active": false,
+            "label": undefined
+          },
+          "showPlusIcon": false,
+          "hrefLink": "\u002Fprogrammes\u002Fjack-irish\u002Fon-demand\u002F77470-003",
+          "guidance": "",
+          "hasSubtitles": true,
+          "hasAD": false,
+          "hasHD": true,
+          "durationLabel": "55 mins",
+          "assetId": "12137731",
+          "progressBar": {}
+        }, {
+          "dateLabel": "First shown: Mon 17 Feb 2025",
+          "episodeNumber": 4,
+          "firstTXChannel": "C4",
+          "seriesNumber": 2021,
+          "image": {
+            "src": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish-yr-3---hell-bent-episode-4\u002F7BB0E3FB-9689-438C-9AD1B145EC5C92D7.jpg?imformat=chrome",
+            "alt": "JackIrish_S3_Ep4_1920x1080",
+            "type": "image\u002Fjpeg"
+          },
+          "title": "Episode 4",
+          "fullTitle": "Episode 4",
+          "bottomText": "First shown: Mon 17 Feb 2025 | 58 mins",
+          "showPlayLabel": true,
+          "originalTitle": "Jack Irish",
+          "secondaryTitle": "",
+          "summary": "With his life very quickly spiralling out of control and his loved ones leaving him, Jack makes an astonishing - and extremely dangerous - breakthrough",
+          "description": "With his life falling apart, Jack makes an astonishing - and dangerous - breakthrough",
+          "fullDescription": "With his life falling apart, Jack makes an astonishing - and dangerous - breakthrough",
+          "programmeId": "77470-004",
+          "upgradeToPlay": {
+            "active": false,
+            "label": undefined
+          },
+          "showPlusIcon": false,
+          "hrefLink": "\u002Fprogrammes\u002Fjack-irish\u002Fon-demand\u002F77470-004",
+          "guidance": "Strong language and violence",
+          "hasSubtitles": true,
+          "hasAD": false,
+          "hasHD": true,
+          "durationLabel": "58 mins",
+          "assetId": "12137738",
+          "progressBar": {}
+        }],
+        "fwProgrammeId": "77470\u002F004"
+      },
+      "pageData": {
+        "summary": "Australian drama starring Guy Pearce as Jack Irish, an ex-lawyer whose life has descended into debt collection and beer. But a surprise encounter opens up a new career as a private investigator.",
+        "theme": "c4",
+        "title": "Jack Irish"
+      },
+      "recommendationsData": {
+        "items": [{
+          "imageLink": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fthe-cane-field-killings\u002FA92E6C54-AFBF-4242-894F50D746F9E1FB.jpg?imformat=chrome",
+          "labelText": "The Cane Field Killings",
+          "altText": "The Cane Field Killings",
+          "overlayText": "Crime drama starring Kim Engelbrecht and Iain Glen. Reyka and a new team are chasing down a serial killer in South Africa's busiest port in Durban. But someone from her past is stalking her...",
+          "hrefLink": "\u002Fprogrammes\u002Fthe-cane-field-killings",
+          "showExclusiveContentFlag": false,
+          "watchSeriesEarlyLabelText": "",
+          "expandedTile": {
+            "title": "The Cane Field Killings",
+            "summary": "Crime drama starring Kim Engelbrecht and Iain Glen. Reyka and a new team are chasing down a serial killer in South Africa's busiest port in Durban. But someone from her past is stalking her...",
+            "genres": ["Drama", "Crime"],
+            "availableContent": "2 series"
+          }
+        }, {
+          "imageLink": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fsuspect\u002FFC3F4AD2-0F9F-4E4E-811BD677CEF803CF.jpg?imformat=chrome",
+          "labelText": "Suspect",
+          "altText": "Suspect",
+          "overlayText": "Psychological drama starring Anne-Marie Duff and James Nesbitt. A veteran detective and his psychotherapist ex-wife each face an agonising mission to uncover the truth about their daughter's death.",
+          "hrefLink": "\u002Fprogrammes\u002Fsuspect",
+          "showExclusiveContentFlag": false,
+          "watchSeriesEarlyLabelText": "",
+          "expandedTile": {
+            "title": "Suspect",
+            "summary": "Psychological drama starring Anne-Marie Duff and James Nesbitt. A veteran detective and his psychotherapist ex-wife each face an agonising mission to uncover the truth about their daughter's death.",
+            "genres": ["Drama", "Crime"],
+            "availableContent": "2 series"
+          }
+        }, {
+          "imageLink": "https:\u002F\u002Fic.c4assets.com\u002Fbrands\u002Fthe-killing\u002Ff861b716-f635-470f-ab0a-8d6128c77219.jpg?imformat=chrome",
+          "labelText": "The Killing",
+          "altText": "The Killing",
+          "overlayText": "Absorbing US crime thriller. Two detectives attempt to untangle a dark, twisting mystery after a 17-year-old girl is murdered in Seattle. Starring Mireille Enos, Joel Kinnaman and Peter Sarsgaard.",
+          "hrefLink": "\u002Fprogrammes\u002Fthe-killing",
+          "showExclusiveContentFlag": false,
+          "watchSeriesEarlyLabelText": "",
+          "expandedTile": {
+            "title": "The Killing",
+            "summary": "Absorbing US crime thriller. Two detectives attempt to untangle a dark, twisting mystery after a 17-year-old girl is murdered in Seattle. Starring Mireille Enos, Joel Kinnaman and Peter Sarsgaard.",
+            "genres": ["Drama", "Crime"],
+            "availableContent": "4 series"
+          }
+        }, {
+          "imageLink": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fthe-sommerdahl-murders\u002F4EEBAB63-FBC1-4122-81C4398D908C94FB.jpg?imformat=chrome",
+          "labelText": "The Sommerdahl Murders",
+          "altText": "The Sommerdahl Murders",
+          "overlayText": "Touching Danish crime drama from Walter Presents. Police detective Dan Sommerdahl investigates crime in an idyllic seaside town. What effect does his work obsession have on his personal life?",
+          "hrefLink": "\u002Fprogrammes\u002Fthe-sommerdahl-murders",
+          "showExclusiveContentFlag": false,
+          "watchSeriesEarlyLabelText": "",
+          "expandedTile": {
+            "title": "The Sommerdahl Murders",
+            "summary": "Touching Danish crime drama from Walter Presents. Police detective Dan Sommerdahl investigates crime in an idyllic seaside town. What effect does his work obsession have on his personal life?",
+            "genres": ["World-Drama", "Drama", "Crime"],
+            "availableContent": "1 series"
+          }
+        }, {
+          "imageLink": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fwhite-lies\u002F6D64215C-C434-4635-823E2868BC6436D8.jpg?imformat=chrome",
+          "labelText": "White Lies",
+          "altText": "White Lies",
+          "overlayText": "South African crime drama starring Natalie Dormer, set in a well-to-do Cape Town suburb",
+          "hrefLink": "\u002Fprogrammes\u002Fwhite-lies",
+          "showExclusiveContentFlag": false,
+          "watchSeriesEarlyLabelText": "",
+          "expandedTile": {
+            "title": "White Lies",
+            "summary": "South African crime drama starring Natalie Dormer, set in a well-to-do Cape Town suburb",
+            "genres": ["Drama", "Crime"],
+            "availableContent": "1 series"
+          }
+        }, {
+          "imageLink": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fpatience-drama\u002FF7BEA81A-2C98-4F24-874BC7A30A55D7B2.jpg?imformat=chrome",
+          "labelText": "Patience",
+          "altText": "Patience",
+          "overlayText": "Intriguing crime drama set in York with Laura Fraser and Ella Maisy Purvis. Talented autistic archivist Patience enters an unpredictable world when detective Bea spots her unique crime-solving skills.",
+          "hrefLink": "\u002Fprogrammes\u002Fpatience",
+          "showExclusiveContentFlag": false,
+          "watchSeriesEarlyLabelText": "",
+          "expandedTile": {
+            "title": "Patience",
+            "summary": "Intriguing crime drama set in York with Laura Fraser and Ella Maisy Purvis. Talented autistic archivist Patience enters an unpredictable world when detective Bea spots her unique crime-solving skills.",
+            "genres": ["Drama", "Crime"],
+            "availableContent": "1 series"
+          }
+        }, {
+          "imageLink": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fastrid-murder-in-paris\u002F0DE304CB-C1F7-4F05-8E71AE8F3A48B3FE.jpg?imformat=chrome",
+          "labelText": "Astrid: Murder in Paris",
+          "altText": "Astrid: Murder in Paris",
+          "overlayText": "Intriguing French crime drama from Walter Presents. Rule-breaking detective Raphaëlle Coste and autistic archivist Astrid Nielsen work together to investigate puzzling crimes.",
+          "hrefLink": "\u002Fprogrammes\u002Fastrid-murder-in-paris",
+          "showExclusiveContentFlag": false,
+          "watchSeriesEarlyLabelText": "",
+          "expandedTile": {
+            "title": "Astrid: Murder in Paris",
+            "summary": "Intriguing French crime drama from Walter Presents. Rule-breaking detective Raphaëlle Coste and autistic archivist Astrid Nielsen work together to investigate puzzling crimes.",
+            "genres": ["World-Drama", "Drama", "Crime"],
+            "availableContent": "5 series"
+          }
+        }, {
+          "imageLink": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fbordertown\u002F9049B1A1-6E26-42CD-8B82C87F93476282.jpg?imformat=chrome",
+          "labelText": "Bordertown",
+          "altText": "Bordertown",
+          "overlayText": "Sharp Finnish crime drama from Walter Presents. Detective Kari Sorjonen and his family move to a town on the border with Russia, hoping for a quiet life. But then the bodies start piling up...",
+          "hrefLink": "\u002Fprogrammes\u002Fbordertown",
+          "showExclusiveContentFlag": false,
+          "watchSeriesEarlyLabelText": "",
+          "expandedTile": {
+            "title": "Bordertown",
+            "summary": "Sharp Finnish crime drama from Walter Presents. Detective Kari Sorjonen and his family move to a town on the border with Russia, hoping for a quiet life. But then the bodies start piling up...",
+            "genres": ["World-Drama", "Drama", "Crime"],
+            "availableContent": "1 series"
+          }
+        }],
+        "mvt": {
+          "userAction": [{
+            "action": "page_interaction",
+            "eventKeyPrefix": "click"
+          }, {
+            "action": "video_view",
+            "eventKeyPrefix": "video_view"
+          }, {
+            "action": "video_completion",
+            "eventKeyPrefix": "video_completion"
+          }],
+          "eventKey": ["_brandhub", "_brandhub_recommendations"]
+        },
+        "title": "More Like This"
+      },
+      "moreAboutThisProgrammeData": {
+        "items": [],
+        "title": ""
+      },
+      "isUserAuthenticated": false,
+      "selectedEpisode": {
+        "dateLabel": "First shown: Mon 17 Feb 2025",
+        "episodeNumber": 1,
+        "firstTXChannel": "C4",
+        "seriesNumber": 2016,
+        "image": {
+          "src": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish-yr-1---blind-faith-episode-1\u002FB97A98C8-D6E6-4080-A496A4A795A21E66.jpg?imformat=chrome",
+          "alt": "Jack_Irish_S1_Ep1_1920x1080",
+          "type": "image\u002Fjpeg"
+        },
+        "title": "Episode 1",
+        "fullTitle": "Episode 1",
+        "bottomText": "First shown: Mon 17 Feb 2025 | 55 mins",
+        "showPlayLabel": true,
+        "originalTitle": "Jack Irish",
+        "secondaryTitle": "",
+        "summary": "Jack’s work as a debt collector is seedy, and his girlfriend has left to report on a terrorist group in Manila. Then, out of nowhere, he finds purpose when he’s asked to track down a missing person.",
+        "description": "Just as his journalist girlfriend leaves, Jack finds new purpose as a private investigator",
+        "fullDescription": "Just as his journalist girlfriend leaves, Jack finds new purpose as a private investigator",
+        "programmeId": "77468-001",
+        "upgradeToPlay": {
+          "active": false,
+          "label": undefined
+        },
+        "showPlusIcon": false,
+        "hrefLink": "\u002Fprogrammes\u002Fjack-irish\u002Fon-demand\u002F77468-001",
+        "guidance": "Strong language, violence and nudity",
+        "hasSubtitles": true,
+        "hasAD": false,
+        "hasHD": true,
+        "durationLabel": "55 mins",
+        "assetId": "12137686",
+        "progressBar": {}
+      },
+      "selectedEpisodeSeries": {
+        "seriesNumber": 2016,
+        "title": "Series 1: Blind Faith",
+        "summary": "Australian drama starring Guy Pearce as Jack Irish, an ex-lawyer whose life has descended into debt collection and beer. But a surprise encounter opens up a new career as a private investigator."
+      },
+      "ogTags": {
+        "title": "Jack Irish - Episode 1",
+        "type": "video.tv_show",
+        "description": "Just as his journalist girlfriend leaves, Jack finds new purpose as a private investigator",
+        "image": {
+          "url": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish-yr-1---blind-faith-episode-1\u002FB97A98C8-D6E6-4080-A496A4A795A21E66.jpg?imformat=chrome",
+          "type": "image\u002Fjpeg"
+        }
+      },
+      "jsonLDSchema": {
+        "@context": "http:\u002F\u002Fschema.org",
+        "name": "Jack Irish",
+        "description": "Tense Australian drama starring Guy Pearce as an unlikely private investigator",
+        "image": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish\u002FA7A262CC-DBD7-490A-BE9DCA839524CC20.jpg",
+        "genre": ["Drama", "Crime"],
+        "publisher": "Channel 4",
+        "@type": "TVSeries",
+        "numberOfSeasons": 3,
+        "url": "https:\u002F\u002Fwww.channel4.com\u002Fprogrammes\u002Fjack-irish",
+        "containsSeason": {
+          "@type": "TVSeason",
+          "name": "Series 1: Blind Faith",
+          "description": "Australian drama starring Guy Pearce as Jack Irish, an ex-lawyer whose life has descended into debt collection and beer. But a surprise encounter opens up a new career as a private investigator.",
+          "position": 2016,
+          "numberOfEpisodes": 6,
+          "episode": {
+            "@type": "TVEpisode",
+            "name": "Episode 1",
+            "description": "Just as his journalist girlfriend leaves, Jack finds new purpose as a private investigator",
+            "image": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish-yr-1---blind-faith-episode-1\u002FB97A98C8-D6E6-4080-A496A4A795A21E66.jpg",
+            "thumbnailUrl": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish-yr-1---blind-faith-episode-1\u002FB97A98C8-D6E6-4080-A496A4A795A21E66.jpg",
+            "position": 1,
+            "publication": [{
+              "@type": "BroadcastEvent",
+              "publishedOn": {
+                "@type": "BroadcastService",
+                "url": "https:\u002F\u002Fwww.channel4.com"
+              },
+              "startDate": "2025-02-17T00:00:00.000Z"
+            }, {
+              "@type": "OnDemandEvent",
+              "endDate": "2028-02-13T00:00:59.000Z",
+              "startDate": "2025-02-17T00:00:00.000Z"
+            }],
+            "url": "https:\u002F\u002Fwww.channel4.com\u002Fprogrammes\u002Fjack-irish\u002Fon-demand\u002F77468-001",
+            "video": {
+              "@type": "VideoObject",
+              "name": "Episode 1",
+              "url": "https:\u002F\u002Fwww.channel4.com\u002Fprogrammes\u002Fjack-irish\u002Fon-demand\u002F77468-001",
+              "contentUrl": "https:\u002F\u002Fwww.channel4.com\u002Fprogrammes\u002Fjack-irish\u002Fon-demand\u002F77468-001",
+              "uploadDate": "2025-02-17T00:00:00.000Z",
+              "thumbnailUrl": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish-yr-1---blind-faith-episode-1\u002FB97A98C8-D6E6-4080-A496A4A795A21E66.jpg",
+              "videoQuality": "HD",
+              "requiresSubscription": false,
+              "description": "Just as his journalist girlfriend leaves, Jack finds new purpose as a private investigator",
+              "contentRating": "NEUTRAL",
+              "duration": "PT54M46S"
+            }
+          }
+        }
+      }
+    },
+    "sumoLogic": {
+      "url": "https:\u002F\u002Fmonitor.channel4.com\u002Flogs\u002Fdotcom\u002Fclient\u002Fbrandhub",
+      "resource": "BRANDHUB",
+      "environment": "prod",
+      "enabled": "true"
+    },
+    "userId": null,
+    "playerEndpoint": "https:\u002F\u002Fwww.channel4.com\u002Fplayer\u002FplayerLoader.js?toBody=1&assetId=:assetId&brandWebSafeTitle=:brand&postponeTrackingUntilVisible=1",
+    "configUrls": {
+      "baseUrl": "https:\u002F\u002Fwww.channel4.com",
+      "episodeUrl": "\u002Fprogrammes\u002F:brand\u002Fon-demand\u002F:programmeId",
+      "identityUrl": "https:\u002F\u002Fwww.channel4.com\u002Fsign-in-or-register",
+      "brandUrl": "\u002Fprogrammes\u002F:brand",
+      "all4PlusUrl": "\u002Fplus",
+      "watchLiveUrl": "https:\u002F\u002Fwww.channel4.com\u002Fnow\u002F:channel",
+      "myListServiceUrl": "https:\u002F\u002Fwww.channel4.com\u002Fmy4\u002Fapi\u002Fv1\u002Fuser\u002Ffavourites\u002F"
+    },
+    "braze": {
+      "brazeSDKEndpointUrl": "sdk.fra-01.braze.eu",
+      "brazeSDKAPIKey": "2e1e6ac0-7468-40a8-bc2e-bc60be155231",
+      "brazeSDKEnabled": true,
+      "inAppMessagingEnabled": true,
+      "anonUsers": true
+    },
+    "mazeConfig": {
+      "mazeEnabled": true,
+      "mazeScriptUrl": "https:\u002F\u002Fsnippet.maze.co\u002Fmaze-universal-loader.js",
+      "mazeApiKey": "4f48c7e5-f420-4f3d-8fcf-810a018b62d4"
+    },
+    "hdEnabledFeature": true,
+    "turnOffPersonalisation": false,
+    "titleTreatmentsEnabled": true,
+    "mParticleConfig": {
+      "apiKey": "eu1-785e164941c9ed4880842cc0c6d6bf0c",
+      "developmentMode": "false",
+      "domainForCollectingEvents": "et.channel4.com",
+      "logLevel": "warning",
+      "planId": "main_data_plan",
+      "planVersion": 2
+    },
+    "appLink": {
+      "android": {
+        "appName": "Channel 4",
+        "package": "com.channel4.ondemand"
+      },
+      "ios": {
+        "appName": "Channel 4",
+        "appStoreId": "432494037"
+      }
+    },
+    "appContainerID": "app"
+  }
+</script>
+
+notes:
+======
+* window.__PARAMS__.initialData.brand.episodes.length === 16
+
+-------------------------------------------------------------------------------- after login:
+
+https://www.channel4.com/programmes/jack-irish/on-demand/77468-001
+
+request #1:
+===========
+
+curl 'https://www.channel4.com/player/jack-irish/asset/12137686' \
+  --compressed \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0' \
+  -H 'Accept: application/json, text/plain, */*' \
+  -H 'Accept-Language: en-US,en;q=0.5' \
+  -H 'Accept-Encoding: gzip, deflate, br' \
+  -H 'X-Correlation-Id: DOTCOM-bcf44164-1954-4117-9138-85e6439df686' \
+  -H 'DNT: 1' \
+  -H 'Connection: keep-alive' \
+  -H 'Referer: https://www.channel4.com/programmes/jack-irish/on-demand/77468-001' \
+  -H 'Cookie: *****' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Site: same-origin' \
+  -H 'TE: trailers'
+
+response #1:
+============
+
+{
+  "actions": [{
+    "type": "PLAY_NEXT_EPISODE",
+    "playNextEpisode": {
+      "title": "Play",
+      "secondaryTitle": "Episode 1",
+      "assetInfo": {
+        "premiere": false,
+        "streaming": {
+          "ageRating": 16,
+          "assetId": "12137686",
+          "duration": 3286,
+          "durationLabel": "55 mins",
+          "endDate": "2028-02-13T00:00:59.000Z",
+          "guidance": "Strong language, violence and nudity",
+          "href": "https://ais.channel4.com/asset/12137686?client=c4",
+          "vodBSHref": "https://api.channel4.com/online/v1/vod/stream/77468-001?client=c4",
+          "profile": "dashpr-dyn-stream-1",
+          "requestType": "ARCHIVE",
+          "startDate": "2025-02-17T00:00:00.000Z",
+          "subtitled": true,
+          "subtitles": ["webvtt_007", "ebu-tt part 2_008", "srt_009", "ebu-stl_010", "ebu-tt-d_011", "webvtt_003"],
+          "audioDescribed": false,
+          "engagementAction": "PROMPT_GUIDANCE"
+        }
+      },
+      "programmeId": "77468-001",
+      "episodeNumber": 1,
+      "seriesNumber": 2016,
+      "synopsis": "Australian drama starring Guy Pearce as Jack Irish, an ex-lawyer whose life has descended into debt collection and beer. But a surprise encounter opens up a new career as a private investigator.",
+      "shortSynopsis": "Tense Australian drama starring Guy Pearce as an unlikely private investigator",
+      "summary": "Jack’s work as a debt collector is seedy, and his girlfriend has left to report on a terrorist group in Manila. Then, out of nowhere, he finds purpose when he’s asked to track down a missing person."
+    },
+    "mvt": {
+      "userAction": [{
+        "action": "page_interaction",
+        "eventKeyPrefix": "click"
+      }],
+      "eventKey": ["_brandhub_play_next", "_brandhub"]
+    },
+    "source": "brand_page:hero:::|PLAY_NEXT_EPISODE::play||"
+  }],
+  "user": {
+    "userId": "206868ee-7070-44c6-8ef2-d301bc5d35b8",
+    "displayName": "James",
+    "subscriptionStatus": "none"
+  },
+  "asset": {
+    "brandTitle": "Jack Irish",
+    "brandWst": "jack-irish",
+    "brandFlattened": false,
+    "programmeType": "MSU",
+    "primaryCategory": "Drama",
+    "programmeId": "77468-001",
+    "programmeNumber": "001",
+    "assetId": 12137686,
+    "assetDuration": 3286,
+    "requestType": "ARCHIVE",
+    "firstTXDate": "2025-02-17T00:00:00.000Z",
+    "firstTXChannel": "C4",
+    "episodeTitle": "Episode 1",
+    "episodeSecondaryTitle": "",
+    "episodeNumber": 1,
+    "seriesNumber": 2016,
+    "subtitled": true,
+    "audioDescribed": false,
+    "multiChannelAsset": true,
+    "guidanceText": "Strong language, violence and nudity",
+    "rating": 16,
+    "imageUrl": "https://ic.c4assets.com/vps/jack-irish-yr-1---blind-faith-episode-1/B97A98C8-D6E6-4080-A496A4A795A21E66.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+    "engagementAction": "PROMPT_GUIDANCE",
+    "premiere": false,
+    "exclusive": false,
+    "streaming": {}
+  },
+  "series": {
+    "series2016": [{
+      "brandTitle": "Jack Irish",
+      "brandWst": "jack-irish",
+      "programmeType": "MSU",
+      "programmeId": "77468-001",
+      "assetId": 12137686,
+      "assetDuration": 3286,
+      "episodeTitle": "Episode 1",
+      "episodeSecondaryTitle": "",
+      "episodeNumber": 1,
+      "seriesNumber": 2016,
+      "subtitled": true,
+      "audioDescribed": false,
+      "guidanceText": "Strong language, violence and nudity",
+      "imageUrl": "https://ic.c4assets.com/vps/jack-irish-yr-1---blind-faith-episode-1/B97A98C8-D6E6-4080-A496A4A795A21E66.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}"
+    }, {
+      "brandTitle": "Jack Irish",
+      "brandWst": "jack-irish",
+      "programmeType": "MSU",
+      "programmeId": "77468-002",
+      "assetId": 12137675,
+      "assetDuration": 3296,
+      "episodeTitle": "Episode 2",
+      "episodeSecondaryTitle": "",
+      "episodeNumber": 2,
+      "seriesNumber": 2016,
+      "subtitled": true,
+      "audioDescribed": false,
+      "guidanceText": "Strong language and violence",
+      "imageUrl": "https://ic.c4assets.com/vps/jack-irish-yr-1---blind-faith-episode-2/9DE74669-9922-48D3-BBFA835CBCF14CE5.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}"
+    }, {
+      "brandTitle": "Jack Irish",
+      "brandWst": "jack-irish",
+      "programmeType": "MSU",
+      "programmeId": "77468-003",
+      "assetId": 12137679,
+      "assetDuration": 3496,
+      "episodeTitle": "Episode 3",
+      "episodeSecondaryTitle": "",
+      "episodeNumber": 3,
+      "seriesNumber": 2016,
+      "subtitled": true,
+      "audioDescribed": false,
+      "guidanceText": "Strong language and violence",
+      "imageUrl": "https://ic.c4assets.com/vps/jack-irish-yr-1---blind-faith-episode-3/F9192722-E929-4AAD-9341ED2AC167A34E.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}"
+    }, {
+      "brandTitle": "Jack Irish",
+      "brandWst": "jack-irish",
+      "programmeType": "MSU",
+      "programmeId": "77468-004",
+      "assetId": 12137691,
+      "assetDuration": 3374,
+      "episodeTitle": "Episode 4",
+      "episodeSecondaryTitle": "",
+      "episodeNumber": 4,
+      "seriesNumber": 2016,
+      "subtitled": true,
+      "audioDescribed": false,
+      "guidanceText": "Strong language and violence",
+      "imageUrl": "https://ic.c4assets.com/vps/jack-irish-yr-1---blind-faith-episode-4/0E7C1AF9-784F-47B9-B8BA6D3014588B11.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}"
+    }, {
+      "brandTitle": "Jack Irish",
+      "brandWst": "jack-irish",
+      "programmeType": "MSU",
+      "programmeId": "77468-005",
+      "assetId": 12137705,
+      "assetDuration": 3246,
+      "episodeTitle": "Episode 5",
+      "episodeSecondaryTitle": "",
+      "episodeNumber": 5,
+      "seriesNumber": 2016,
+      "subtitled": true,
+      "audioDescribed": false,
+      "guidanceText": "Strong language and violence",
+      "imageUrl": "https://ic.c4assets.com/vps/jack-irish-yr-1---blind-faith-episode-5/10096ACA-0307-4999-86B76BBA2FA53C41.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}"
+    }, {
+      "brandTitle": "Jack Irish",
+      "brandWst": "jack-irish",
+      "programmeType": "MSU",
+      "programmeId": "77468-006",
+      "assetId": 12137710,
+      "assetDuration": 3254,
+      "episodeTitle": "Episode 6",
+      "episodeSecondaryTitle": "",
+      "episodeNumber": 6,
+      "seriesNumber": 2016,
+      "subtitled": true,
+      "audioDescribed": false,
+      "guidanceText": "Strong language, violence and graphic images",
+      "imageUrl": "https://ic.c4assets.com/vps/jack-irish-yr-1---blind-faith-episode-6/1FB61253-81F7-4EF3-804D6C8C4255AD84.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}"
+    }],
+    "series2018": [{
+      "brandTitle": "Jack Irish",
+      "brandWst": "jack-irish",
+      "programmeType": "MSU",
+      "programmeId": "77469-001",
+      "assetId": 12137715,
+      "assetDuration": 3454,
+      "episodeTitle": "Episode 1",
+      "episodeSecondaryTitle": "",
+      "episodeNumber": 1,
+      "seriesNumber": 2018,
+      "subtitled": true,
+      "audioDescribed": false,
+      "guidanceText": "Strong language and violence",
+      "imageUrl": "https://ic.c4assets.com/vps/jack-irish-yr-2---last-rites-the-last-post/FF034132-AD42-4A98-A0DB499FAFF486AE.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}"
+    }, {
+      "brandTitle": "Jack Irish",
+      "brandWst": "jack-irish",
+      "programmeType": "MSU",
+      "programmeId": "77469-002",
+      "assetId": 12137727,
+      "assetDuration": 3310,
+      "episodeTitle": "Episode 2",
+      "episodeSecondaryTitle": "",
+      "episodeNumber": 2,
+      "seriesNumber": 2018,
+      "subtitled": true,
+      "audioDescribed": false,
+      "guidanceText": "Strong language and violence",
+      "imageUrl": "https://ic.c4assets.com/vps/jack-irish-yr-2---last-rites-deal-with-the-dead/B54D042E-5DD1-4C51-99B8E509C9F3BF72.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}"
+    }, {
+      "brandTitle": "Jack Irish",
+      "brandWst": "jack-irish",
+      "programmeType": "MSU",
+      "programmeId": "77469-003",
+      "assetId": 12137729,
+      "assetDuration": 3381,
+      "episodeTitle": "Episode 3",
+      "episodeSecondaryTitle": "",
+      "episodeNumber": 3,
+      "seriesNumber": 2018,
+      "subtitled": true,
+      "audioDescribed": false,
+      "guidanceText": "Strong language, violence and sexual scenes",
+      "imageUrl": "https://ic.c4assets.com/vps/jack-irish-yr-2---last-rites-from-the-ashes/5B77FE17-4275-424F-858027DD769977A4.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}"
+    }, {
+      "brandTitle": "Jack Irish",
+      "brandWst": "jack-irish",
+      "programmeType": "MSU",
+      "programmeId": "77469-004",
+      "assetId": 12137724,
+      "assetDuration": 3407,
+      "episodeTitle": "Episode 4",
+      "episodeSecondaryTitle": "",
+      "episodeNumber": 4,
+      "seriesNumber": 2018,
+      "subtitled": true,
+      "audioDescribed": false,
+      "guidanceText": "Strong language and violence",
+      "imageUrl": "https://ic.c4assets.com/vps/jack-irish-yr-2---last-rites-the-a-list/4CEF9715-C6E2-4D00-8332184125187C3E.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}"
+    }, {
+      "brandTitle": "Jack Irish",
+      "brandWst": "jack-irish",
+      "programmeType": "MSU",
+      "programmeId": "77469-005",
+      "assetId": 12137723,
+      "assetDuration": 3351,
+      "episodeTitle": "Episode 5",
+      "episodeSecondaryTitle": "",
+      "episodeNumber": 5,
+      "seriesNumber": 2018,
+      "subtitled": true,
+      "audioDescribed": false,
+      "guidanceText": "Strong and offensive language and violence",
+      "imageUrl": "https://ic.c4assets.com/vps/jack-irish-yr-2---last-rites-sins-of-omission/8A5A492B-D738-42C4-AFDB9818B95B72B9.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}"
+    }, {
+      "brandTitle": "Jack Irish",
+      "brandWst": "jack-irish",
+      "programmeType": "MSU",
+      "programmeId": "77469-006",
+      "assetId": 12137728,
+      "assetDuration": 3359,
+      "episodeTitle": "Episode 6",
+      "episodeSecondaryTitle": "",
+      "episodeNumber": 6,
+      "seriesNumber": 2018,
+      "subtitled": true,
+      "audioDescribed": false,
+      "guidanceText": "Strong language and violence",
+      "imageUrl": "https://ic.c4assets.com/vps/jack-irish-yr-2---last-rites-returning-home/E7D5079F-DFD9-44DE-9D933B42FB0AD3AB.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}"
+    }],
+    "series2021": [{
+      "brandTitle": "Jack Irish",
+      "brandWst": "jack-irish",
+      "programmeType": "MSU",
+      "programmeId": "77470-001",
+      "assetId": 12137735,
+      "assetDuration": 3196,
+      "episodeTitle": "Episode 1",
+      "episodeSecondaryTitle": "",
+      "episodeNumber": 1,
+      "seriesNumber": 2021,
+      "subtitled": true,
+      "audioDescribed": false,
+      "guidanceText": "Strong language and violence",
+      "imageUrl": "https://ic.c4assets.com/vps/jack-irish-yr-3---hell-bent-episode-1/AE1DE0DF-2380-4F54-9237752744516162.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}"
+    }, {
+      "brandTitle": "Jack Irish",
+      "brandWst": "jack-irish",
+      "programmeType": "MSU",
+      "programmeId": "77470-002",
+      "assetId": 12137743,
+      "assetDuration": 3235,
+      "episodeTitle": "Episode 2",
+      "episodeSecondaryTitle": "",
+      "episodeNumber": 2,
+      "seriesNumber": 2021,
+      "subtitled": true,
+      "audioDescribed": false,
+      "guidanceText": "Strong language and violence from the start",
+      "imageUrl": "https://ic.c4assets.com/vps/jack-irish-yr-3---hell-bent-episode-2/A2A0C2F2-553A-4D0D-B5A7A24445AF12C4.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}"
+    }, {
+      "brandTitle": "Jack Irish",
+      "brandWst": "jack-irish",
+      "programmeType": "MSU",
+      "programmeId": "77470-003",
+      "assetId": 12137731,
+      "assetDuration": 3324,
+      "episodeTitle": "Episode 3",
+      "episodeSecondaryTitle": "",
+      "episodeNumber": 3,
+      "seriesNumber": 2021,
+      "subtitled": true,
+      "audioDescribed": false,
+      "guidanceText": "",
+      "imageUrl": "https://ic.c4assets.com/vps/jack-irish-yr-3---hell-bent-episode-3/EF0B79DA-C7C4-4F7D-8FA82F5E14F30274.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}"
+    }, {
+      "brandTitle": "Jack Irish",
+      "brandWst": "jack-irish",
+      "programmeType": "MSU",
+      "programmeId": "77470-004",
+      "assetId": 12137738,
+      "assetDuration": 3465,
+      "episodeTitle": "Episode 4",
+      "episodeSecondaryTitle": "",
+      "episodeNumber": 4,
+      "seriesNumber": 2021,
+      "subtitled": true,
+      "audioDescribed": false,
+      "guidanceText": "Strong language and violence",
+      "imageUrl": "https://ic.c4assets.com/vps/jack-irish-yr-3---hell-bent-episode-4/7BB0E3FB-9689-438C-9AD1B145EC5C92D7.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}"
+    }]
+  }
+}
+
+notes:
+======
+* Object.keys(data.series).map(key => data.series[key].length).reduce((sum, count) => sum + count, 0) === 16
+
+cherry pick:
+============
+* data.actions[0].playNextEpisode.assetInfo.streaming.vodBSHref ===
+    "https://api.channel4.com/online/v1/vod/stream/77468-001?client=c4"
+
+--------------------------------------------------------------------------------
+
+request #2:
+===========
+
+curl 'https://www.channel4.com/player/watch-more/77468-001' \
+  --compressed \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0' \
+  -H 'Accept: application/json' \
+  -H 'Accept-Language: en-US,en;q=0.5' \
+  -H 'Accept-Encoding: gzip, deflate, br' \
+  -H 'X-Correlation-Id: DOTCOM-5fb39edf-14db-4ecd-b71c-3590899b81e4' \
+  -H 'DNT: 1' \
+  -H 'Connection: keep-alive' \
+  -H 'Referer: https://www.channel4.com/programmes/jack-irish/on-demand/77468-001' \
+  -H 'Cookie: *****' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Site: same-origin'
+
+response #2:
+============
+
+{
+  "watchMore": {
+    "title": "Watch More",
+    "type": "DEFAULT",
+    "slices": [{
+      "sliceItems": [{
+        "type": "episode",
+        "title": "Jack Irish",
+        "summary": "Australian drama starring Guy Pearce as Jack Irish, an ex-lawyer whose life has descended into debt collection and beer. But a surprise encounter opens up a new career as a private investigator.",
+        "secondaryTitle": "",
+        "image": {
+          "href": "https://ic.c4assets.com/vps/jack-irish-yr-1---blind-faith-episode-2/9DE74669-9922-48D3-BBFA835CBCF14CE5.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}"
+        },
+        "brand": {
+          "title": "Jack Irish",
+          "presentationBrand": "C4",
+          "websafeTitle": "jack-irish",
+          "programmeType": "MSU",
+          "summary": "Australian drama starring Guy Pearce as Jack Irish, an ex-lawyer whose life has descended into debt collection and beer. But a surprise encounter opens up a new career as a private investigator.",
+          "shortSummary": "Tense Australian drama starring Guy Pearce as an unlikely private investigator",
+          "brandId": "22784966"
+        },
+        "episode": {
+          "title": "Episode 2",
+          "secondaryTitle": "",
+          "originalTitle": "Jack Irish",
+          "programmeId": "77468-002",
+          "episodeNumber": 2,
+          "seriesNumber": 2016,
+          "firstTXDate": "2025-02-17T00:00:00.000Z",
+          "firstTXChannel": "C4",
+          "dateLabel": "First shown: Mon 17 Feb 2025",
+          "summary": "The bodies pile up as Jack helps the mystery woman who bailed him out of jail find her missing sister. In Manila, Linda tries to make contact with a renowned terrorist who's originally from Melbourne.",
+          "shortSummary": "Jack helps the mysterious woman who bailed him out of jail find her missing sister",
+          "episodeType": "LONG",
+          "updated": "2025-02-25T00:00:16.011Z",
+          "assetInfo": {
+            "premiere": false,
+            "streaming": {
+              "href": "https://ais.channel4.com/asset/12137675?client=c4",
+              "vodBSHref": "https://api.channel4.com/online/v1/vod/stream/77468-002?client=c4",
+              "startDate": "2025-02-17T00:00:00.000Z",
+              "endDate": "2028-02-13T00:00:59.000Z",
+              "requestType": "ARCHIVE",
+              "subtitled": true,
+              "subtitles": ["webvtt_007", "ebu-tt part 2_008", "srt_009", "ebu-stl_010", "ebu-tt-d_011", "webvtt_003"],
+              "assetId": "12137675",
+              "duration": 3296,
+              "ageRating": 16,
+              "guidance": "Strong language and violence",
+              "durationLabel": "55 mins",
+              "profile": "dashpr-dyn-stream-1",
+              "profiles": ["dashpr-dyn-stream-1", "dashwv-dyn-stream-1", "hls-dyn-stream-1"],
+              "audioDescribed": false,
+              "engagementAction": "PROMPT_GUIDANCE",
+              "resolution": "HD"
+            },
+            "exclusive": false
+          },
+          "image": {
+            "href": "https://ic.c4assets.com/vps/jack-irish-yr-1---blind-faith-episode-2/9DE74669-9922-48D3-BBFA835CBCF14CE5.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+            "title": "Jack_Irish_S1_Ep2_1920x1080",
+            "type": "image/jpeg",
+            "templated": false
+          },
+          "exclusive": false
+        }
+      }],
+      "template": "WATCH_MORE_LEVEL",
+      "title": "Next Episodes",
+      "type": "NEXT_EPISODES"
+    }, {
+      "sliceItems": [{
+        "type": "brand",
+        "title": "The Cane Field Killings",
+        "summary": "Crime drama starring Kim Engelbrecht and Iain Glen. Reyka and a new team are chasing down a serial killer in South Africa's busiest port in Durban. But someone from her past is stalking her...",
+        "secondaryTitle": "",
+        "image": {
+          "href": "https://ic.c4assets.com/vps/the-cane-field-killings/A92E6C54-AFBF-4242-894F50D746F9E1FB.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}"
+        },
+        "brand": {
+          "title": "The Cane Field Killings",
+          "presentationBrand": "C4",
+          "websafeTitle": "the-cane-field-killings",
+          "programmeType": "MSU",
+          "summary": "Crime drama starring Kim Engelbrecht and Iain Glen. Reyka and a new team are chasing down a serial killer in South Africa's busiest port in Durban. But someone from her past is stalking her...",
+          "shortSummary": "Detective Reyka Gama and a new team are chasing down a serial killer in South Africa",
+          "brandId": "17847552"
+        },
+        "episode": {}
+      }, {
+        "type": "brand",
+        "title": "Suspect",
+        "summary": "Psychological drama starring Anne-Marie Duff and James Nesbitt. A veteran detective and his psychotherapist ex-wife each face an agonising mission to uncover the truth about their daughter's death.",
+        "secondaryTitle": "",
+        "image": {
+          "href": "https://ic.c4assets.com/vps/suspect/FC3F4AD2-0F9F-4E4E-811BD677CEF803CF.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}"
+        },
+        "brand": {
+          "title": "Suspect",
+          "presentationBrand": "C4",
+          "websafeTitle": "suspect",
+          "programmeType": "MST",
+          "summary": "Psychological drama starring Anne-Marie Duff and James Nesbitt. A veteran detective and his psychotherapist ex-wife each face an agonising mission to uncover the truth about their daughter's death.",
+          "shortSummary": "Psychological drama starring Anne-Marie Duff and James Nesbitt on an agonising mission",
+          "brandId": "18229025"
+        },
+        "episode": {}
+      }, {
+        "type": "brand",
+        "title": "The Killing",
+        "summary": "Absorbing US crime thriller. Two detectives attempt to untangle a dark, twisting mystery after a 17-year-old girl is murdered in Seattle. Starring Mireille Enos, Joel Kinnaman and Peter Sarsgaard.",
+        "secondaryTitle": "",
+        "image": {
+          "href": "https://ic.c4assets.com/brands/the-killing/f861b716-f635-470f-ab0a-8d6128c77219.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}"
+        },
+        "brand": {
+          "title": "The Killing",
+          "presentationBrand": "C4",
+          "websafeTitle": "the-killing",
+          "programmeType": "MST",
+          "summary": "Absorbing US crime thriller. Two detectives attempt to untangle a dark, twisting mystery after a 17-year-old girl is murdered in Seattle. Starring Mireille Enos, Joel Kinnaman and Peter Sarsgaard.",
+          "shortSummary": "Absorbing US crime thriller. Two detectives unravel a twisting murder mystery.",
+          "brandId": "6147031"
+        },
+        "episode": {}
+      }],
+      "template": "WATCH_MORE_LEVEL",
+      "title": "Because you watched... Jack Irish",
+      "type": "RECOMMENDATIONS"
+    }, {
+      "sliceItems": [{
+        "type": "brand",
+        "title": "Married at First Sight NZ",
+        "summary": "Would you get married to someone you just met? Single Kiwis do just that as they take part in a bold social experiment. Could tying the knot with a total stranger really lead to marital bliss?",
+        "secondaryTitle": "",
+        "image": {
+          "href": "https://ic.c4assets.com/vps/married-at-first-sight-new-zealand/8BC37464-AF64-48FD-A503EF2DF054504C.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}"
+        },
+        "brand": {
+          "title": "Married at First Sight NZ",
+          "presentationBrand": "C4",
+          "websafeTitle": "married-at-first-sight-nz",
+          "programmeType": "MSU",
+          "summary": "Would you get married to someone you just met? Single Kiwis do just that as they take part in a bold social experiment. Could tying the knot with a total stranger really lead to marital bliss?",
+          "shortSummary": "Could tying the knot with a total stranger lead to marital bliss? Single Kiwis find out.",
+          "earlyAccessEpisodesCount": 0
+        },
+        "episode": {}
+      }, {
+        "type": "brand",
+        "title": "Married at First Sight UK",
+        "summary": "The bold social experiment where single people, matched by experts, marry total strangers, who they meet for the very first time on their wedding day",
+        "secondaryTitle": "",
+        "image": {
+          "href": "https://ic.c4assets.com/vps/married-at-first-sight-uk/04609AAE-E2B6-43E2-B64ADBE5C5A18A7C.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}"
+        },
+        "brand": {
+          "title": "Married at First Sight UK",
+          "presentationBrand": "E4",
+          "websafeTitle": "married-at-first-sight-uk",
+          "programmeType": "MSU",
+          "summary": "The bold social experiment where single people, matched by experts, marry total strangers, who they meet for the very first time on their wedding day",
+          "shortSummary": "The bold social experiment where single people, matched by experts, marry total strangers",
+          "earlyAccessEpisodesCount": 0
+        },
+        "episode": {}
+      }, {
+        "type": "brand",
+        "title": "Married at First Sight Australia",
+        "summary": "Aussie singles tie the knot with partners selected for them by relationship experts, meeting for the first time on their wedding day. Will there be perfect matches or marriage mayhem?",
+        "secondaryTitle": "",
+        "image": {
+          "href": "https://ic.c4assets.com/vps/married-at-first-sight-australia/5F3BB573-F917-4FCC-9384C0308C22AA6D.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}"
+        },
+        "brand": {
+          "title": "Married at First Sight Australia",
+          "presentationBrand": "E4",
+          "websafeTitle": "married-at-first-sight-australia",
+          "programmeType": "MSU",
+          "summary": "Aussie singles tie the knot with partners selected for them by relationship experts, meeting for the first time on their wedding day. Will there be perfect matches or marriage mayhem?",
+          "shortSummary": "Aussie singles get hitched to spouses who they see for the first time on their wedding day",
+          "earlyAccessEpisodesCount": 0
+        },
+        "episode": {}
+      }],
+      "template": "WATCH_MORE_LEVEL",
+      "title": "My List",
+      "type": "MYLIST"
+    }]
+  }
+}
+
+cherry pick:
+============
+* data.watchMore.slices[0].sliceItems[0].episode.assetInfo.streaming.vodBSHref ===
+    "https://api.channel4.com/online/v1/vod/stream/77468-002?client=c4"
+
+--------------------------------------------------------------------------------
+
+request #3:
+===========
+
+curl 'https://www.channel4.com/vod/stream/77468-001' \
+  --compressed \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0' \
+  -H 'Accept: application/json' \
+  -H 'Accept-Language: en-US,en;q=0.5' \
+  -H 'Accept-Encoding: gzip, deflate, br' \
+  -H 'x-c4-date: 2025-02-27T19:03:37-08:00' \
+  -H 'X-Correlation-Id: DOTCOM-3b38e930-ffd9-4520-b081-1b94a2daa708' \
+  -H 'DNT: 1' \
+  -H 'Connection: keep-alive' \
+  -H 'Referer: https://www.channel4.com/programmes/jack-irish/on-demand/77468-001' \
+  -H 'Cookie: *****' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Site: same-origin'
+
+response #3:
+============
+
+{
+  "contractId": 77468,
+  "programmeNumber": 1,
+  "brandTitle": "Jack Irish",
+  "webSafeBrandTitle": "jack-irish",
+  "episodeTitle": "Jack Irish",
+  "duration": 3286,
+  "sinceBroadcast": -1,
+  "ptc": true,
+  "logging": false,
+  "ia": false,
+  "guidanceText": "Strong language, violence and nudity",
+  "rating": 16,
+  "transcodeId": "12137686",
+  "deliveryType": "STREAM",
+  "requestType": "ARCHIVE",
+  "programmeId": "77468/001",
+  "resolution": "SD",
+  "audioDescription": {
+    "isAudioDescribed": false
+  },
+  "endCredits": {
+    "squeeze": true,
+    "squeezeIn": 3209080,
+    "squeezeOut": 3285880
+  },
+  "subtitlesAssets": [{
+    "format": "webvtt_007",
+    "url": "https://subs.channel4.com/77468_001_2/573224d30773f735b4ba9744f706eece.vtt"
+  }, {
+    "format": "srt_009",
+    "url": "https://subs.channel4.com/77468_001_2/e7a1471ed6ee170641858582942ca75e.srt"
+  }, {
+    "format": "webvtt_003",
+    "url": "https://subs.channel4.com/77468_001_2/7d1b1e9c0bbaee6d9000fc5a70ba5152.m3u8"
+  }],
+  "thumbsAssets": [{
+    "format": "bif-small",
+    "url": "https://thumbs.channel4.com/77468_001_2/761b5b9eb36cf0379861a6fbcc747052_S.bif"
+  }, {
+    "format": "bif-large",
+    "url": "https://thumbs.channel4.com/77468_001_2/761b5b9eb36cf0379861a6fbcc747052_L.bif"
+  }, {
+    "format": "sprite-small 5x5",
+    "secondsPerSequence": 250,
+    "basePath": "https://thumbs.channel4.com/77468_001_2/7c0f78723da3fe91d300082f1ae80130_S",
+    "sequencePaths": ["_001.jpg", "_002.jpg", "_003.jpg", "_004.jpg", "_005.jpg", "_006.jpg", "_007.jpg", "_008.jpg", "_009.jpg", "_010.jpg", "_011.jpg", "_012.jpg", "_013.jpg", "_014.jpg"]
+  }, {
+    "format": "sprite-large 5x5",
+    "secondsPerSequence": 250,
+    "basePath": "https://thumbs.channel4.com/77468_001_2/7c0f78723da3fe91d300082f1ae80130_L",
+    "sequencePaths": ["_001.jpg", "_002.jpg", "_003.jpg", "_004.jpg", "_005.jpg", "_006.jpg", "_007.jpg", "_008.jpg", "_009.jpg", "_010.jpg", "_011.jpg", "_012.jpg", "_013.jpg", "_014.jpg"]
+  }],
+  "videoProfiles": [{
+    "streams": [{
+      "uri": "https://ak-jos-c4assets-com.akamaized.net/CH4_08_02_900_77468_001_2_173918475753369/CH4_08_02_900_77468_001_2_173918475753369_J01.ism/stream.mpd?c3.ri=13507276104322670352&mpd_segment_template=time&filter=%28type%3D%3D%22video%22%26%26%28%28DisplayHeight%3E%3D288%29%26%26%28DisplayHeight%3C%3D576%29%29%29%7C%7Ctype%21%3D%22video%22&ts=1740711820&e=600&st=rlCO0i6oFbFdZBwFvie1fGyc_LAIXerv0vEXq5rK3ew",
+      "token": "A+p8X00U7mrXDD3ElLaqnb8FNWloEFetE6c83GB+7up0zGr2pb2A8WEvOvAapqNthMk1dS37dXzjIYMQJA1ZuFJ9FVYznlIdx3LkCpu148StrZRXs84uCBJPReM6atDPXcIGLuoSG4IKic0mqLgGBQAnqHa0JKxGslZ4nYbQ/Mk1ut03cDb2cTMe+u4zjIQ1FkBKZYAAB4g+NAOzcp10ZQ==",
+      "bitRate": 0,
+      "filesize": null
+    }],
+    "cdn": "ak",
+    "cdnFullName": "AKAMAI",
+    "name": "dashpr-dyn-stream-1"
+  }, {
+    "streams": [{
+      "uri": "https://ak-jos-c4assets-com.akamaized.net/CH4_08_02_900_77468_001_2_173918475753369/CH4_08_02_900_77468_001_2_173918475753369_J01.ism/stream.mpd?c3.ri=13631406567503414312&mpd_segment_template=time&filter=%28type%3D%3D%22video%22%26%26%28%28DisplayHeight%3E%3D288%29%26%26%28DisplayHeight%3C%3D576%29%29%29%7C%7Ctype%21%3D%22video%22&ts=1740711820&e=600&st=rlCO0i6oFbFdZBwFvie1fGyc_LAIXerv0vEXq5rK3ew",
+      "token": "N7gcqe+YqA2R/w4/7MirY2EPVnn9KMt7pp/tAPBCeOxPTBgnuAAKao4vYCwg6+/iesCJyiJzl9p/HftP/8PfQIe5b9l0toI9cuqHB9rq3B3/9/E/YsFXqohXEm7zqE6rRjC1zeanWv1upFSqc0K/XsabrXVqXFyNdkgr1RjV+6zJuHuyB6aDNpy61tLhgxd7Ym+VZo671qiZa6iPpnmd49uBzaNYLaiJPog2eCao/9Mt9W9pTDvDdrcPigbihdUn0Mw9XiyT4QQ4CvJqDghUAgdV0g7r1LXYrLJME4HDaInkWHpp7H1tSAsVu/Oqwi1f",
+      "bitRate": 0,
+      "filesize": null
+    }],
+    "cdn": "ak",
+    "cdnFullName": "AKAMAI",
+    "name": "dashwv-dyn-stream-1"
+  }, {
+    "streams": [{
+      "uri": "https://ak-jos-c4assets-com.akamaized.net/CH4_08_02_900_77468_001_2_173918475753369/CH4_08_02_900_77468_001_2_173918475753369_J01.ism/stream.m3u8?c3.ri=13508120527867714624&filter=%28type%3D%3D%22video%22%26%26%28%28DisplayHeight%3E%3D288%29%26%26%28DisplayHeight%3C%3D576%29%29%29%7C%7Ctype%21%3D%22video%22&ts=1740711820&e=600&st=jZNwM1D8BYN0eQFpPtbQ5Z5HejlODUyV_CYp2fU8REQ",
+      "token": "zPiuLamLKduzMEym/4qWw649aJWXZ/edXVBI/vDlzHurrF+27bsG/cmHlnrI/2zMA08wIya6wlcMqF/gY+5OZO41aP9M/mXXXajQ4SFa7TsxYn2XJSlY91LqkGQFDb073Pe1NanUaRgW0rwBOozeWKPAq0E5dYbijRA9dIIh8pk=",
+      "bitRate": 0,
+      "filesize": null
+    }],
+    "cdn": "ak",
+    "cdnFullName": "AKAMAI",
+    "name": "hls-dyn-stream-1"
+  }],
+  "adverts": {
+    "siteSectionId": "www.channel4.com/4od",
+    "fwCacheBuster": "1",
+    "fwLogLevel": "QUIET",
+    "fwAdManagerLocation": "https://adm.fwmrm.net/p/c4_live/AdManager.swf",
+    "fwProfile": "174057:c4_live",
+    "fwNetworkId": "174057",
+    "fwServer": "https://2a7e9.v.fwmrm.net/ad/p/1?",
+    "fwAssetId": "77468/001",
+    "breaks": [{
+      "breakOffset": 0,
+      "resumeOffset": 0
+    }, {
+      "breakOffset": 677240,
+      "resumeOffset": 677240
+    }, {
+      "breakOffset": 1401040,
+      "resumeOffset": 1401040
+    }, {
+      "breakOffset": 1848360,
+      "resumeOffset": 1848360
+    }],
+    "adServer": "https://api.channel4.com/online/v1/adsproxy/advert/freewheel"
+  },
+  "contentClass": 2,
+  "skipIntro": {
+    "skip": true,
+    "skipStart": 150800,
+    "skipEnd": 203320
+  }
+}
+
+notes (request):
+================
+* the unique id for each episode (ex: "77468-001") is included in the DOM data
+
+notes (response):
+=================
+* there are 3 streams available for this particular test video
+* a distinct "token" is associated with each stream URL
+* each stream uses a different DRM encryption scheme:
+  - "dashwv-dyn-stream-1" => WIDEVINE
+    * stream format: Dash
+  - "dashpr-dyn-stream-1" => PLAY_READY
+    * stream format: Dash
+  - "hls-dyn-stream-1" => FAIR_PLAY
+    * stream format: HLS
+
+--------------------------------------------------------------------------------
+
+question:
+=========
+will the API request work without a session cookie?
+
+request #4:
+===========
+
+curl 'https://www.channel4.com/vod/stream/77468-001' \
+  --compressed \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0' \
+  -H 'Accept: application/json' \
+  -H 'Referer: https://www.channel4.com/programmes/jack-irish/on-demand/77468-001'
+
+response #4:
+============
+
+{
+  "contractId": 77468,
+  "programmeNumber": 1,
+  "brandTitle": "Jack Irish",
+  "webSafeBrandTitle": "jack-irish",
+  "episodeTitle": "Jack Irish",
+  "duration": 3286,
+  "sinceBroadcast": -1,
+  "ptc": true,
+  "logging": false,
+  "ia": false,
+  "guidanceText": "Strong language, violence and nudity",
+  "rating": 16,
+  "transcodeId": "12137686",
+  "deliveryType": "STREAM",
+  "requestType": "ARCHIVE",
+  "programmeId": "77468/001",
+  "resolution": "SD",
+  "audioDescription": {
+    "isAudioDescribed": false
+  },
+  "endCredits": {
+    "squeeze": true,
+    "squeezeIn": 3209080,
+    "squeezeOut": 3285880
+  },
+  "subtitlesAssets": [{
+    "format": "webvtt_007",
+    "url": "https://subs.channel4.com/77468_001_2/573224d30773f735b4ba9744f706eece.vtt"
+  }, {
+    "format": "srt_009",
+    "url": "https://subs.channel4.com/77468_001_2/e7a1471ed6ee170641858582942ca75e.srt"
+  }, {
+    "format": "webvtt_003",
+    "url": "https://subs.channel4.com/77468_001_2/7d1b1e9c0bbaee6d9000fc5a70ba5152.m3u8"
+  }],
+  "thumbsAssets": [{
+    "format": "bif-small",
+    "url": "https://thumbs.channel4.com/77468_001_2/761b5b9eb36cf0379861a6fbcc747052_S.bif"
+  }, {
+    "format": "bif-large",
+    "url": "https://thumbs.channel4.com/77468_001_2/761b5b9eb36cf0379861a6fbcc747052_L.bif"
+  }, {
+    "format": "sprite-small 5x5",
+    "secondsPerSequence": 250,
+    "basePath": "https://thumbs.channel4.com/77468_001_2/7c0f78723da3fe91d300082f1ae80130_S",
+    "sequencePaths": ["_001.jpg", "_002.jpg", "_003.jpg", "_004.jpg", "_005.jpg", "_006.jpg", "_007.jpg", "_008.jpg", "_009.jpg", "_010.jpg", "_011.jpg", "_012.jpg", "_013.jpg", "_014.jpg"]
+  }, {
+    "format": "sprite-large 5x5",
+    "secondsPerSequence": 250,
+    "basePath": "https://thumbs.channel4.com/77468_001_2/7c0f78723da3fe91d300082f1ae80130_L",
+    "sequencePaths": ["_001.jpg", "_002.jpg", "_003.jpg", "_004.jpg", "_005.jpg", "_006.jpg", "_007.jpg", "_008.jpg", "_009.jpg", "_010.jpg", "_011.jpg", "_012.jpg", "_013.jpg", "_014.jpg"]
+  }],
+  "videoProfiles": [{
+    "streams": [{
+      "uri": "https://ak-jos-c4assets-com.akamaized.net/CH4_08_02_900_77468_001_2_173918475753369/CH4_08_02_900_77468_001_2_173918475753369_J01.ism/stream.mpd?c3.ri=13498268904348659904&mpd_segment_template=time&filter=%28type%3D%3D%22video%22%26%26%28%28DisplayHeight%3E%3D288%29%26%26%28DisplayHeight%3C%3D576%29%29%29%7C%7Ctype%21%3D%22video%22&ts=1740715895&e=600&st=TosbP0Xuq1n14SC6bJgbw1-slyYJIPyeWXhs4vItmsg",
+      "token": "A+p8X00U7mrXDD3ElLaqnb8FNWloEFetE6c83GB+7up0zGr2pb2A8WEvOvAapqNthMk1dS37dXzjIYMQJA1ZuBmT6xhoWV3wToAUIvJIe7Yq4gRhzkJJsWE3d5P0c3r5+xHWw5PBQOotKWp3j7eyH8A4uH/S3PAkXko79ktSX+YHi4xMLmV9C8l1kF7W/wBcYxE53KAyvlLsvMOgnBkXrg==",
+      "bitRate": 0,
+      "filesize": null
+    }],
+    "cdn": "ak",
+    "cdnFullName": "AKAMAI",
+    "name": "dashpr-dyn-stream-1"
+  }, {
+    "streams": [{
+      "uri": "https://ak-jos-c4assets-com.akamaized.net/CH4_08_02_900_77468_001_2_173918475753369/CH4_08_02_900_77468_001_2_173918475753369_J01.ism/stream.mpd?c3.ri=13495735632787729719&mpd_segment_template=time&filter=%28type%3D%3D%22video%22%26%26%28%28DisplayHeight%3E%3D288%29%26%26%28DisplayHeight%3C%3D576%29%29%29%7C%7Ctype%21%3D%22video%22&ts=1740715895&e=600&st=TosbP0Xuq1n14SC6bJgbw1-slyYJIPyeWXhs4vItmsg",
+      "token": "N7gcqe+YqA2R/w4/7MirY2EPVnn9KMt7pp/tAPBCeOxPTBgnuAAKao4vYCwg6+/iesCJyiJzl9p/HftP/8PfQMCuXuRDRdVtjQY7c1et4Qxb9OtecXg4oL+eCY0Gqza7ut3FoiTbqlw2bVVAJeY1/CxBBXRbIAM6JnG4RBmcRJgIEIQD9P7rfp5tttM6SdcEpj2wdBACEVXMeGRneoSPDYV51v6yAxrhGccVRaL7pkqE+bij5jV0Aa4eE4nRVjcxfJy4yh6nAhl8TKVM0E58HIW+ekEwjpuiXNC+WXx0V7pp9C/rPsJvKqKFIHhL89J5",
+      "bitRate": 0,
+      "filesize": null
+    }],
+    "cdn": "ak",
+    "cdnFullName": "AKAMAI",
+    "name": "dashwv-dyn-stream-1"
+  }, {
+    "streams": [{
+      "uri": "https://ak-jos-c4assets-com.akamaized.net/CH4_08_02_900_77468_001_2_173918475753369/CH4_08_02_900_77468_001_2_173918475753369_J01.ism/stream.m3u8?c3.ri=13510090846216503979&filter=%28type%3D%3D%22video%22%26%26%28%28DisplayHeight%3E%3D288%29%26%26%28DisplayHeight%3C%3D576%29%29%29%7C%7Ctype%21%3D%22video%22&ts=1740715895&e=600&st=lRajJ_q_tMsBp__511inDK1bQuHwsXj3TWhZLJ07jh4",
+      "token": "zPiuLamLKduzMEym/4qWw649aJWXZ/edXVBI/vDlzHurrF+27bsG/cmHlnrI/2zMIHIi/cWU0YIKMjSNmRYWmv4btkizpKk4J3QyN/mZGDMWaR3cslWqWjtpvuGLRvtB4l0xMI8W/m7Gi/kR0cj6VnMBKtwzd4AdLet6F623X3U=",
+      "bitRate": 0,
+      "filesize": null
+    }],
+    "cdn": "ak",
+    "cdnFullName": "AKAMAI",
+    "name": "hls-dyn-stream-1"
+  }],
+  "adverts": {
+    "siteSectionId": "www.channel4.com/4od",
+    "fwCacheBuster": "1",
+    "fwLogLevel": "QUIET",
+    "fwAdManagerLocation": "https://adm.fwmrm.net/p/c4_live/AdManager.swf",
+    "fwProfile": "174057:c4_live",
+    "fwNetworkId": "174057",
+    "fwServer": "https://2a7e9.v.fwmrm.net/ad/p/1?",
+    "fwAssetId": "77468/001",
+    "breaks": [{
+      "breakOffset": 0,
+      "resumeOffset": 0
+    }, {
+      "breakOffset": 677240,
+      "resumeOffset": 677240
+    }, {
+      "breakOffset": 1401040,
+      "resumeOffset": 1401040
+    }, {
+      "breakOffset": 1848360,
+      "resumeOffset": 1848360
+    }],
+    "adServer": "https://api.channel4.com/online/v1/adsproxy/advert/freewheel"
+  },
+  "contentClass": 2,
+  "skipIntro": {
+    "skip": true,
+    "skipStart": 150800,
+    "skipEnd": 203320
+  }
+}
+
+answer:
+=======
+yes: login is not required.
+
+--------------------------------------------------------------------------------
+
+request #5:
+===========
+
+curl 'https://ak-jos-c4assets-com.akamaized.net/CH4_08_02_900_77468_001_2_173918475753369/CH4_08_02_900_77468_001_2_173918475753369_J01.ism/stream.mpd?c3.ri=13631406567503414312&mpd_segment_template=time&filter=%28type%3D%3D%22video%22%26%26%28%28DisplayHeight%3E%3D288%29%26%26%28DisplayHeight%3C%3D576%29%29%29%7C%7Ctype%21%3D%22video%22&ts=1740711820&e=600&st=rlCO0i6oFbFdZBwFvie1fGyc_LAIXerv0vEXq5rK3ew' \
+  --compressed \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0' \
+  -H 'Accept: */*' \
+  -H 'Accept-Language: en-US,en;q=0.5' \
+  -H 'Accept-Encoding: gzip, deflate, br' \
+  -H 'Origin: https://www.channel4.com' \
+  -H 'DNT: 1' \
+  -H 'Connection: keep-alive' \
+  -H 'Referer: https://www.channel4.com/' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Site: cross-site'
+
+response #5:
+============
+200
+
+--------------------------------------------------------------------------------
+
+question:
+=========
+how to obtain the URL for each DRM license server?
+
+--------------------------------------------------------------------------------
+
+https://github.com/stabbedbybrick/freevine
+https://github.com/stabbedbybrick/freevine/blob/main/services/channel4/api.yaml
+
+const print_api_1 = (id) => {
+  fetch(`https://www.channel4.com/vod/stream/${id}`)
+    .then(res => res.json())
+    .then(data => data.videoProfiles.map(profile => profile.streams.map(stream => ({uri: stream.uri, token: stream.token}))).reduce((all, some) => [...all, ...some], []))
+    .then(streams => {console.log(JSON.stringify(streams, null, 2))})
+}
+
+const print_api_2 = (id) => {
+  fetch(`https://api.channel4.com/online/v1/vod/stream/${id}?client=android-mod`)
+    .then(res => res.text())
+    .then(console.log)
+}
+
+print_api_1('77468-001')
+print_api_2('77468-001') // 460 invalid_access_token
+print_api_2('12137686') // 460 invalid_access_token
+
+--------------------------------------------------------------------------------
+
+https://github.com/Diazole/c4-dl
+https://github.com/Diazole/c4-dl/blob/master/c4-dl.py
+
+notes:
+* the "decrypt_token" method is interesting..
+
+references:
+  https://www.dlitz.net/software/pycrypto/api/2.6/Crypto.Cipher.AES-module.html
+
+discussion and older version of script that may be more relevant:
+  https://forum.videohelp.com/threads/407024-Channel-4-downloader/page4#post2687125
+  https://github.com/Diazole/c4-dl/blob/7d8589a57afb0a6bf737b933ab0a60f66453184a/c4-dl.py
+
+--------------------------------------------------------------------------------
+
+test:
+=====
+
+{
+  // load "CryptoJS"
+  var s = document.createElement('script')
+  s.setAttribute('src', 'https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.2.0/crypto-js.min.js')
+  document.body.appendChild(s)
+}
+
+// https://cryptojs.gitbook.io/docs#ciphers
+const decryptPkcs7 = function(encryptedData, key) {
+  try {
+    const decrypted = CryptoJS.AES.decrypt(encryptedData, key, {
+      mode: CryptoJS.mode.CBC,
+      padding: CryptoJS.pad.Pkcs7
+    });
+    return decrypted.toString(CryptoJS.enc.Utf8);
+  }
+  catch (error) {
+    console.error("Decryption error:", error);
+    return null;
+  }
+}
+
+const decryptToken = (token) => {
+  const key = "\x41\x59\x44\x49\x44\x38\x53\x44\x46\x42\x50\x34\x4d\x38\x44\x48"
+  const decodedToken = atob(token)
+  return decryptPkcs7(decodedToken, key)
+}
+
+const decryptStreams = (id) => {
+  fetch(`https://www.channel4.com/vod/stream/${id}`)
+    .then(res => res.json())
+    .then(
+      data => data.videoProfiles
+        .map(
+          profile => profile.streams
+            .map(
+              stream => ({uri: stream.uri, token: decryptToken(stream.token)})
+            )
+        )
+        .reduce((all, some) => [...all, ...some], [])
+    )
+    .then(streams => {
+      console.log(JSON.stringify(streams, null, 2))
+    })
+}
+
+decryptStreams('77468-001')
+
+result:
+=======
+* fail: decryption of the tokens does not produce a UTF-8 string
+
+--------------------------------------------------------------------------------
+
+https://static.c4assets.com/all4-player/latest/bundle.app.js
+
+e.exports=JSON.parse('{"baseUrl":"//stage.channel4.com","all4PlusUrl":"//stage.channel4.com/plus","identityUrl":"https://stage.channel4.com/sign-in-or-register?redirectUrl={redirectUrl}&pid={pid}&intcmp=registration_player","globalNavUrl":"//all4nav.stage.channel4.com/v1/js/loader.js?fullNav=yes&header=header","dashJsUrl":"//static.stage.c4assets.com/all4-dashjs/latest/dash.all.min.js","dtmUrl":"https://assets.adobedtm.com/launch-EN2aebbbe053b04d26b4dfd7a6e82fabe5-staging.min.js","enableDASHManifestTimeSegments":"true","vodbsUrl":"https://stage.channel4.com/vod/stream/{programmeId}","vodbsAdserverUrl":"https://stage.channel4.com/adserver","assetStoreUrl":"//static.stage.c4assets.com","sumologic":{"metricsEndpoint":"https://monitor.test.channel4.com/metrics/dotcom/client/html5player","metricsEnabled":"true","logsEndpoint":"https://monitor.test.channel4.com/logs/dotcom/client/html5player","logsEnabled":"true"},"pps":{"baseUri":"https://stage.channel4.com","assetUri":"/player/{websafeTitle}/asset/{assetId}","historyUri":"/player/history/{programmeId}/{resumeSeconds}","watchNextUri":"/player/watch-next/{programmeId}","watchMoreUri":"/player/watch-more/{programmeId}","viewCounterUri":"/player/view/{programmeId}/{requestType}"},"pin":{"forgottenUri":"/4viewers/contact-us","disableUri":"/settings/parental-controls"},"debugEnabled":"false","sdkDebugEnabled":"false","watchMoreEnabled":"true","viewCounterEnabled":"true","gracePeriodSeconds":120,"initVolume":0.5,"autoPlay":"true","isLive":false,"bytes1":"n9cLieYkqwzNCqvi","bytes2":"odzcU3WdUiXLucVd","abr":{"initialBitRate":15000,"minBitRate":0,"maxBitRate":4000000},"deviceData":{"iosDownloadLink":"https://appsto.re/gb/vx1Xz","androidDownloadLink":"https://play.google.com/store/apps/details?id=com.channel4.ondemand","androidIntentScheme":"#Intent;scheme=all4;package=com.channel4.ondemand;end","androidLaunchLink":"intent://views/on-now","iosLaunchLink":"all4://views/on-now"},"protectionData":{"com.widevine.alpha":{"audioCapabilities":[{"contentType":"audio/mp4; codecs=\\"mp4a.40.2\\"","robustness":""}],"videoCapabilities":[{"contentType":"video/mp4; codecs=\\"avc1.42E01F\\"","robustness":""},{"contentType":"video/mp4; codecs=\\"avc1.42E01E\\"","robustness":""},{"contentType":"video/mp4; codecs=\\"avc1.42E015\\"","robustness":""}],"httpRequestHeaders":{"Content-Type":"application/json"},"drmtoday":{"video":{"type":"ondemand"},"message":"CAQ="}},"com.microsoft.playready":{"drmtoday":{"video":{"type":"streaming"}}},"com.apple.fps.1_0":{"certificateURI":"https://static.c4assets.com/all4-dashjs/1.0.23/channel4-fps-cert.der","licenseResponseType":"arraybuffer","httpRequestHeaders":{"Content-type":"application/octet-stream"}}},"protectionExpiration":84600,"kantarTracking":{"sitename":"c4dotcom","pl":"dotcom_html_player","plv":"1.0.0","stream":"od"},"conviva":{"convivaVersion":"4","convivaEnabled":"true","convivaDebugEnabled":"true","heartbeatInterval":5,"clientKey":"b45f12f3d1d8ff61fde258f94943ae3b02a43d94","clientServiceUrl":"https://channel4.testonly.conviva.com"},"chromecast":{"appID":"10AAD887"},"optimizely":{"dataFileUrl":"https://cdn.optimizely.com/datafiles/VoEgxdGnDycMCnVy3RRv2.json","enabled":true},"brazeSDK":{"brazeSdkEndpoint":"sdk.fra-01.braze.eu","brazeSdkApiKey":"59560b94-ea0d-433c-be0f-e0bb437e1cdf","brazeSdkEnabled":"true"},"freewheel":{"networkID":174057,"serverUri":"//2a7e9.v.fwmrm.net","siteSection":{"desktop":"www.channel4.com/4od","ios":"ios.browser.channel4.com/4od","android":"android.browser.channel4.com/4od"},"networkLabel":"c4_html5_live","freewheelStaticAdEnabled":true,"geolocationOverrideValue":"gb"}}')
+e.exports=JSON.parse('{"baseUrl":"//www.channel4.com","all4PlusUrl":"//www.channel4.com/plus","identityUrl":"https://www.channel4.com/sign-in-or-register?redirectUrl={redirectUrl}&pid={pid}&intcmp=registration_player&source=player","identityPBSEndpoint":"https://www.channel4.com/identity/programme","globalNavUrl":"//all4nav.channel4.com/v1/js/loader.js?fullNav=yes&header=header&footer=footer","dashJsUrl":"//static.c4assets.com/all4-dashjs/latest/dash.all.min.js","enableDASHManifestTimeSegments":"true","dtmUrl":"//static.c4assets.com/all4-dtm/latest/dtm.js","vodbsUrl":"https://www.channel4.com/vod/stream/{programmeId}","vodbsAdserverUrl":"https://www.channel4.com/adserver","assetStoreUrl":"//static.c4assets.com","sumologic":{"metricsEndpoint":"https://monitor.channel4.com/metrics/dotcom/client/html5player","metricsEnabled":"true","logsEndpoint":"https://monitor.channel4.com/logs/dotcom/client/html5player","logsEnabled":"true"},"pps":{"baseUri":"//www.channel4.com","assetUri":"/player/{websafeTitle}/asset/{assetId}","historyUri":"/player/history/{programmeId}/{resumeSeconds}","watchNextUri":"/player/watch-next/{programmeId}","watchMoreUri":"/player/watch-more/{programmeId}","viewCounterUri":"/player/view/{programmeId}/{requestType}"},"pin":{"forgottenUri":"/4viewers/contact-us","disableUri":"/settings/parental-controls"},"debugEnabled":"false","sdkDebugEnabled":"false","watchMoreEnabled":"true","viewCounterEnabled":"true","gracePeriodSeconds":120,"initVolume":0.5,"autoPlay":"true","isLive":false,"bytes1":"n9cLieYkqwzNCqvi","bytes2":"odzcU3WdUiXLucVd","abr":{"initialBitRate":15000,"minBitRate":0,"maxBitRate":4000000},"deviceData":{"iosDownloadLink":"https://appsto.re/gb/vx1Xz","androidDownloadLink":"https://play.google.com/store/apps/details?id=com.channel4.ondemand","androidIntentScheme":"#Intent;scheme=all4;package=com.channel4.ondemand;end","androidLaunchLink":"intent://views/on-now","iosLaunchLink":"all4://views/on-now"},"protectionData":{"com.widevine.alpha":{"audioCapabilities":[{"contentType":"audio/mp4; codecs=\\"mp4a.40.2\\"","robustness":""}],"videoCapabilities":[{"contentType":"video/mp4; codecs=\\"avc1.42E01F\\"","robustness":""},{"contentType":"video/mp4; codecs=\\"avc1.42E01E\\"","robustness":""},{"contentType":"video/mp4; codecs=\\"avc1.42E015\\"","robustness":""}],"httpRequestHeaders":{"Content-Type":"application/json"},"drmtoday":{"video":{"type":"ondemand"},"message":"CAQ="}},"com.microsoft.playready":{"drmtoday":{"video":{"type":"streaming"}}},"com.apple.fps.1_0":{"certificateURI":"https://static.c4assets.com/all4-dashjs/1.0.23/channel4-fps-cert.der","licenseResponseType":"arraybuffer","httpRequestHeaders":{"Content-type":"application/octet-stream"}}},"protectionExpiration":84600,"kantarTracking":{"sitename":"c4dotcom","pl":"dotcom_html_player","plv":"1.0.0","stream":"od"},"conviva":{"convivaVersion":"4","convivaEnabled":"true","convivaDebugEnabled":"false","heartbeatInterval":"20","clientKey":"b45f12f3d1d8ff61fde258f94943ae3b02a43d94","clientServiceUrl":"https://cws.conviva.com"},"chromecast":{"appID":"10AAD887"},"optimizely":{"dataFileUrl":"https://cdn.optimizely.com/json/9106712456.json","enabled":true},"brazeSDK":{"brazeSdkEndpoint":"sdk.fra-01.braze.eu","brazeSdkApiKey":"2e1e6ac0-7468-40a8-bc2e-bc60be155231","brazeSdkEnabled":"true"},"freewheel":{"networkID":"174057","serverUri":"//2a7e9.v.fwmrm.net","siteSection":{"desktop":"www.channel4.com/4od","ios":"ios.browser.channel4.com/4od","android":"android.browser.channel4.com/4od"},"networkLabel":"c4_html5_live","freewheelStaticAdEnabled":"true","geolocationOverrideValue":"none"}}')
+e.exports=JSON.parse('{"aes-128-ecb":{"cipher":"AES","key":128,"iv":0,"mode":"ECB","type":"block"},"aes-192-ecb":{"cipher":"AES","key":192,"iv":0,"mode":"ECB","type":"block"},"aes-256-ecb":{"cipher":"AES","key":256,"iv":0,"mode":"ECB","type":"block"},"aes-128-cbc":{"cipher":"AES","key":128,"iv":16,"mode":"CBC","type":"block"},"aes-192-cbc":{"cipher":"AES","key":192,"iv":16,"mode":"CBC","type":"block"},"aes-256-cbc":{"cipher":"AES","key":256,"iv":16,"mode":"CBC","type":"block"},"aes128":{"cipher":"AES","key":128,"iv":16,"mode":"CBC","type":"block"},"aes192":{"cipher":"AES","key":192,"iv":16,"mode":"CBC","type":"block"},"aes256":{"cipher":"AES","key":256,"iv":16,"mode":"CBC","type":"block"},"aes-128-cfb":{"cipher":"AES","key":128,"iv":16,"mode":"CFB","type":"stream"},"aes-192-cfb":{"cipher":"AES","key":192,"iv":16,"mode":"CFB","type":"stream"},"aes-256-cfb":{"cipher":"AES","key":256,"iv":16,"mode":"CFB","type":"stream"},"aes-128-cfb8":{"cipher":"AES","key":128,"iv":16,"mode":"CFB8","type":"stream"},"aes-192-cfb8":{"cipher":"AES","key":192,"iv":16,"mode":"CFB8","type":"stream"},"aes-256-cfb8":{"cipher":"AES","key":256,"iv":16,"mode":"CFB8","type":"stream"},"aes-128-cfb1":{"cipher":"AES","key":128,"iv":16,"mode":"CFB1","type":"stream"},"aes-192-cfb1":{"cipher":"AES","key":192,"iv":16,"mode":"CFB1","type":"stream"},"aes-256-cfb1":{"cipher":"AES","key":256,"iv":16,"mode":"CFB1","type":"stream"},"aes-128-ofb":{"cipher":"AES","key":128,"iv":16,"mode":"OFB","type":"stream"},"aes-192-ofb":{"cipher":"AES","key":192,"iv":16,"mode":"OFB","type":"stream"},"aes-256-ofb":{"cipher":"AES","key":256,"iv":16,"mode":"OFB","type":"stream"},"aes-128-ctr":{"cipher":"AES","key":128,"iv":16,"mode":"CTR","type":"stream"},"aes-192-ctr":{"cipher":"AES","key":192,"iv":16,"mode":"CTR","type":"stream"},"aes-256-ctr":{"cipher":"AES","key":256,"iv":16,"mode":"CTR","type":"stream"},"aes-128-gcm":{"cipher":"AES","key":128,"iv":12,"mode":"GCM","type":"auth"},"aes-192-gcm":{"cipher":"AES","key":192,"iv":12,"mode":"GCM","type":"auth"},"aes-256-gcm":{"cipher":"AES","key":256,"iv":12,"mode":"GCM","type":"auth"}}')
+e.exports=JSON.parse('{"sha224WithRSAEncryption":{"sign":"rsa","hash":"sha224","id":"302d300d06096086480165030402040500041c"},"RSA-SHA224":{"sign":"ecdsa/rsa","hash":"sha224","id":"302d300d06096086480165030402040500041c"},"sha256WithRSAEncryption":{"sign":"rsa","hash":"sha256","id":"3031300d060960864801650304020105000420"},"RSA-SHA256":{"sign":"ecdsa/rsa","hash":"sha256","id":"3031300d060960864801650304020105000420"},"sha384WithRSAEncryption":{"sign":"rsa","hash":"sha384","id":"3041300d060960864801650304020205000430"},"RSA-SHA384":{"sign":"ecdsa/rsa","hash":"sha384","id":"3041300d060960864801650304020205000430"},"sha512WithRSAEncryption":{"sign":"rsa","hash":"sha512","id":"3051300d060960864801650304020305000440"},"RSA-SHA512":{"sign":"ecdsa/rsa","hash":"sha512","id":"3051300d060960864801650304020305000440"},"RSA-SHA1":{"sign":"rsa","hash":"sha1","id":"3021300906052b0e03021a05000414"},"ecdsa-with-SHA1":{"sign":"ecdsa","hash":"sha1","id":""},"sha256":{"sign":"ecdsa","hash":"sha256","id":""},"sha224":{"sign":"ecdsa","hash":"sha224","id":""},"sha384":{"sign":"ecdsa","hash":"sha384","id":""},"sha512":{"sign":"ecdsa","hash":"sha512","id":""},"DSA-SHA":{"sign":"dsa","hash":"sha1","id":""},"DSA-SHA1":{"sign":"dsa","hash":"sha1","id":""},"DSA":{"sign":"dsa","hash":"sha1","id":""},"DSA-WITH-SHA224":{"sign":"dsa","hash":"sha224","id":""},"DSA-SHA224":{"sign":"dsa","hash":"sha224","id":""},"DSA-WITH-SHA256":{"sign":"dsa","hash":"sha256","id":""},"DSA-SHA256":{"sign":"dsa","hash":"sha256","id":""},"DSA-WITH-SHA384":{"sign":"dsa","hash":"sha384","id":""},"DSA-SHA384":{"sign":"dsa","hash":"sha384","id":""},"DSA-WITH-SHA512":{"sign":"dsa","hash":"sha512","id":""},"DSA-SHA512":{"sign":"dsa","hash":"sha512","id":""},"DSA-RIPEMD160":{"sign":"dsa","hash":"rmd160","id":""},"ripemd160WithRSA":{"sign":"rsa","hash":"rmd160","id":"3021300906052b2403020105000414"},"RSA-RIPEMD160":{"sign":"rsa","hash":"rmd160","id":"3021300906052b2403020105000414"},"md5WithRSAEncryption":{"sign":"rsa","hash":"md5","id":"3020300c06082a864886f70d020505000410"},"RSA-MD5":{"sign":"rsa","hash":"md5","id":"3020300c06082a864886f70d020505000410"}}')
+e.exports=JSON.parse('{"1.3.132.0.10":"secp256k1","1.3.132.0.33":"p224","1.2.840.10045.3.1.1":"p192","1.2.840.10045.3.1.7":"p256","1.3.132.0.34":"p384","1.3.132.0.35":"p521"}')
+e.exports=JSON.parse('{"modp1":{"gen":"02","prime":"ffffffffffffffffc90fdaa22168c234c4c6628b80dc1cd129024e088a67cc74020bbea63b139b22514a08798e3404ddef9519b3cd3a431b302b0a6df25f14374fe1356d6d51c245e485b576625e7ec6f44c42e9a63a3620ffffffffffffffff"},"modp2":{"gen":"02","prime":"ffffffffffffffffc90fdaa22168c234c4c6628b80dc1cd129024e088a67cc74020bbea63b139b22514a08798e3404ddef9519b3cd3a431b302b0a6df25f14374fe1356d6d51c245e485b576625e7ec6f44c42e9a637ed6b0bff5cb6f406b7edee386bfb5a899fa5ae9f24117c4b1fe649286651ece65381ffffffffffffffff"},"modp5":{"gen":"02","prime":"ffffffffffffffffc90fdaa22168c234c4c6628b80dc1cd129024e088a67cc74020bbea63b139b22514a08798e3404ddef9519b3cd3a431b302b0a6df25f14374fe1356d6d51c245e485b576625e7ec6f44c42e9a637ed6b0bff5cb6f406b7edee386bfb5a899fa5ae9f24117c4b1fe649286651ece45b3dc2007cb8a163bf0598da48361c55d39a69163fa8fd24cf5f83655d23dca3ad961c62f356208552bb9ed529077096966d670c354e4abc9804f1746c08ca237327ffffffffffffffff"},"modp14":{"gen":"02","prime":"ffffffffffffffffc90fdaa22168c234c4c6628b80dc1cd129024e088a67cc74020bbea63b139b22514a08798e3404ddef9519b3cd3a431b302b0a6df25f14374fe1356d6d51c245e485b576625e7ec6f44c42e9a637ed6b0bff5cb6f406b7edee386bfb5a899fa5ae9f24117c4b1fe649286651ece45b3dc2007cb8a163bf0598da48361c55d39a69163fa8fd24cf5f83655d23dca3ad961c62f356208552bb9ed529077096966d670c354e4abc9804f1746c08ca18217c32905e462e36ce3be39e772c180e86039b2783a2ec07a28fb5c55df06f4c52c9de2bcbf6955817183995497cea956ae515d2261898fa051015728e5a8aacaa68ffffffffffffffff"},"modp15":{"gen":"02","prime":"ffffffffffffffffc90fdaa22168c234c4c6628b80dc1cd129024e088a67cc74020bbea63b139b22514a08798e3404ddef9519b3cd3a431b302b0a6df25f14374fe1356d6d51c245e485b576625e7ec6f44c42e9a637ed6b0bff5cb6f406b7edee386bfb5a899fa5ae9f24117c4b1fe649286651ece45b3dc2007cb8a163bf0598da48361c55d39a69163fa8fd24cf5f83655d23dca3ad961c62f356208552bb9ed529077096966d670c354e4abc9804f1746c08ca18217c32905e462e36ce3be39e772c180e86039b2783a2ec07a28fb5c55df06f4c52c9de2bcbf6955817183995497cea956ae515d2261898fa051015728e5a8aaac42dad33170d04507a33a85521abdf1cba64ecfb850458dbef0a8aea71575d060c7db3970f85a6e1e4c7abf5ae8cdb0933d71e8c94e04a25619dcee3d2261ad2ee6bf12ffa06d98a0864d87602733ec86a64521f2b18177b200cbbe117577a615d6c770988c0bad946e208e24fa074e5ab3143db5bfce0fd108e4b82d120a93ad2caffffffffffffffff"},"modp16":{"gen":"02","prime":"ffffffffffffffffc90fdaa22168c234c4c6628b80dc1cd129024e088a67cc74020bbea63b139b22514a08798e3404ddef9519b3cd3a431b302b0a6df25f14374fe1356d6d51c245e485b576625e7ec6f44c42e9a637ed6b0bff5cb6f406b7edee386bfb5a899fa5ae9f24117c4b1fe649286651ece45b3dc2007cb8a163bf0598da48361c55d39a69163fa8fd24cf5f83655d23dca3ad961c62f356208552bb9ed529077096966d670c354e4abc9804f1746c08ca18217c32905e462e36ce3be39e772c180e86039b2783a2ec07a28fb5c55df06f4c52c9de2bcbf6955817183995497cea956ae515d2261898fa051015728e5a8aaac42dad33170d04507a33a85521abdf1cba64ecfb850458dbef0a8aea71575d060c7db3970f85a6e1e4c7abf5ae8cdb0933d71e8c94e04a25619dcee3d2261ad2ee6bf12ffa06d98a0864d87602733ec86a64521f2b18177b200cbbe117577a615d6c770988c0bad946e208e24fa074e5ab3143db5bfce0fd108e4b82d120a92108011a723c12a787e6d788719a10bdba5b2699c327186af4e23c1a946834b6150bda2583e9ca2ad44ce8dbbbc2db04de8ef92e8efc141fbecaa6287c59474e6bc05d99b2964fa090c3a2233ba186515be7ed1f612970cee2d7afb81bdd762170481cd0069127d5b05aa993b4ea988d8fddc186ffb7dc90a6c08f4df435c934063199ffffffffffffffff"},"modp17":{"gen":"02","prime":"ffffffffffffffffc90fdaa22168c234c4c6628b80dc1cd129024e088a67cc74020bbea63b139b22514a08798e3404ddef9519b3cd3a431b302b0a6df25f14374fe1356d6d51c245e485b576625e7ec6f44c42e9a637ed6b0bff5cb6f406b7edee386bfb5a899fa5ae9f24117c4b1fe649286651ece45b3dc2007cb8a163bf0598da48361c55d39a69163fa8fd24cf5f83655d23dca3ad961c62f356208552bb9ed529077096966d670c354e4abc9804f1746c08ca18217c32905e462e36ce3be39e772c180e86039b2783a2ec07a28fb5c55df06f4c52c9de2bcbf6955817183995497cea956ae515d2261898fa051015728e5a8aaac42dad33170d04507a33a85521abdf1cba64ecfb850458dbef0a8aea71575d060c7db3970f85a6e1e4c7abf5ae8cdb0933d71e8c94e04a25619dcee3d2261ad2ee6bf12ffa06d98a0864d87602733ec86a64521f2b18177b200cbbe117577a615d6c770988c0bad946e208e24fa074e5ab3143db5bfce0fd108e4b82d120a92108011a723c12a787e6d788719a10bdba5b2699c327186af4e23c1a946834b6150bda2583e9ca2ad44ce8dbbbc2db04de8ef92e8efc141fbecaa6287c59474e6bc05d99b2964fa090c3a2233ba186515be7ed1f612970cee2d7afb81bdd762170481cd0069127d5b05aa993b4ea988d8fddc186ffb7dc90a6c08f4df435c93402849236c3fab4d27c7026c1d4dcb2602646dec9751e763dba37bdf8ff9406ad9e530ee5db382f413001aeb06a53ed9027d831179727b0865a8918da3edbebcf9b14ed44ce6cbaced4bb1bdb7f1447e6cc254b332051512bd7af426fb8f401378cd2bf5983ca01c64b92ecf032ea15d1721d03f482d7ce6e74fef6d55e702f46980c82b5a84031900b1c9e59e7c97fbec7e8f323a97a7e36cc88be0f1d45b7ff585ac54bd407b22b4154aacc8f6d7ebf48e1d814cc5ed20f8037e0a79715eef29be32806a1d58bb7c5da76f550aa3d8a1fbff0eb19ccb1a313d55cda56c9ec2ef29632387fe8d76e3c0468043e8f663f4860ee12bf2d5b0b7474d6e694f91e6dcc4024ffffffffffffffff"},"modp18":{"gen":"02","prime":"ffffffffffffffffc90fdaa22168c234c4c6628b80dc1cd129024e088a67cc74020bbea63b139b22514a08798e3404ddef9519b3cd3a431b302b0a6df25f14374fe1356d6d51c245e485b576625e7ec6f44c42e9a637ed6b0bff5cb6f406b7edee386bfb5a899fa5ae9f24117c4b1fe649286651ece45b3dc2007cb8a163bf0598da48361c55d39a69163fa8fd24cf5f83655d23dca3ad961c62f356208552bb9ed529077096966d670c354e4abc9804f1746c08ca18217c32905e462e36ce3be39e772c180e86039b2783a2ec07a28fb5c55df06f4c52c9de2bcbf6955817183995497cea956ae515d2261898fa051015728e5a8aaac42dad33170d04507a33a85521abdf1cba64ecfb850458dbef0a8aea71575d060c7db3970f85a6e1e4c7abf5ae8cdb0933d71e8c94e04a25619dcee3d2261ad2ee6bf12ffa06d98a0864d87602733ec86a64521f2b18177b200cbbe117577a615d6c770988c0bad946e208e24fa074e5ab3143db5bfce0fd108e4b82d120a92108011a723c12a787e6d788719a10bdba5b2699c327186af4e23c1a946834b6150bda2583e9ca2ad44ce8dbbbc2db04de8ef92e8efc141fbecaa6287c59474e6bc05d99b2964fa090c3a2233ba186515be7ed1f612970cee2d7afb81bdd762170481cd0069127d5b05aa993b4ea988d8fddc186ffb7dc90a6c08f4df435c93402849236c3fab4d27c7026c1d4dcb2602646dec9751e763dba37bdf8ff9406ad9e530ee5db382f413001aeb06a53ed9027d831179727b0865a8918da3edbebcf9b14ed44ce6cbaced4bb1bdb7f1447e6cc254b332051512bd7af426fb8f401378cd2bf5983ca01c64b92ecf032ea15d1721d03f482d7ce6e74fef6d55e702f46980c82b5a84031900b1c9e59e7c97fbec7e8f323a97a7e36cc88be0f1d45b7ff585ac54bd407b22b4154aacc8f6d7ebf48e1d814cc5ed20f8037e0a79715eef29be32806a1d58bb7c5da76f550aa3d8a1fbff0eb19ccb1a313d55cda56c9ec2ef29632387fe8d76e3c0468043e8f663f4860ee12bf2d5b0b7474d6e694f91e6dbe115974a3926f12fee5e438777cb6a932df8cd8bec4d073b931ba3bc832b68d9dd300741fa7bf8afc47ed2576f6936ba424663aab639c5ae4f5683423b4742bf1c978238f16cbe39d652de3fdb8befc848ad922222e04a4037c0713eb57a81a23f0c73473fc646cea306b4bcbc8862f8385ddfa9d4b7fa2c087e879683303ed5bdd3a062b3cf5b3a278a66d2a13f83f44f82ddf310ee074ab6a364597e899a0255dc164f31cc50846851df9ab48195ded7ea1b1d510bd7ee74d73faf36bc31ecfa268359046f4eb879f924009438b481c6cd7889a002ed5ee382bc9190da6fc026e479558e4475677e9aa9e3050e2765694dfc81f56e880b96e7160c980dd98edd3dfffffffffffffffff"}}')
+e.exports=JSON.parse('{"2.16.840.1.101.3.4.1.1":"aes-128-ecb","2.16.840.1.101.3.4.1.2":"aes-128-cbc","2.16.840.1.101.3.4.1.3":"aes-128-ofb","2.16.840.1.101.3.4.1.4":"aes-128-cfb","2.16.840.1.101.3.4.1.21":"aes-192-ecb","2.16.840.1.101.3.4.1.22":"aes-192-cbc","2.16.840.1.101.3.4.1.23":"aes-192-ofb","2.16.840.1.101.3.4.1.24":"aes-192-cfb","2.16.840.1.101.3.4.1.41":"aes-256-ecb","2.16.840.1.101.3.4.1.42":"aes-256-cbc","2.16.840.1.101.3.4.1.43":"aes-256-ofb","2.16.840.1.101.3.4.1.44":"aes-256-cfb"}')
+
+[python] the 2nd one is cherry-picked:
+e.exports=JSON.parse('{"baseUrl":"//www.channel4.com","all4PlusUrl":"//www.channel4.com/plus","identityUrl":"https://www.channel4.com/sign-in-or-register?redirectUrl={redirectUrl}&pid={pid}&intcmp=registration_player&source=player","identityPBSEndpoint":"https://www.channel4.com/identity/programme","globalNavUrl":"//all4nav.channel4.com/v1/js/loader.js?fullNav=yes&header=header&footer=footer","dashJsUrl":"//static.c4assets.com/all4-dashjs/latest/dash.all.min.js","enableDASHManifestTimeSegments":"true","dtmUrl":"//static.c4assets.com/all4-dtm/latest/dtm.js","vodbsUrl":"https://www.channel4.com/vod/stream/{programmeId}","vodbsAdserverUrl":"https://www.channel4.com/adserver","assetStoreUrl":"//static.c4assets.com","sumologic":{"metricsEndpoint":"https://monitor.channel4.com/metrics/dotcom/client/html5player","metricsEnabled":"true","logsEndpoint":"https://monitor.channel4.com/logs/dotcom/client/html5player","logsEnabled":"true"},"pps":{"baseUri":"//www.channel4.com","assetUri":"/player/{websafeTitle}/asset/{assetId}","historyUri":"/player/history/{programmeId}/{resumeSeconds}","watchNextUri":"/player/watch-next/{programmeId}","watchMoreUri":"/player/watch-more/{programmeId}","viewCounterUri":"/player/view/{programmeId}/{requestType}"},"pin":{"forgottenUri":"/4viewers/contact-us","disableUri":"/settings/parental-controls"},"debugEnabled":"false","sdkDebugEnabled":"false","watchMoreEnabled":"true","viewCounterEnabled":"true","gracePeriodSeconds":120,"initVolume":0.5,"autoPlay":"true","isLive":false,"bytes1":"n9cLieYkqwzNCqvi","bytes2":"odzcU3WdUiXLucVd","abr":{"initialBitRate":15000,"minBitRate":0,"maxBitRate":4000000},"deviceData":{"iosDownloadLink":"https://appsto.re/gb/vx1Xz","androidDownloadLink":"https://play.google.com/store/apps/details?id=com.channel4.ondemand","androidIntentScheme":"#Intent;scheme=all4;package=com.channel4.ondemand;end","androidLaunchLink":"intent://views/on-now","iosLaunchLink":"all4://views/on-now"},"protectionData":{"com.widevine.alpha":{"audioCapabilities":[{"contentType":"audio/mp4; codecs=\\"mp4a.40.2\\"","robustness":""}],"videoCapabilities":[{"contentType":"video/mp4; codecs=\\"avc1.42E01F\\"","robustness":""},{"contentType":"video/mp4; codecs=\\"avc1.42E01E\\"","robustness":""},{"contentType":"video/mp4; codecs=\\"avc1.42E015\\"","robustness":""}],"httpRequestHeaders":{"Content-Type":"application/json"},"drmtoday":{"video":{"type":"ondemand"},"message":"CAQ="}},"com.microsoft.playready":{"drmtoday":{"video":{"type":"streaming"}}},"com.apple.fps.1_0":{"certificateURI":"https://static.c4assets.com/all4-dashjs/1.0.23/channel4-fps-cert.der","licenseResponseType":"arraybuffer","httpRequestHeaders":{"Content-type":"application/octet-stream"}}},"protectionExpiration":84600,"kantarTracking":{"sitename":"c4dotcom","pl":"dotcom_html_player","plv":"1.0.0","stream":"od"},"conviva":{"convivaVersion":"4","convivaEnabled":"true","convivaDebugEnabled":"false","heartbeatInterval":"20","clientKey":"b45f12f3d1d8ff61fde258f94943ae3b02a43d94","clientServiceUrl":"https://cws.conviva.com"},"chromecast":{"appID":"10AAD887"},"optimizely":{"dataFileUrl":"https://cdn.optimizely.com/json/9106712456.json","enabled":true},"brazeSDK":{"brazeSdkEndpoint":"sdk.fra-01.braze.eu","brazeSdkApiKey":"2e1e6ac0-7468-40a8-bc2e-bc60be155231","brazeSdkEnabled":"true"},"freewheel":{"networkID":"174057","serverUri":"//2a7e9.v.fwmrm.net","siteSection":{"desktop":"www.channel4.com/4od","ios":"ios.browser.channel4.com/4od","android":"android.browser.channel4.com/4od"},"networkLabel":"c4_html5_live","freewheelStaticAdEnabled":"true","geolocationOverrideValue":"none"}}')
+
+[python]:
+  vod_config = VodConfig(config['vodbsUrl'], config['bytes1'], config['bytes2'], drm_today, '')
+where:
+  config['vodbsUrl'] = "https://www.channel4.com/vod/stream/{programmeId}"
+  config['bytes1']   = "n9cLieYkqwzNCqvi" // key
+  config['bytes2']   = "odzcU3WdUiXLucVd" // iv
+  video_type = config['protectionData']['com.widevine.alpha']['drmtoday']['video']['type'] = "ondemand"
+  message = config['protectionData']['com.widevine.alpha']['drmtoday']['message'] = "CAQ="
+
+--------------------------------------------------------------------------------
+
+test:
+=====
+
+{
+  // load "CryptoJS"
+  var s = document.createElement('script')
+  s.setAttribute('src', 'https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.2.0/crypto-js.min.js')
+  document.body.appendChild(s)
+}
+
+// https://cryptojs.gitbook.io/docs#ciphers
+// https://cryptojs.gitbook.io/docs#custom-key-and-iv
+const decryptPkcs7 = function(encryptedData, key, iv) {
+  try {
+    key = CryptoJS.enc.Base64.parse(key);
+    iv  = CryptoJS.enc.Base64.parse(iv);
+
+    const decrypted = CryptoJS.AES.decrypt(encryptedData, key, {
+      iv: iv,
+      mode: CryptoJS.mode.CBC,
+      padding: CryptoJS.pad.Pkcs7
+    });
+    return decrypted.toString(CryptoJS.enc.Utf8);
+  }
+  catch (error) {
+    console.error("Decryption error:", error);
+    return null;
+  }
+}
+
+const decryptToken = (token) => {
+  const key = "n9cLieYkqwzNCqvi"
+  const iv  = "odzcU3WdUiXLucVd"
+  const decodedToken = atob(token)
+  return decryptPkcs7(decodedToken, key, iv)
+}
+
+const decryptStreams = (id) => {
+  fetch(`https://www.channel4.com/vod/stream/${id}`)
+    .then(res => res.json())
+    .then(
+      data => data.videoProfiles
+        .map(
+          profile => profile.streams
+            .map(
+              stream => ({uri: stream.uri, token: decryptToken(stream.token)})
+            )
+        )
+        .reduce((all, some) => [...all, ...some], [])
+    )
+    .then(streams => {
+      console.log(JSON.stringify(streams, null, 2))
+    })
+}
+
+decryptStreams('77468-001')
+
+result:
+=======
+* fail: decryption of the tokens does not produce a UTF-8 string
+
+--------------------------------------------------------------------------------
+
+test:
+=====
+
+{
+  const token = "N7gcqe+YqA2R/w4/7MirY2EPVnn9KMt7pp/tAPBCeOxPTBgnuAAKao4vYCwg6+/iesCJyiJzl9p/HftP/8PfQMCuXuRDRdVtjQY7c1et4Qxb9OtecXg4oL+eCY0Gqza7ut3FoiTbqlw2bVVAJeY1/CxBBXRbIAM6JnG4RBmcRJgIEIQD9P7rfp5tttM6SdcEpj2wdBACEVXMeGRneoSPDYV51v6yAxrhGccVRaL7pkqE+bij5jV0Aa4eE4nRVjcxfJy4yh6nAhl8TKVM0E58HIW+ekEwjpuiXNC+WXx0V7pp9C/rPsJvKqKFIHhL89J5"
+
+  const key = CryptoJS.enc.Base64.parse("n9cLieYkqwzNCqvi")
+  const iv  = CryptoJS.enc.Base64.parse("odzcU3WdUiXLucVd")
+  const aesDecryptor = CryptoJS.algo.AES.createDecryptor(key, { iv: iv })
+
+  console.log(
+    aesDecryptor.process(token).toString(CryptoJS.enc.Utf8)
+  )
+}
+
+result:
+=======
+* fail: decryption of the tokens does not produce a UTF-8 string
+
+--------------------------------------------------------------------------------
+
+https://static.c4assets.com/all4-player/latest/bundle.app.js
+
+internal parser:
+================
+
+var I=function(e,t){if(!(this instanceof I))throw Error("AES must be instanitated with `new`");if(this.description="Cipher Block Chaining",this.name="cbc",t){if(16!=t.length)throw new Error("invalid initialation vector size (must be 16 bytes)")}else t=o(16);this._lastCipherblock=i(t,!0),this._aes=new O(e)};
+I.prototype.encrypt=function(e){if((e=i(e)).length%16!=0)throw new Error("invalid plaintext size (must be multiple of 16 bytes)");for(var t=o(e.length),r=o(16),n=0;n<e.length;n+=16){a(e,r,0,n,n+16);for(var s=0;s<16;s++)r[s]^=this._lastCipherblock[s];this._lastCipherblock=this._aes.encrypt(r),a(this._lastCipherblock,t,n)}return t};
+I.prototype.decrypt=function(e){if((e=i(e)).length%16!=0)throw new Error("invalid ciphertext size (must be multiple of 16 bytes)");for(var t=o(e.length),r=o(16),n=0;n<e.length;n+=16){a(e,r,0,n,n+16),r=this._aes.decrypt(r);for(var s=0;s<16;s++)t[n+s]=r[s]^this._lastCipherblock[s];a(e,this._lastCipherblock,0,n,n+16)}return t};
+
+var P=function(e,t,r){if(!(this instanceof P))throw Error("AES must be instanitated with `new`");if(this.description="Cipher Feedback",this.name="cfb",t){if(16!=t.length)throw new Error("invalid initialation vector size (must be 16 size)")}else t=o(16);r||(r=1),this.segmentSize=r,this._shiftRegister=i(t,!0),this._aes=new O(e)};
+P.prototype.encrypt=function(e){if(e.length%this.segmentSize!=0)throw new Error("invalid plaintext size (must be segmentSize bytes)");for(var t,r=i(e,!0),n=0;n<r.length;n+=this.segmentSize){t=this._aes.encrypt(this._shiftRegister);for(var o=0;o<this.segmentSize;o++)r[n+o]^=t[o];a(this._shiftRegister,this._shiftRegister,0,this.segmentSize),a(r,this._shiftRegister,16-this.segmentSize,n,n+this.segmentSize)}return r};
+P.prototype.decrypt=function(e){if(e.length%this.segmentSize!=0)throw new Error("invalid ciphertext size (must be segmentSize bytes)");for(var t,r=i(e,!0),n=0;n<r.length;n+=this.segmentSize){t=this._aes.encrypt(this._shiftRegister);for(var o=0;o<this.segmentSize;o++)r[n+o]^=t[o];a(this._shiftRegister,this._shiftRegister,0,this.segmentSize),a(e,this._shiftRegister,16-this.segmentSize,n,n+this.segmentSize)}return r};
+
+var C=function(e,t){if(!(this instanceof C))throw Error("AES must be instanitated with `new`");if(this.description="Output Feedback",this.name="ofb",t){if(16!=t.length)throw new Error("invalid initialation vector size (must be 16 bytes)")}else t=o(16);this._lastPrecipher=i(t,!0),this._lastPrecipherIndex=16,this._aes=new O(e)};
+C.prototype.encrypt=function(e){for(var t=i(e,!0),r=0;r<t.length;r++)16===this._lastPrecipherIndex&&(this._lastPrecipher=this._aes.encrypt(this._lastPrecipher),this._lastPrecipherIndex=0),t[r]^=this._lastPrecipher[this._lastPrecipherIndex++];return t};
+C.prototype.decrypt=C.prototype.encrypt;
+
+{
+ ModeOfOperation: {ecb:M,cbc:I,cfb:P,ofb:C,ctr:D}
+}
+
+{
+  key: "base64DecodeUint8Array",
+  value: function(e) {
+    for (var t = window.atob(e), r = t.length, n = new Uint8Array(new ArrayBuffer(r)), i = 0; i < r; i += 1) n[i] = t.charCodeAt(i);
+    return n
+  }
+}
+
+{
+  key: "ab2str",
+  value: function(e, t) {
+    return String.fromCharCode.apply(null, t === v.default.PLAY_READY ? new Uint16Array(e) : new Uint8Array(e))
+  }
+}
+
+{
+  key: "getVODBSMessage",
+  value: function(e, t, r, n) {
+    if (!r || "" === r) return "|";
+    var i = new h.default.ModeOfOperation.cbc(e, t).decrypt(this.base64DecodeUint8Array(r), !1);
+    return this.ab2str(h.default.padding.pkcs7.strip(i), n)
+  }
+}
+
+var a = o.streams[0]
+var s = h.getModifiedStreamURI(this.config.enableDASHManifestTimeSegments, a.uri)
+
+this.uriData = {
+  cdn: o.cdn,
+  streamUri: s,
+  token: a.token
+}
+
+t.default={WIDEVINE:"dashwv-dyn-stream-1",FAIR_PLAY:"hls-dyn-stream-1",PLAY_READY:"dashpr-dyn-stream-1"}
+
+this.bytes1 = h.default.utils.utf8.toBytes(this.config.bytes1)
+this.bytes2 = h.default.utils.utf8.toBytes(this.config.bytes2)
+
+this.vodbsMessage = this.constructor.getVODBSMessage(this.bytes1, this.bytes2, this.uriData.token, this.profile)
+
+switch (this.profile) {
+  case v.default.WIDEVINE:
+    var l = {
+      "com.widevine.alpha": this.config.protectionData["com.widevine.alpha"]
+    }
+    var c = this.vodbsMessage.split("|")
+
+    l["com.widevine.alpha"].serverURL = c[0]
+    l["com.widevine.alpha"].drmtoday.profile = this.profile
+    l["com.widevine.alpha"].drmtoday.request_id = e.assetId
+    l["com.widevine.alpha"].drmtoday.token = String(c[1])
+    l["com.widevine.alpha"].drmtoday.video.url = this.uriData.streamUri
+  break
+}
+
+l && this.player.setProtectionData(l)
+
+embedded library:
+=================
+
+https://github.com/ricmoo/aes-js#cbc---cipher-block-chaining-recommended
+
+https://cdn.jsdelivr.net/gh/ricmoo/aes-js@latest/index.js
+https://cdn.jsdelivr.net/gh/ricmoo/aes-js@3.1.2/index.js
+
+--------------------------------------------------------------------------------
+
+test:
+=====
+
+{
+  // load "aes-js"
+  const s = document.createElement('script')
+  s.setAttribute('src', 'https://cdn.jsdelivr.net/gh/ricmoo/aes-js@3.1.2/index.js')
+  document.body.appendChild(s)
+}
+
+const video_profile_names = {WIDEVINE:"dashwv-dyn-stream-1",FAIR_PLAY:"hls-dyn-stream-1",PLAY_READY:"dashpr-dyn-stream-1"}
+
+const base64DecodeUint8Array = function(e) {
+  for (var t = window.atob(e), r = t.length, n = new Uint8Array(new ArrayBuffer(r)), i = 0; i < r; i += 1) n[i] = t.charCodeAt(i);
+  return n
+}
+
+//ab2str
+const arrayBuffer_to_string = function(e, t) {
+  return String.fromCharCode.apply(null, t === video_profile_names.PLAY_READY ? new Uint16Array(e) : new Uint8Array(e))
+}
+
+const getVODBSMessage = function(key, iv, token, video_profile_name) {
+  key = aesjs.utils.utf8.toBytes(key)
+  iv  = aesjs.utils.utf8.toBytes(iv)
+
+  const encryptedBytes = base64DecodeUint8Array(token)
+  const aesCbc = new aesjs.ModeOfOperation.cbc(key, iv)
+  const decryptedBytes = aesCbc.decrypt(encryptedBytes, false)
+  const strippedBytes = aesjs.padding.pkcs7.strip(decryptedBytes)
+  const message = arrayBuffer_to_string(strippedBytes, video_profile_name)
+
+  return message
+}
+
+getVODBSMessage(
+  /* key= */   "n9cLieYkqwzNCqvi",
+  /* iv=  */   "odzcU3WdUiXLucVd",
+  /* token= */ "N7gcqe+YqA2R/w4/7MirY2EPVnn9KMt7pp/tAPBCeOxPTBgnuAAKao4vYCwg6+/iesCJyiJzl9p/HftP/8PfQMCuXuRDRdVtjQY7c1et4Qxb9OtecXg4oL+eCY0Gqza7ut3FoiTbqlw2bVVAJeY1/CxBBXRbIAM6JnG4RBmcRJgIEIQD9P7rfp5tttM6SdcEpj2wdBACEVXMeGRneoSPDYV51v6yAxrhGccVRaL7pkqE+bij5jV0Aa4eE4nRVjcxfJy4yh6nAhl8TKVM0E58HIW+ekEwjpuiXNC+WXx0V7pp9C/rPsJvKqKFIHhL89J5",
+  /* video_profile_name= */ video_profile_names.WIDEVINE
+)
+
+result:
+=======
+* success!
+
+output:
+=======
+https://c4.eme.lp.aws.redbeemedia.com/wvlicenceproxy-service/widevine/acquire|YVNGRkl5bUUYeJBPg0enpGroKOnXS9P_a-UvlTAaxrZNatJEqdjH2INyS27o55ARjIGGaYS9n_Wu4MI3gUp0moT0RxCMxNPN65uReqMZqHpLE9rOerREKVD1mhtEP3MhiUl7zIV97PiUYLKnImZLuPdcHyi4HZ0R
+
+where:
+======
+Widevine license server = https://c4.eme.lp.aws.redbeemedia.com/wvlicenceproxy-service/widevine/acquire
+decrypted token         = YVNGRkl5bUUYeJBPg0enpGroKOnXS9P_a-UvlTAaxrZNatJEqdjH2INyS27o55ARjIGGaYS9n_Wu4MI3gUp0moT0RxCMxNPN65uReqMZqHpLE9rOerREKVD1mhtEP3MhiUl7zIV97PiUYLKnImZLuPdcHyi4HZ0R
+
+--------------------------------------------------------------------------------
+
+question:
+=========
+how is this decrypted token passed to the Widevine license server?
+
+notes:
+======
+* I'm guessing that it needs to be..
+  since playback of the video is currently failing due to DRM
+
+related?
+========
+https://forum.videohelp.com/threads/413679-Channel4-help-to-get-keys
+
+--------------------------------------------------------------------------------
+
+browser request:
+================
+
+curl 'https://c4.eme.lp.aws.redbeemedia.com/wvlicenceproxy-service/widevine/acquire' \
+  -X POST \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0' \
+  -H 'Accept: */*' \
+  -H 'Accept-Language: en-US,en;q=0.5' \
+  -H 'Accept-Encoding: gzip, deflate, br' \
+  -H 'Content-Type: application/json' \
+  -H 'Origin: https://www.channel4.com' \
+  -H 'DNT: 1' \
+  -H 'Connection: keep-alive' \
+  -H 'Referer: https://www.channel4.com/' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Site: cross-site' \
+  --data-raw '{"request_id":12137686,"token":"VXF3R3lCa2oVWd5zC6ux87ISxikfuDdioX_kS89POF4cctg5lc9y8Zp_QWd-pRwHjZnS61flnDFceEU-_zpRFXu1StOylCCoTp7W6LkArL_Jt-dO7OQyL_cvGJE_Re9k0ZnIAf4LMTFnbnrLiB4rPSU1y4OwYlfc","video":{"type":"ondemand","url":"https://ak-jos-c4assets-com.akamaized.net/CH4_08_02_900_77468_001_2_173918475753369/CH4_08_02_900_77468_001_2_173918475753369_J01.ism/stream.mpd?c3.ri=13498550462063640284&mpd_segment_template=time&filter=%28type%3D%3D%22video%22%26%26%28%28DisplayHeight%3E%3D288%29%26%26%28DisplayHeight%3C%3D576%29%29%29%7C%7Ctype%21%3D%22video%22&ts=1740788427&e=600&st=4agnhknMKk8IBWaLulDFumljQHLDxVxVd4pOdqYtKko"},"message":"CAQ="}'
+
+response:
+=========
+
+{
+  "license": "CAUSxwUKwQIIAxIQFwW5F8wSBIaLBjM6L3cqjBiCtIKSBSKOAjCCAQoCggEBAJntWzsyfateJO/DtiqVtZhSCtW8yzdQPgZFuBTYdrjfQFEEQa2M462xG7iMTnJaXkqeB5UpHVhYQCOn4a8OOKkSeTkwCGELbxWMh4x+Ib/7/up34QGeHleB6KRfRiY9FOYOgFioYHrc4E+shFexN6jWfM3rM3BdmDoh+07svUoQykdJDKR+ql1DghjduvHK3jOS8T1v+2RC/THhv0CwxgTRxLpMlSCkv5fuvWCSmvzu9Vu69WTi0Ods18Vcc6CCuZYSC4NZ7c4kcHCCaA1vZ8bYLErF8xNEkKdO7DevSy8BDFnoKEPiWC8La59dsPxebt9k+9MItHEbzxJQAZyfWgkCAwEAAToUbGljZW5zZS53aWRldmluZS5jb20SgAOuNHMUtag1KX8nE4j7e7jLUnfSSYI83dHaMLkzOVEes8y96gS5RLknwSE0bv296snUE5F+bsF2oQQ4RgpQO8GVK5uk5M4PxL/CCpgIqq9L/NGcHc/N9XTMrCjRtBBBbPneiAQwHL2zNMr80NQJeEI6ZC5UYT3wr8+WykqSSdhV5Cs6cD7xdn9qm9Nta/gr52u/DLpP3lnSq8x2/rZCR7hcQx+8pSJmthn8NpeVQ/ypy727+voOGlXnVaPHvOZV+WRvWCq5z3CqCLl5+Gf2Ogsrf9s2LFvE7NVV2FvKqcWTw4PIV9Sdqrd+QLeFHd/SSZiAjjWyWOddeOrAyhb3BHMEwg2T7eTo/xxvF+YkPj89qPwXCYcOxF+6gjomPwzvofcJOxkJkoMmMzcFBDopvab5tDQsyN9UPLGhGC98X/8z8QSQ+spbJTYLdgFenFoGq47gLwDS6NWYYQSqzE3Udf2W7pzk4ybyG4PHBYV3s4cyzdq8amvtE/sNSdOKReuHpfQ=",
+  "status": {
+    "success": true,
+    "type": "Success"
+  }
+}
+
+notes:
+======
+* the video player needs to be configured in such a way that it can POST the necessary parameters to the Widevine license server
+* known Widevine parameters:
+  - extracted from .js file
+      message = "CAQ="
+      video.type = "ondemand"
+  - obtained by api request:
+      video.url = <dash .mpd>
+  - computed:
+      token = <decrypted dash .mpd token>
+
+--------------------------------------------------------------------------------
+
+question:
+=========
+how can other video players be configured to use these known Widevine parameters?
+  * ExoPlayer
+  * Clappr
+  * Video.js
+  * THEOplayer
+  * VisualOn
+
+question:
+=========
+if not, then..
+if the "license" were obtained from the Widevine license server,
+how can other video players be configured to directly use this "license"? (ie: ClearKey)
+
+--------------------------------------------------------------------------------
+
+https://github.com/google/ExoPlayer/issues/7945
+  Q: [ExoPlayer] ClearKey does not support CBCS
+
+https://github.com/androidx/media/issues/1208#issuecomment-2014871687
+https://github.com/androidx/media/issues/777#issuecomment-1787524054
+  discussion w/ code examples
+
+https://github.com/androidx/media/issues/2200
+  [me] asking for advice
+
+--------------------------------------------------------------------------------
