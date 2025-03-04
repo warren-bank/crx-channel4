@@ -1,0 +1,892 @@
+<script>
+  window.__PARAMS__ = {
+    "initialData": {
+      "brand": {
+        "exclusive": undefined,
+        "websafeTitle": "jack-irish",
+        "presentationBrand": "channel4",
+        "programmeType": "MSU",
+        "title": "Jack Irish",
+        "summary": "Australian drama starring Guy Pearce as Jack Irish, an ex-lawyer whose life has descended into debt collection and beer. But a surprise encounter opens up a new career as a private investigator.",
+        "shortSummary": "Tense Australian drama starring Guy Pearce as an unlikely private investigator",
+        "allEpisodesCount": 16,
+        "allSeriesCount": 3,
+        "onDemandEpisodesCount": 0,
+        "earlyAccessEpisodesCount": undefined,
+        "categories": [{
+          "id": "drama",
+          "displayName": "Drama",
+          "categoryPath": "https:\u002F\u002Fwww.channel4.com\u002Fcategories\u002Fdrama",
+          "source": "brandhub::textlink::|::drama||"
+        }],
+        "brandInfo": "",
+        "episodeOrder": "first_series_first_episode",
+        "isInMyList": false,
+        "hasGuidance": false,
+        "hasSubtitles": true,
+        "hasHD": true,
+        "hasAD": false,
+        "images": {
+          "hero": {
+            "landscape": {
+              "src": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish\u002FA7A262CC-DBD7-490A-BE9DCA839524CC20.jpg?imformat=chrome",
+              "alt": "Jack_Irish_Brand_1920x1080",
+              "type": "image\u002Fjpeg"
+            },
+            "portrait": {
+              "src": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish\u002F68B6098A-A6DB-411D-A799897A848E98FB.jpg?imformat=chrome",
+              "alt": "Jack_Irish_Brand_3000x3000",
+              "type": "image\u002Fjpeg"
+            }
+          },
+          "title": {
+            "landscape": {
+              "src": "https:\u002F\u002Fic.c4assets.com\u002Fbips\u002F22784966\u002FEFD7B4BB-9502-4d54-a0f9-30312faedf2f.png?imformat=chrome",
+              "alt": "",
+              "type": "image\u002Fpng"
+            },
+            "portrait": {
+              "src": "https:\u002F\u002Fic.c4assets.com\u002Fbips\u002F22784966\u002F84C2ABD7-38AF-48ab-b549-edde9a4120c4.png?imformat=chrome",
+              "alt": "",
+              "type": "image\u002Fpng"
+            }
+          }
+        },
+        "series": [{
+          "seriesNumber": 2016,
+          "title": "Series 1: Blind Faith",
+          "summary": "Australian drama starring Guy Pearce as Jack Irish, an ex-lawyer whose life has descended into debt collection and beer. But a surprise encounter opens up a new career as a private investigator."
+        }, {
+          "seriesNumber": 2018,
+          "title": "Series 2: Last Rites",
+          "summary": "While investigating the case of a missing foreign student he once knew, Jack delves into a murky criminal conspiracy involving an exorbitant - and very fishy - private international college"
+        }, {
+          "seriesNumber": 2021,
+          "title": "Series 3: Hell Bent",
+          "summary": "In the final series, Jack revisits the trauma of his wife Isabel's brutal and random murder - and discovers that there was much more to those fateful events all those years ago"
+        }],
+        "nextOnLabel": undefined,
+        "episodes": [{
+          "dateLabel": "First shown: Mon 17 Feb 2025",
+          "episodeNumber": 1,
+          "firstTXChannel": "C4",
+          "seriesNumber": 2016,
+          "image": {
+            "src": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish-yr-1---blind-faith-episode-1\u002FB97A98C8-D6E6-4080-A496A4A795A21E66.jpg?imformat=chrome",
+            "alt": "Jack_Irish_S1_Ep1_1920x1080",
+            "type": "image\u002Fjpeg"
+          },
+          "title": "Episode 1",
+          "fullTitle": "Episode 1",
+          "bottomText": "First shown: Mon 17 Feb 2025 | 55 mins",
+          "showPlayLabel": true,
+          "originalTitle": "Jack Irish",
+          "secondaryTitle": "",
+          "summary": "Jack’s work as a debt collector is seedy, and his girlfriend has left to report on a terrorist group in Manila. Then, out of nowhere, he finds purpose when he’s asked to track down a missing person.",
+          "description": "Just as his journalist girlfriend leaves, Jack finds new purpose as a private investigator",
+          "fullDescription": "Just as his journalist girlfriend leaves, Jack finds new purpose as a private investigator",
+          "programmeId": "77468-001",
+          "upgradeToPlay": {
+            "active": false,
+            "label": undefined
+          },
+          "showPlusIcon": false,
+          "hrefLink": "\u002Fprogrammes\u002Fjack-irish\u002Fon-demand\u002F77468-001",
+          "guidance": "Strong language, violence and nudity",
+          "hasSubtitles": true,
+          "hasAD": false,
+          "hasHD": true,
+          "durationLabel": "55 mins",
+          "assetId": "12137686",
+          "progressBar": {}
+        }, {
+          "dateLabel": "First shown: Mon 17 Feb 2025",
+          "episodeNumber": 2,
+          "firstTXChannel": "C4",
+          "seriesNumber": 2016,
+          "image": {
+            "src": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish-yr-1---blind-faith-episode-2\u002F9DE74669-9922-48D3-BBFA835CBCF14CE5.jpg?imformat=chrome",
+            "alt": "Jack_Irish_S1_Ep2_1920x1080",
+            "type": "image\u002Fjpeg"
+          },
+          "title": "Episode 2",
+          "fullTitle": "Episode 2",
+          "bottomText": "First shown: Mon 17 Feb 2025 | 55 mins",
+          "showPlayLabel": true,
+          "originalTitle": "Jack Irish",
+          "secondaryTitle": "",
+          "summary": "The bodies pile up as Jack helps the mystery woman who bailed him out of jail find her missing sister. In Manila, Linda tries to make contact with a renowned terrorist who's originally from Melbourne.",
+          "description": "Jack helps the mysterious woman who bailed him out of jail find her missing sister",
+          "fullDescription": "Jack helps the mysterious woman who bailed him out of jail find her missing sister",
+          "programmeId": "77468-002",
+          "upgradeToPlay": {
+            "active": false,
+            "label": undefined
+          },
+          "showPlusIcon": false,
+          "hrefLink": "\u002Fprogrammes\u002Fjack-irish\u002Fon-demand\u002F77468-002",
+          "guidance": "Strong language and violence",
+          "hasSubtitles": true,
+          "hasAD": false,
+          "hasHD": true,
+          "durationLabel": "55 mins",
+          "assetId": "12137675",
+          "progressBar": {}
+        }, {
+          "dateLabel": "First shown: Mon 17 Feb 2025",
+          "episodeNumber": 3,
+          "firstTXChannel": "C4",
+          "seriesNumber": 2016,
+          "image": {
+            "src": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish-yr-1---blind-faith-episode-3\u002FF9192722-E929-4AAD-9341ED2AC167A34E.jpg?imformat=chrome",
+            "alt": "Jack_Irish_S1_Ep3_1920x1080",
+            "type": "image\u002Fjpeg"
+          },
+          "title": "Episode 3",
+          "fullTitle": "Episode 3",
+          "bottomText": "First shown: Mon 17 Feb 2025 | 58 mins",
+          "showPlayLabel": true,
+          "originalTitle": "Jack Irish",
+          "secondaryTitle": "",
+          "summary": "With links between Jack’s framing and a cult-like mega-church growing increasingly obvious, Jack and Sarah set out to talk to Pastor Rob, the organisation’s creepy leader",
+          "description": "Jack and Sarah set out to talk to the leader of a cult-like church about Jack being framed",
+          "fullDescription": "Jack and Sarah set out to talk to the leader of a cult-like church about Jack being framed",
+          "programmeId": "77468-003",
+          "upgradeToPlay": {
+            "active": false,
+            "label": undefined
+          },
+          "showPlusIcon": false,
+          "hrefLink": "\u002Fprogrammes\u002Fjack-irish\u002Fon-demand\u002F77468-003",
+          "guidance": "Strong language and violence",
+          "hasSubtitles": true,
+          "hasAD": false,
+          "hasHD": true,
+          "durationLabel": "58 mins",
+          "assetId": "12137679",
+          "progressBar": {}
+        }, {
+          "dateLabel": "First shown: Mon 17 Feb 2025",
+          "episodeNumber": 4,
+          "firstTXChannel": "C4",
+          "seriesNumber": 2016,
+          "image": {
+            "src": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish-yr-1---blind-faith-episode-4\u002F0E7C1AF9-784F-47B9-B8BA6D3014588B11.jpg?imformat=chrome",
+            "alt": "Jack_Irish_S1_Ep4_1920x1080",
+            "type": "image\u002Fjpeg"
+          },
+          "title": "Episode 4",
+          "fullTitle": "Episode 4",
+          "bottomText": "First shown: Mon 17 Feb 2025 | 56 mins",
+          "showPlayLabel": true,
+          "originalTitle": "Jack Irish",
+          "secondaryTitle": "",
+          "summary": "Jack discovers a solid lead linking Pastor Rob’s church with the terrorist group in the Philippines. Meanwhile, Sarah is consumed by vengeance.",
+          "description": "Jack discovers a solid lead linking Pastor Rob’s church with the terrorist group in Manila",
+          "fullDescription": "Jack discovers a solid lead linking Pastor Rob’s church with the terrorist group in Manila",
+          "programmeId": "77468-004",
+          "upgradeToPlay": {
+            "active": false,
+            "label": undefined
+          },
+          "showPlusIcon": false,
+          "hrefLink": "\u002Fprogrammes\u002Fjack-irish\u002Fon-demand\u002F77468-004",
+          "guidance": "Strong language and violence",
+          "hasSubtitles": true,
+          "hasAD": false,
+          "hasHD": true,
+          "durationLabel": "56 mins",
+          "assetId": "12137691",
+          "progressBar": {}
+        }, {
+          "dateLabel": "First shown: Mon 17 Feb 2025",
+          "episodeNumber": 5,
+          "firstTXChannel": "C4",
+          "seriesNumber": 2016,
+          "image": {
+            "src": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish-yr-1---blind-faith-episode-5\u002F10096ACA-0307-4999-86B76BBA2FA53C41.jpg?imformat=chrome",
+            "alt": "Jack_Irish_S1_Ep5_1920x1080",
+            "type": "image\u002Fjpeg"
+          },
+          "title": "Episode 5",
+          "fullTitle": "Episode 5",
+          "bottomText": "First shown: Mon 17 Feb 2025 | 54 mins",
+          "showPlayLabel": true,
+          "originalTitle": "Jack Irish",
+          "secondaryTitle": "",
+          "summary": "Linda returns to Melbourne to comfort Jack, who’s distraught following the workshop explosion. He sends her away, but as soon as she lands back in Manila, she’s abducted.",
+          "description": "After an ill-fated trip home to comfort Jack, Linda gets abducted on her return to Manila",
+          "fullDescription": "After an ill-fated trip home to comfort Jack, Linda gets abducted on her return to Manila",
+          "programmeId": "77468-005",
+          "upgradeToPlay": {
+            "active": false,
+            "label": undefined
+          },
+          "showPlusIcon": false,
+          "hrefLink": "\u002Fprogrammes\u002Fjack-irish\u002Fon-demand\u002F77468-005",
+          "guidance": "Strong language and violence",
+          "hasSubtitles": true,
+          "hasAD": false,
+          "hasHD": true,
+          "durationLabel": "54 mins",
+          "assetId": "12137705",
+          "progressBar": {}
+        }, {
+          "dateLabel": "First shown: Mon 17 Feb 2025",
+          "episodeNumber": 6,
+          "firstTXChannel": "C4",
+          "seriesNumber": 2016,
+          "image": {
+            "src": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish-yr-1---blind-faith-episode-6\u002F1FB61253-81F7-4EF3-804D6C8C4255AD84.jpg?imformat=chrome",
+            "alt": "Jack_Irish_S1_Ep6_1920x1080",
+            "type": "image\u002Fjpeg"
+          },
+          "title": "Episode 6",
+          "fullTitle": "Episode 6",
+          "bottomText": "First shown: Mon 17 Feb 2025 | 54 mins",
+          "showPlayLabel": true,
+          "originalTitle": "Jack Irish",
+          "secondaryTitle": "",
+          "summary": "Jack uncovers the truth about The Way of the Cross and sets out to stop the people behind the vicious group. In the Philippines, Linda finally comes face-to-face with terrorist leader Hadji Adhib.",
+          "description": "The secret behind Pastor Rob’s church is out. Can Jack stop the people behind it?",
+          "fullDescription": "The secret behind Pastor Rob’s church is out. Can Jack stop the people behind it?",
+          "programmeId": "77468-006",
+          "upgradeToPlay": {
+            "active": false,
+            "label": undefined
+          },
+          "showPlusIcon": false,
+          "hrefLink": "\u002Fprogrammes\u002Fjack-irish\u002Fon-demand\u002F77468-006",
+          "guidance": "Strong language, violence and graphic images",
+          "hasSubtitles": true,
+          "hasAD": false,
+          "hasHD": true,
+          "durationLabel": "54 mins",
+          "assetId": "12137710",
+          "progressBar": {}
+        }, {
+          "dateLabel": "First shown: Mon 17 Feb 2025",
+          "episodeNumber": 1,
+          "firstTXChannel": "C4",
+          "seriesNumber": 2018,
+          "image": {
+            "src": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish-yr-2---last-rites-the-last-post\u002FFF034132-AD42-4A98-A0DB499FAFF486AE.jpg?imformat=chrome",
+            "alt": "JackIrish_S2_Ep1_1920x1080",
+            "type": "image\u002Fjpeg"
+          },
+          "title": "Episode 1",
+          "fullTitle": "Episode 1",
+          "bottomText": "First shown: Mon 17 Feb 2025 | 58 mins",
+          "showPlayLabel": true,
+          "originalTitle": "Jack Irish",
+          "secondaryTitle": "",
+          "summary": "Jack's back practising law. But the mundanity of the 9-to-5 doesn't cut it, and he soon finds himself embroiled in the case of a foreign student who disappeared three years earlier.",
+          "description": "Jack becomes embroiled in the case of a foreign student who vanished three years earlier",
+          "fullDescription": "Jack becomes embroiled in the case of a foreign student who vanished three years earlier",
+          "programmeId": "77469-001",
+          "upgradeToPlay": {
+            "active": false,
+            "label": undefined
+          },
+          "showPlusIcon": false,
+          "hrefLink": "\u002Fprogrammes\u002Fjack-irish\u002Fon-demand\u002F77469-001",
+          "guidance": "Strong language and violence",
+          "hasSubtitles": true,
+          "hasAD": false,
+          "hasHD": true,
+          "durationLabel": "58 mins",
+          "assetId": "12137715",
+          "progressBar": {}
+        }, {
+          "dateLabel": "First shown: Mon 17 Feb 2025",
+          "episodeNumber": 2,
+          "firstTXChannel": "C4",
+          "seriesNumber": 2018,
+          "image": {
+            "src": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish-yr-2---last-rites-deal-with-the-dead\u002FB54D042E-5DD1-4C51-99B8E509C9F3BF72.jpg?imformat=chrome",
+            "alt": "JackIrish_S2_Ep2_1920x1080",
+            "type": "image\u002Fjpeg"
+          },
+          "title": "Episode 2",
+          "fullTitle": "Episode 2",
+          "bottomText": "First shown: Mon 17 Feb 2025 | 55 mins",
+          "showPlayLabel": true,
+          "originalTitle": "Jack Irish",
+          "secondaryTitle": "",
+          "summary": "Now with two deaths to investigate, Jack learns that a group of international students were deported the day after Lakshmi died. And then he receives a terrifying warning...",
+          "description": "Now with two deaths to investigate, Jack receives a terrifying warning...",
+          "fullDescription": "Now with two deaths to investigate, Jack receives a terrifying warning...",
+          "programmeId": "77469-002",
+          "upgradeToPlay": {
+            "active": false,
+            "label": undefined
+          },
+          "showPlusIcon": false,
+          "hrefLink": "\u002Fprogrammes\u002Fjack-irish\u002Fon-demand\u002F77469-002",
+          "guidance": "Strong language and violence",
+          "hasSubtitles": true,
+          "hasAD": false,
+          "hasHD": true,
+          "durationLabel": "55 mins",
+          "assetId": "12137727",
+          "progressBar": {}
+        }, {
+          "dateLabel": "First shown: Mon 17 Feb 2025",
+          "episodeNumber": 3,
+          "firstTXChannel": "C4",
+          "seriesNumber": 2018,
+          "image": {
+            "src": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish-yr-2---last-rites-from-the-ashes\u002F5B77FE17-4275-424F-858027DD769977A4.jpg?imformat=chrome",
+            "alt": "JackIrish_S2_Ep3_1920x1080",
+            "type": "image\u002Fjpeg"
+          },
+          "title": "Episode 3",
+          "fullTitle": "Episode 3",
+          "bottomText": "First shown: Mon 17 Feb 2025 | 56 mins",
+          "showPlayLabel": true,
+          "originalTitle": "Jack Irish",
+          "secondaryTitle": "",
+          "summary": "Lakshmi's father is determined to find his daughter's remains - but the college's slimy principal isn't to be trusted. Jack visits a former student in prison who's been arrested for terrorism.",
+          "description": "Jack visits a former student who was set to be deported, but is now in jail for terrorism",
+          "fullDescription": "Jack visits a former student who was set to be deported, but is now in jail for terrorism",
+          "programmeId": "77469-003",
+          "upgradeToPlay": {
+            "active": false,
+            "label": undefined
+          },
+          "showPlusIcon": false,
+          "hrefLink": "\u002Fprogrammes\u002Fjack-irish\u002Fon-demand\u002F77469-003",
+          "guidance": "Strong language, violence and sexual scenes",
+          "hasSubtitles": true,
+          "hasAD": false,
+          "hasHD": true,
+          "durationLabel": "56 mins",
+          "assetId": "12137729",
+          "progressBar": {}
+        }, {
+          "dateLabel": "First shown: Mon 17 Feb 2025",
+          "episodeNumber": 4,
+          "firstTXChannel": "C4",
+          "seriesNumber": 2018,
+          "image": {
+            "src": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish-yr-2---last-rites-the-a-list\u002F4CEF9715-C6E2-4D00-8332184125187C3E.jpg?imformat=chrome",
+            "alt": "JackIrish_S2_Ep4_1920x1080",
+            "type": "image\u002Fjpeg"
+          },
+          "title": "Episode 4",
+          "fullTitle": "Episode 4",
+          "bottomText": "First shown: Mon 17 Feb 2025 | 57 mins",
+          "showPlayLabel": true,
+          "originalTitle": "Jack Irish",
+          "secondaryTitle": "",
+          "summary": "Linda, now working the case on the ground in Mumbai, discovers that half of Lakshmi and Eddie's classmates are dead. Back in Melbourne, Jack does some digging to find out why.",
+          "description": "Linda, working the case in Mumbai, discovers that half of the college's students are dead",
+          "fullDescription": "Linda, working the case in Mumbai, discovers that half of the college's students are dead",
+          "programmeId": "77469-004",
+          "upgradeToPlay": {
+            "active": false,
+            "label": undefined
+          },
+          "showPlusIcon": false,
+          "hrefLink": "\u002Fprogrammes\u002Fjack-irish\u002Fon-demand\u002F77469-004",
+          "guidance": "Strong language and violence",
+          "hasSubtitles": true,
+          "hasAD": false,
+          "hasHD": true,
+          "durationLabel": "57 mins",
+          "assetId": "12137724",
+          "progressBar": {}
+        }, {
+          "dateLabel": "First shown: Mon 17 Feb 2025",
+          "episodeNumber": 5,
+          "firstTXChannel": "C4",
+          "seriesNumber": 2018,
+          "image": {
+            "src": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish-yr-2---last-rites-sins-of-omission\u002F8A5A492B-D738-42C4-AFDB9818B95B72B9.jpg?imformat=chrome",
+            "alt": "JackIrish_S2_Ep5_1920x1080",
+            "type": "image\u002Fjpeg"
+          },
+          "title": "Episode 5",
+          "fullTitle": "Episode 5",
+          "bottomText": "First shown: Mon 17 Feb 2025 | 56 mins",
+          "showPlayLabel": true,
+          "originalTitle": "Jack Irish",
+          "secondaryTitle": "",
+          "summary": "As Jack edges closer to the truth, the college is shut down and the principal does a runner. But a new lead arrives when Jack visits the building that Javed attacked.",
+          "description": "As Jack edges closer to the truth, the college is shut down and the principal flees",
+          "fullDescription": "As Jack edges closer to the truth, the college is shut down and the principal flees",
+          "programmeId": "77469-005",
+          "upgradeToPlay": {
+            "active": false,
+            "label": undefined
+          },
+          "showPlusIcon": false,
+          "hrefLink": "\u002Fprogrammes\u002Fjack-irish\u002Fon-demand\u002F77469-005",
+          "guidance": "Strong and offensive language and violence",
+          "hasSubtitles": true,
+          "hasAD": false,
+          "hasHD": true,
+          "durationLabel": "56 mins",
+          "assetId": "12137723",
+          "progressBar": {}
+        }, {
+          "dateLabel": "First shown: Mon 17 Feb 2025",
+          "episodeNumber": 6,
+          "firstTXChannel": "C4",
+          "seriesNumber": 2018,
+          "image": {
+            "src": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish-yr-2---last-rites-returning-home\u002FE7D5079F-DFD9-44DE-9D933B42FB0AD3AB.jpg?imformat=chrome",
+            "alt": "JackIrish_S2_Ep6_1920x1080",
+            "type": "image\u002Fjpeg"
+          },
+          "title": "Episode 6",
+          "fullTitle": "Episode 6",
+          "bottomText": "First shown: Mon 17 Feb 2025 | 56 mins",
+          "showPlayLabel": true,
+          "originalTitle": "Jack Irish",
+          "secondaryTitle": "",
+          "summary": "Jack and Linda converge on a pharmaceutical company with some damning evidence about its new drug. But the path to justice is dramatically blocked by Rory and Thornton.",
+          "description": "Jack and Linda risk their lives as they converge on a shady pharmaceutical company",
+          "fullDescription": "Jack and Linda risk their lives as they converge on a shady pharmaceutical company",
+          "programmeId": "77469-006",
+          "upgradeToPlay": {
+            "active": false,
+            "label": undefined
+          },
+          "showPlusIcon": false,
+          "hrefLink": "\u002Fprogrammes\u002Fjack-irish\u002Fon-demand\u002F77469-006",
+          "guidance": "Strong language and violence",
+          "hasSubtitles": true,
+          "hasAD": false,
+          "hasHD": true,
+          "durationLabel": "56 mins",
+          "assetId": "12137728",
+          "progressBar": {}
+        }, {
+          "dateLabel": "First shown: Mon 17 Feb 2025",
+          "episodeNumber": 1,
+          "firstTXChannel": "C4",
+          "seriesNumber": 2021,
+          "image": {
+            "src": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish-yr-3---hell-bent-episode-1\u002FAE1DE0DF-2380-4F54-9237752744516162.jpg?imformat=chrome",
+            "alt": "JackIrish_S3_Ep1_1920x1080",
+            "type": "image\u002Fjpeg"
+          },
+          "title": "Episode 1",
+          "fullTitle": "Episode 1",
+          "bottomText": "First shown: Mon 17 Feb 2025 | 53 mins",
+          "showPlayLabel": true,
+          "originalTitle": "Jack Irish",
+          "secondaryTitle": "",
+          "summary": "After the execution-style death of an off-duty cop, homicide detective Barry Tregear calls in a favour with Jack, leading him on the path to uncovering a buried truth about his murdered wife",
+          "description": "Jack uncovers a connection between an executed cop and his own wife's savage murder",
+          "fullDescription": "Jack uncovers a connection between an executed cop and his own wife's savage murder",
+          "programmeId": "77470-001",
+          "upgradeToPlay": {
+            "active": false,
+            "label": undefined
+          },
+          "showPlusIcon": false,
+          "hrefLink": "\u002Fprogrammes\u002Fjack-irish\u002Fon-demand\u002F77470-001",
+          "guidance": "Strong language and violence",
+          "hasSubtitles": true,
+          "hasAD": false,
+          "hasHD": true,
+          "durationLabel": "53 mins",
+          "assetId": "12137735",
+          "progressBar": {}
+        }, {
+          "dateLabel": "First shown: Mon 17 Feb 2025",
+          "episodeNumber": 2,
+          "firstTXChannel": "C4",
+          "seriesNumber": 2021,
+          "image": {
+            "src": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish-yr-3---hell-bent-episode-2\u002FA2A0C2F2-553A-4D0D-B5A7A24445AF12C4.jpg?imformat=chrome",
+            "alt": "JackIrish_S3_Ep2_1920x1080",
+            "type": "image\u002Fjpeg"
+          },
+          "title": "Episode 2",
+          "fullTitle": "Episode 2",
+          "bottomText": "First shown: Mon 17 Feb 2025 | 54 mins",
+          "showPlayLabel": true,
+          "originalTitle": "Jack Irish",
+          "secondaryTitle": "",
+          "summary": "Fuelled by grief, Jack tracks down Linda to ask her to help investigate Isabel's death. Meanwhile, another police officer turns up dead.",
+          "description": "Jack tracks down Linda to ask for her help. Another cop turns up dead.",
+          "fullDescription": "Jack tracks down Linda to ask for her help. Another cop turns up dead.",
+          "programmeId": "77470-002",
+          "upgradeToPlay": {
+            "active": false,
+            "label": undefined
+          },
+          "showPlusIcon": false,
+          "hrefLink": "\u002Fprogrammes\u002Fjack-irish\u002Fon-demand\u002F77470-002",
+          "guidance": "Strong language and violence from the start",
+          "hasSubtitles": true,
+          "hasAD": false,
+          "hasHD": true,
+          "durationLabel": "54 mins",
+          "assetId": "12137743",
+          "progressBar": {}
+        }, {
+          "dateLabel": "First shown: Mon 17 Feb 2025",
+          "episodeNumber": 3,
+          "firstTXChannel": "C4",
+          "seriesNumber": 2021,
+          "image": {
+            "src": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish-yr-3---hell-bent-episode-3\u002FEF0B79DA-C7C4-4F7D-8FA82F5E14F30274.jpg?imformat=chrome",
+            "alt": "JackIrish_S3_Ep3_1920x1080",
+            "type": "image\u002Fjpeg"
+          },
+          "title": "Episode 3",
+          "fullTitle": "Episode 3",
+          "bottomText": "First shown: Mon 17 Feb 2025 | 55 mins",
+          "showPlayLabel": true,
+          "originalTitle": "Jack Irish",
+          "secondaryTitle": "",
+          "summary": "Jack and Linda are certain they know who the killer on the loose is, and Jack just needs to track him down. But he didn't count on the killer finding him first...",
+          "description": "Jack needs to track the killer down. But he didn't count on the killer finding him first.",
+          "fullDescription": "Jack needs to track the killer down. But he didn't count on the killer finding him first.",
+          "programmeId": "77470-003",
+          "upgradeToPlay": {
+            "active": false,
+            "label": undefined
+          },
+          "showPlusIcon": false,
+          "hrefLink": "\u002Fprogrammes\u002Fjack-irish\u002Fon-demand\u002F77470-003",
+          "guidance": "",
+          "hasSubtitles": true,
+          "hasAD": false,
+          "hasHD": true,
+          "durationLabel": "55 mins",
+          "assetId": "12137731",
+          "progressBar": {}
+        }, {
+          "dateLabel": "First shown: Mon 17 Feb 2025",
+          "episodeNumber": 4,
+          "firstTXChannel": "C4",
+          "seriesNumber": 2021,
+          "image": {
+            "src": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish-yr-3---hell-bent-episode-4\u002F7BB0E3FB-9689-438C-9AD1B145EC5C92D7.jpg?imformat=chrome",
+            "alt": "JackIrish_S3_Ep4_1920x1080",
+            "type": "image\u002Fjpeg"
+          },
+          "title": "Episode 4",
+          "fullTitle": "Episode 4",
+          "bottomText": "First shown: Mon 17 Feb 2025 | 58 mins",
+          "showPlayLabel": true,
+          "originalTitle": "Jack Irish",
+          "secondaryTitle": "",
+          "summary": "With his life very quickly spiralling out of control and his loved ones leaving him, Jack makes an astonishing - and extremely dangerous - breakthrough",
+          "description": "With his life falling apart, Jack makes an astonishing - and dangerous - breakthrough",
+          "fullDescription": "With his life falling apart, Jack makes an astonishing - and dangerous - breakthrough",
+          "programmeId": "77470-004",
+          "upgradeToPlay": {
+            "active": false,
+            "label": undefined
+          },
+          "showPlusIcon": false,
+          "hrefLink": "\u002Fprogrammes\u002Fjack-irish\u002Fon-demand\u002F77470-004",
+          "guidance": "Strong language and violence",
+          "hasSubtitles": true,
+          "hasAD": false,
+          "hasHD": true,
+          "durationLabel": "58 mins",
+          "assetId": "12137738",
+          "progressBar": {}
+        }],
+        "fwProgrammeId": "77470\u002F004"
+      },
+      "pageData": {
+        "summary": "Australian drama starring Guy Pearce as Jack Irish, an ex-lawyer whose life has descended into debt collection and beer. But a surprise encounter opens up a new career as a private investigator.",
+        "theme": "c4",
+        "title": "Jack Irish"
+      },
+      "recommendationsData": {
+        "items": [{
+          "imageLink": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fthe-cane-field-killings\u002FA92E6C54-AFBF-4242-894F50D746F9E1FB.jpg?imformat=chrome",
+          "labelText": "The Cane Field Killings",
+          "altText": "The Cane Field Killings",
+          "overlayText": "Crime drama starring Kim Engelbrecht and Iain Glen. Reyka and a new team are chasing down a serial killer in South Africa's busiest port in Durban. But someone from her past is stalking her...",
+          "hrefLink": "\u002Fprogrammes\u002Fthe-cane-field-killings",
+          "showExclusiveContentFlag": false,
+          "watchSeriesEarlyLabelText": "",
+          "expandedTile": {
+            "title": "The Cane Field Killings",
+            "summary": "Crime drama starring Kim Engelbrecht and Iain Glen. Reyka and a new team are chasing down a serial killer in South Africa's busiest port in Durban. But someone from her past is stalking her...",
+            "genres": ["Drama", "Crime"],
+            "availableContent": "2 series"
+          }
+        }, {
+          "imageLink": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fsuspect\u002FFC3F4AD2-0F9F-4E4E-811BD677CEF803CF.jpg?imformat=chrome",
+          "labelText": "Suspect",
+          "altText": "Suspect",
+          "overlayText": "Psychological drama starring Anne-Marie Duff and James Nesbitt. A veteran detective and his psychotherapist ex-wife each face an agonising mission to uncover the truth about their daughter's death.",
+          "hrefLink": "\u002Fprogrammes\u002Fsuspect",
+          "showExclusiveContentFlag": false,
+          "watchSeriesEarlyLabelText": "",
+          "expandedTile": {
+            "title": "Suspect",
+            "summary": "Psychological drama starring Anne-Marie Duff and James Nesbitt. A veteran detective and his psychotherapist ex-wife each face an agonising mission to uncover the truth about their daughter's death.",
+            "genres": ["Drama", "Crime"],
+            "availableContent": "2 series"
+          }
+        }, {
+          "imageLink": "https:\u002F\u002Fic.c4assets.com\u002Fbrands\u002Fthe-killing\u002Ff861b716-f635-470f-ab0a-8d6128c77219.jpg?imformat=chrome",
+          "labelText": "The Killing",
+          "altText": "The Killing",
+          "overlayText": "Absorbing US crime thriller. Two detectives attempt to untangle a dark, twisting mystery after a 17-year-old girl is murdered in Seattle. Starring Mireille Enos, Joel Kinnaman and Peter Sarsgaard.",
+          "hrefLink": "\u002Fprogrammes\u002Fthe-killing",
+          "showExclusiveContentFlag": false,
+          "watchSeriesEarlyLabelText": "",
+          "expandedTile": {
+            "title": "The Killing",
+            "summary": "Absorbing US crime thriller. Two detectives attempt to untangle a dark, twisting mystery after a 17-year-old girl is murdered in Seattle. Starring Mireille Enos, Joel Kinnaman and Peter Sarsgaard.",
+            "genres": ["Drama", "Crime"],
+            "availableContent": "4 series"
+          }
+        }, {
+          "imageLink": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fthe-sommerdahl-murders\u002F4EEBAB63-FBC1-4122-81C4398D908C94FB.jpg?imformat=chrome",
+          "labelText": "The Sommerdahl Murders",
+          "altText": "The Sommerdahl Murders",
+          "overlayText": "Touching Danish crime drama from Walter Presents. Police detective Dan Sommerdahl investigates crime in an idyllic seaside town. What effect does his work obsession have on his personal life?",
+          "hrefLink": "\u002Fprogrammes\u002Fthe-sommerdahl-murders",
+          "showExclusiveContentFlag": false,
+          "watchSeriesEarlyLabelText": "",
+          "expandedTile": {
+            "title": "The Sommerdahl Murders",
+            "summary": "Touching Danish crime drama from Walter Presents. Police detective Dan Sommerdahl investigates crime in an idyllic seaside town. What effect does his work obsession have on his personal life?",
+            "genres": ["World-Drama", "Drama", "Crime"],
+            "availableContent": "1 series"
+          }
+        }, {
+          "imageLink": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fwhite-lies\u002F6D64215C-C434-4635-823E2868BC6436D8.jpg?imformat=chrome",
+          "labelText": "White Lies",
+          "altText": "White Lies",
+          "overlayText": "South African crime drama starring Natalie Dormer, set in a well-to-do Cape Town suburb",
+          "hrefLink": "\u002Fprogrammes\u002Fwhite-lies",
+          "showExclusiveContentFlag": false,
+          "watchSeriesEarlyLabelText": "",
+          "expandedTile": {
+            "title": "White Lies",
+            "summary": "South African crime drama starring Natalie Dormer, set in a well-to-do Cape Town suburb",
+            "genres": ["Drama", "Crime"],
+            "availableContent": "1 series"
+          }
+        }, {
+          "imageLink": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fpatience-drama\u002FF7BEA81A-2C98-4F24-874BC7A30A55D7B2.jpg?imformat=chrome",
+          "labelText": "Patience",
+          "altText": "Patience",
+          "overlayText": "Intriguing crime drama set in York with Laura Fraser and Ella Maisy Purvis. Talented autistic archivist Patience enters an unpredictable world when detective Bea spots her unique crime-solving skills.",
+          "hrefLink": "\u002Fprogrammes\u002Fpatience",
+          "showExclusiveContentFlag": false,
+          "watchSeriesEarlyLabelText": "",
+          "expandedTile": {
+            "title": "Patience",
+            "summary": "Intriguing crime drama set in York with Laura Fraser and Ella Maisy Purvis. Talented autistic archivist Patience enters an unpredictable world when detective Bea spots her unique crime-solving skills.",
+            "genres": ["Drama", "Crime"],
+            "availableContent": "1 series"
+          }
+        }, {
+          "imageLink": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fastrid-murder-in-paris\u002F0DE304CB-C1F7-4F05-8E71AE8F3A48B3FE.jpg?imformat=chrome",
+          "labelText": "Astrid: Murder in Paris",
+          "altText": "Astrid: Murder in Paris",
+          "overlayText": "Intriguing French crime drama from Walter Presents. Rule-breaking detective Raphaëlle Coste and autistic archivist Astrid Nielsen work together to investigate puzzling crimes.",
+          "hrefLink": "\u002Fprogrammes\u002Fastrid-murder-in-paris",
+          "showExclusiveContentFlag": false,
+          "watchSeriesEarlyLabelText": "",
+          "expandedTile": {
+            "title": "Astrid: Murder in Paris",
+            "summary": "Intriguing French crime drama from Walter Presents. Rule-breaking detective Raphaëlle Coste and autistic archivist Astrid Nielsen work together to investigate puzzling crimes.",
+            "genres": ["World-Drama", "Drama", "Crime"],
+            "availableContent": "5 series"
+          }
+        }, {
+          "imageLink": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fbordertown\u002F9049B1A1-6E26-42CD-8B82C87F93476282.jpg?imformat=chrome",
+          "labelText": "Bordertown",
+          "altText": "Bordertown",
+          "overlayText": "Sharp Finnish crime drama from Walter Presents. Detective Kari Sorjonen and his family move to a town on the border with Russia, hoping for a quiet life. But then the bodies start piling up...",
+          "hrefLink": "\u002Fprogrammes\u002Fbordertown",
+          "showExclusiveContentFlag": false,
+          "watchSeriesEarlyLabelText": "",
+          "expandedTile": {
+            "title": "Bordertown",
+            "summary": "Sharp Finnish crime drama from Walter Presents. Detective Kari Sorjonen and his family move to a town on the border with Russia, hoping for a quiet life. But then the bodies start piling up...",
+            "genres": ["World-Drama", "Drama", "Crime"],
+            "availableContent": "1 series"
+          }
+        }],
+        "mvt": {
+          "userAction": [{
+            "action": "page_interaction",
+            "eventKeyPrefix": "click"
+          }, {
+            "action": "video_view",
+            "eventKeyPrefix": "video_view"
+          }, {
+            "action": "video_completion",
+            "eventKeyPrefix": "video_completion"
+          }],
+          "eventKey": ["_brandhub", "_brandhub_recommendations"]
+        },
+        "title": "More Like This"
+      },
+      "moreAboutThisProgrammeData": {
+        "items": [],
+        "title": ""
+      },
+      "isUserAuthenticated": false,
+      "selectedEpisode": {
+        "dateLabel": "First shown: Mon 17 Feb 2025",
+        "episodeNumber": 1,
+        "firstTXChannel": "C4",
+        "seriesNumber": 2016,
+        "image": {
+          "src": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish-yr-1---blind-faith-episode-1\u002FB97A98C8-D6E6-4080-A496A4A795A21E66.jpg?imformat=chrome",
+          "alt": "Jack_Irish_S1_Ep1_1920x1080",
+          "type": "image\u002Fjpeg"
+        },
+        "title": "Episode 1",
+        "fullTitle": "Episode 1",
+        "bottomText": "First shown: Mon 17 Feb 2025 | 55 mins",
+        "showPlayLabel": true,
+        "originalTitle": "Jack Irish",
+        "secondaryTitle": "",
+        "summary": "Jack’s work as a debt collector is seedy, and his girlfriend has left to report on a terrorist group in Manila. Then, out of nowhere, he finds purpose when he’s asked to track down a missing person.",
+        "description": "Just as his journalist girlfriend leaves, Jack finds new purpose as a private investigator",
+        "fullDescription": "Just as his journalist girlfriend leaves, Jack finds new purpose as a private investigator",
+        "programmeId": "77468-001",
+        "upgradeToPlay": {
+          "active": false,
+          "label": undefined
+        },
+        "showPlusIcon": false,
+        "hrefLink": "\u002Fprogrammes\u002Fjack-irish\u002Fon-demand\u002F77468-001",
+        "guidance": "Strong language, violence and nudity",
+        "hasSubtitles": true,
+        "hasAD": false,
+        "hasHD": true,
+        "durationLabel": "55 mins",
+        "assetId": "12137686",
+        "progressBar": {}
+      },
+      "selectedEpisodeSeries": {
+        "seriesNumber": 2016,
+        "title": "Series 1: Blind Faith",
+        "summary": "Australian drama starring Guy Pearce as Jack Irish, an ex-lawyer whose life has descended into debt collection and beer. But a surprise encounter opens up a new career as a private investigator."
+      },
+      "ogTags": {
+        "title": "Jack Irish - Episode 1",
+        "type": "video.tv_show",
+        "description": "Just as his journalist girlfriend leaves, Jack finds new purpose as a private investigator",
+        "image": {
+          "url": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish-yr-1---blind-faith-episode-1\u002FB97A98C8-D6E6-4080-A496A4A795A21E66.jpg?imformat=chrome",
+          "type": "image\u002Fjpeg"
+        }
+      },
+      "jsonLDSchema": {
+        "@context": "http:\u002F\u002Fschema.org",
+        "name": "Jack Irish",
+        "description": "Tense Australian drama starring Guy Pearce as an unlikely private investigator",
+        "image": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish\u002FA7A262CC-DBD7-490A-BE9DCA839524CC20.jpg",
+        "genre": ["Drama", "Crime"],
+        "publisher": "Channel 4",
+        "@type": "TVSeries",
+        "numberOfSeasons": 3,
+        "url": "https:\u002F\u002Fwww.channel4.com\u002Fprogrammes\u002Fjack-irish",
+        "containsSeason": {
+          "@type": "TVSeason",
+          "name": "Series 1: Blind Faith",
+          "description": "Australian drama starring Guy Pearce as Jack Irish, an ex-lawyer whose life has descended into debt collection and beer. But a surprise encounter opens up a new career as a private investigator.",
+          "position": 2016,
+          "numberOfEpisodes": 6,
+          "episode": {
+            "@type": "TVEpisode",
+            "name": "Episode 1",
+            "description": "Just as his journalist girlfriend leaves, Jack finds new purpose as a private investigator",
+            "image": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish-yr-1---blind-faith-episode-1\u002FB97A98C8-D6E6-4080-A496A4A795A21E66.jpg",
+            "thumbnailUrl": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish-yr-1---blind-faith-episode-1\u002FB97A98C8-D6E6-4080-A496A4A795A21E66.jpg",
+            "position": 1,
+            "publication": [{
+              "@type": "BroadcastEvent",
+              "publishedOn": {
+                "@type": "BroadcastService",
+                "url": "https:\u002F\u002Fwww.channel4.com"
+              },
+              "startDate": "2025-02-17T00:00:00.000Z"
+            }, {
+              "@type": "OnDemandEvent",
+              "endDate": "2028-02-13T00:00:59.000Z",
+              "startDate": "2025-02-17T00:00:00.000Z"
+            }],
+            "url": "https:\u002F\u002Fwww.channel4.com\u002Fprogrammes\u002Fjack-irish\u002Fon-demand\u002F77468-001",
+            "video": {
+              "@type": "VideoObject",
+              "name": "Episode 1",
+              "url": "https:\u002F\u002Fwww.channel4.com\u002Fprogrammes\u002Fjack-irish\u002Fon-demand\u002F77468-001",
+              "contentUrl": "https:\u002F\u002Fwww.channel4.com\u002Fprogrammes\u002Fjack-irish\u002Fon-demand\u002F77468-001",
+              "uploadDate": "2025-02-17T00:00:00.000Z",
+              "thumbnailUrl": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjack-irish-yr-1---blind-faith-episode-1\u002FB97A98C8-D6E6-4080-A496A4A795A21E66.jpg",
+              "videoQuality": "HD",
+              "requiresSubscription": false,
+              "description": "Just as his journalist girlfriend leaves, Jack finds new purpose as a private investigator",
+              "contentRating": "NEUTRAL",
+              "duration": "PT54M46S"
+            }
+          }
+        }
+      }
+    },
+    "sumoLogic": {
+      "url": "https:\u002F\u002Fmonitor.channel4.com\u002Flogs\u002Fdotcom\u002Fclient\u002Fbrandhub",
+      "resource": "BRANDHUB",
+      "environment": "prod",
+      "enabled": "true"
+    },
+    "userId": null,
+    "playerEndpoint": "https:\u002F\u002Fwww.channel4.com\u002Fplayer\u002FplayerLoader.js?toBody=1&assetId=:assetId&brandWebSafeTitle=:brand&postponeTrackingUntilVisible=1",
+    "configUrls": {
+      "baseUrl": "https:\u002F\u002Fwww.channel4.com",
+      "episodeUrl": "\u002Fprogrammes\u002F:brand\u002Fon-demand\u002F:programmeId",
+      "identityUrl": "https:\u002F\u002Fwww.channel4.com\u002Fsign-in-or-register",
+      "brandUrl": "\u002Fprogrammes\u002F:brand",
+      "all4PlusUrl": "\u002Fplus",
+      "watchLiveUrl": "https:\u002F\u002Fwww.channel4.com\u002Fnow\u002F:channel",
+      "myListServiceUrl": "https:\u002F\u002Fwww.channel4.com\u002Fmy4\u002Fapi\u002Fv1\u002Fuser\u002Ffavourites\u002F"
+    },
+    "braze": {
+      "brazeSDKEndpointUrl": "sdk.fra-01.braze.eu",
+      "brazeSDKAPIKey": "2e1e6ac0-7468-40a8-bc2e-bc60be155231",
+      "brazeSDKEnabled": true,
+      "inAppMessagingEnabled": true,
+      "anonUsers": true
+    },
+    "mazeConfig": {
+      "mazeEnabled": true,
+      "mazeScriptUrl": "https:\u002F\u002Fsnippet.maze.co\u002Fmaze-universal-loader.js",
+      "mazeApiKey": "4f48c7e5-f420-4f3d-8fcf-810a018b62d4"
+    },
+    "hdEnabledFeature": true,
+    "turnOffPersonalisation": false,
+    "titleTreatmentsEnabled": true,
+    "mParticleConfig": {
+      "apiKey": "eu1-785e164941c9ed4880842cc0c6d6bf0c",
+      "developmentMode": "false",
+      "domainForCollectingEvents": "et.channel4.com",
+      "logLevel": "warning",
+      "planId": "main_data_plan",
+      "planVersion": 2
+    },
+    "appLink": {
+      "android": {
+        "appName": "Channel 4",
+        "package": "com.channel4.ondemand"
+      },
+      "ios": {
+        "appName": "Channel 4",
+        "appStoreId": "432494037"
+      }
+    },
+    "appContainerID": "app"
+  }
+</script>

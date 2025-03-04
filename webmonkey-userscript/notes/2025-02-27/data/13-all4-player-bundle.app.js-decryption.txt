@@ -1,0 +1,72 @@
+var I=function(e,t){if(!(this instanceof I))throw Error("AES must be instanitated with `new`");if(this.description="Cipher Block Chaining",this.name="cbc",t){if(16!=t.length)throw new Error("invalid initialation vector size (must be 16 bytes)")}else t=o(16);this._lastCipherblock=i(t,!0),this._aes=new O(e)};
+I.prototype.encrypt=function(e){if((e=i(e)).length%16!=0)throw new Error("invalid plaintext size (must be multiple of 16 bytes)");for(var t=o(e.length),r=o(16),n=0;n<e.length;n+=16){a(e,r,0,n,n+16);for(var s=0;s<16;s++)r[s]^=this._lastCipherblock[s];this._lastCipherblock=this._aes.encrypt(r),a(this._lastCipherblock,t,n)}return t};
+I.prototype.decrypt=function(e){if((e=i(e)).length%16!=0)throw new Error("invalid ciphertext size (must be multiple of 16 bytes)");for(var t=o(e.length),r=o(16),n=0;n<e.length;n+=16){a(e,r,0,n,n+16),r=this._aes.decrypt(r);for(var s=0;s<16;s++)t[n+s]=r[s]^this._lastCipherblock[s];a(e,this._lastCipherblock,0,n,n+16)}return t};
+
+var P=function(e,t,r){if(!(this instanceof P))throw Error("AES must be instanitated with `new`");if(this.description="Cipher Feedback",this.name="cfb",t){if(16!=t.length)throw new Error("invalid initialation vector size (must be 16 size)")}else t=o(16);r||(r=1),this.segmentSize=r,this._shiftRegister=i(t,!0),this._aes=new O(e)};
+P.prototype.encrypt=function(e){if(e.length%this.segmentSize!=0)throw new Error("invalid plaintext size (must be segmentSize bytes)");for(var t,r=i(e,!0),n=0;n<r.length;n+=this.segmentSize){t=this._aes.encrypt(this._shiftRegister);for(var o=0;o<this.segmentSize;o++)r[n+o]^=t[o];a(this._shiftRegister,this._shiftRegister,0,this.segmentSize),a(r,this._shiftRegister,16-this.segmentSize,n,n+this.segmentSize)}return r};
+P.prototype.decrypt=function(e){if(e.length%this.segmentSize!=0)throw new Error("invalid ciphertext size (must be segmentSize bytes)");for(var t,r=i(e,!0),n=0;n<r.length;n+=this.segmentSize){t=this._aes.encrypt(this._shiftRegister);for(var o=0;o<this.segmentSize;o++)r[n+o]^=t[o];a(this._shiftRegister,this._shiftRegister,0,this.segmentSize),a(e,this._shiftRegister,16-this.segmentSize,n,n+this.segmentSize)}return r};
+
+var C=function(e,t){if(!(this instanceof C))throw Error("AES must be instanitated with `new`");if(this.description="Output Feedback",this.name="ofb",t){if(16!=t.length)throw new Error("invalid initialation vector size (must be 16 bytes)")}else t=o(16);this._lastPrecipher=i(t,!0),this._lastPrecipherIndex=16,this._aes=new O(e)};
+C.prototype.encrypt=function(e){for(var t=i(e,!0),r=0;r<t.length;r++)16===this._lastPrecipherIndex&&(this._lastPrecipher=this._aes.encrypt(this._lastPrecipher),this._lastPrecipherIndex=0),t[r]^=this._lastPrecipher[this._lastPrecipherIndex++];return t};
+C.prototype.decrypt=C.prototype.encrypt;
+
+{
+ ModeOfOperation: {ecb:M,cbc:I,cfb:P,ofb:C,ctr:D}
+}
+
+{
+  key: "base64DecodeUint8Array",
+  value: function(e) {
+    for (var t = window.atob(e), r = t.length, n = new Uint8Array(new ArrayBuffer(r)), i = 0; i < r; i += 1) n[i] = t.charCodeAt(i);
+    return n
+  }
+}
+
+{
+  key: "ab2str",
+  value: function(e, t) {
+    return String.fromCharCode.apply(null, t === v.default.PLAY_READY ? new Uint16Array(e) : new Uint8Array(e))
+  }
+}
+
+{
+  key: "getVODBSMessage",
+  value: function(e, t, r, n) {
+    if (!r || "" === r) return "|";
+    var i = new h.default.ModeOfOperation.cbc(e, t).decrypt(this.base64DecodeUint8Array(r), !1);
+    return this.ab2str(h.default.padding.pkcs7.strip(i), n)
+  }
+}
+
+var a = o.streams[0]
+var s = h.getModifiedStreamURI(this.config.enableDASHManifestTimeSegments, a.uri)
+
+this.uriData = {
+  cdn: o.cdn,
+  streamUri: s,
+  token: a.token
+}
+
+t.default={WIDEVINE:"dashwv-dyn-stream-1",FAIR_PLAY:"hls-dyn-stream-1",PLAY_READY:"dashpr-dyn-stream-1"}
+
+this.bytes1 = h.default.utils.utf8.toBytes(this.config.bytes1)
+this.bytes2 = h.default.utils.utf8.toBytes(this.config.bytes2)
+
+this.vodbsMessage = this.constructor.getVODBSMessage(this.bytes1, this.bytes2, this.uriData.token, this.profile)
+
+switch (this.profile) {
+  case v.default.WIDEVINE:
+    var l = {
+      "com.widevine.alpha": this.config.protectionData["com.widevine.alpha"]
+    }
+    var c = this.vodbsMessage.split("|")
+
+    l["com.widevine.alpha"].serverURL = c[0]
+    l["com.widevine.alpha"].drmtoday.profile = this.profile
+    l["com.widevine.alpha"].drmtoday.request_id = e.assetId
+    l["com.widevine.alpha"].drmtoday.token = String(c[1])
+    l["com.widevine.alpha"].drmtoday.video.url = this.uriData.streamUri
+  break
+}
+
+l && this.player.setProtectionData(l)

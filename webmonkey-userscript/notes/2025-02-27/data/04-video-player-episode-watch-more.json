@@ -1,0 +1,192 @@
+{
+  "watchMore": {
+    "title": "Watch More",
+    "type": "DEFAULT",
+    "slices": [{
+      "sliceItems": [{
+        "type": "episode",
+        "title": "Jack Irish",
+        "summary": "Australian drama starring Guy Pearce as Jack Irish, an ex-lawyer whose life has descended into debt collection and beer. But a surprise encounter opens up a new career as a private investigator.",
+        "secondaryTitle": "",
+        "image": {
+          "href": "https://ic.c4assets.com/vps/jack-irish-yr-1---blind-faith-episode-2/9DE74669-9922-48D3-BBFA835CBCF14CE5.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}"
+        },
+        "brand": {
+          "title": "Jack Irish",
+          "presentationBrand": "C4",
+          "websafeTitle": "jack-irish",
+          "programmeType": "MSU",
+          "summary": "Australian drama starring Guy Pearce as Jack Irish, an ex-lawyer whose life has descended into debt collection and beer. But a surprise encounter opens up a new career as a private investigator.",
+          "shortSummary": "Tense Australian drama starring Guy Pearce as an unlikely private investigator",
+          "brandId": "22784966"
+        },
+        "episode": {
+          "title": "Episode 2",
+          "secondaryTitle": "",
+          "originalTitle": "Jack Irish",
+          "programmeId": "77468-002",
+          "episodeNumber": 2,
+          "seriesNumber": 2016,
+          "firstTXDate": "2025-02-17T00:00:00.000Z",
+          "firstTXChannel": "C4",
+          "dateLabel": "First shown: Mon 17 Feb 2025",
+          "summary": "The bodies pile up as Jack helps the mystery woman who bailed him out of jail find her missing sister. In Manila, Linda tries to make contact with a renowned terrorist who's originally from Melbourne.",
+          "shortSummary": "Jack helps the mysterious woman who bailed him out of jail find her missing sister",
+          "episodeType": "LONG",
+          "updated": "2025-02-25T00:00:16.011Z",
+          "assetInfo": {
+            "premiere": false,
+            "streaming": {
+              "href": "https://ais.channel4.com/asset/12137675?client=c4",
+              "vodBSHref": "https://api.channel4.com/online/v1/vod/stream/77468-002?client=c4",
+              "startDate": "2025-02-17T00:00:00.000Z",
+              "endDate": "2028-02-13T00:00:59.000Z",
+              "requestType": "ARCHIVE",
+              "subtitled": true,
+              "subtitles": ["webvtt_007", "ebu-tt part 2_008", "srt_009", "ebu-stl_010", "ebu-tt-d_011", "webvtt_003"],
+              "assetId": "12137675",
+              "duration": 3296,
+              "ageRating": 16,
+              "guidance": "Strong language and violence",
+              "durationLabel": "55 mins",
+              "profile": "dashpr-dyn-stream-1",
+              "profiles": ["dashpr-dyn-stream-1", "dashwv-dyn-stream-1", "hls-dyn-stream-1"],
+              "audioDescribed": false,
+              "engagementAction": "PROMPT_GUIDANCE",
+              "resolution": "HD"
+            },
+            "exclusive": false
+          },
+          "image": {
+            "href": "https://ic.c4assets.com/vps/jack-irish-yr-1---blind-faith-episode-2/9DE74669-9922-48D3-BBFA835CBCF14CE5.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+            "title": "Jack_Irish_S1_Ep2_1920x1080",
+            "type": "image/jpeg",
+            "templated": false
+          },
+          "exclusive": false
+        }
+      }],
+      "template": "WATCH_MORE_LEVEL",
+      "title": "Next Episodes",
+      "type": "NEXT_EPISODES"
+    }, {
+      "sliceItems": [{
+        "type": "brand",
+        "title": "The Cane Field Killings",
+        "summary": "Crime drama starring Kim Engelbrecht and Iain Glen. Reyka and a new team are chasing down a serial killer in South Africa's busiest port in Durban. But someone from her past is stalking her...",
+        "secondaryTitle": "",
+        "image": {
+          "href": "https://ic.c4assets.com/vps/the-cane-field-killings/A92E6C54-AFBF-4242-894F50D746F9E1FB.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}"
+        },
+        "brand": {
+          "title": "The Cane Field Killings",
+          "presentationBrand": "C4",
+          "websafeTitle": "the-cane-field-killings",
+          "programmeType": "MSU",
+          "summary": "Crime drama starring Kim Engelbrecht and Iain Glen. Reyka and a new team are chasing down a serial killer in South Africa's busiest port in Durban. But someone from her past is stalking her...",
+          "shortSummary": "Detective Reyka Gama and a new team are chasing down a serial killer in South Africa",
+          "brandId": "17847552"
+        },
+        "episode": {}
+      }, {
+        "type": "brand",
+        "title": "Suspect",
+        "summary": "Psychological drama starring Anne-Marie Duff and James Nesbitt. A veteran detective and his psychotherapist ex-wife each face an agonising mission to uncover the truth about their daughter's death.",
+        "secondaryTitle": "",
+        "image": {
+          "href": "https://ic.c4assets.com/vps/suspect/FC3F4AD2-0F9F-4E4E-811BD677CEF803CF.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}"
+        },
+        "brand": {
+          "title": "Suspect",
+          "presentationBrand": "C4",
+          "websafeTitle": "suspect",
+          "programmeType": "MST",
+          "summary": "Psychological drama starring Anne-Marie Duff and James Nesbitt. A veteran detective and his psychotherapist ex-wife each face an agonising mission to uncover the truth about their daughter's death.",
+          "shortSummary": "Psychological drama starring Anne-Marie Duff and James Nesbitt on an agonising mission",
+          "brandId": "18229025"
+        },
+        "episode": {}
+      }, {
+        "type": "brand",
+        "title": "The Killing",
+        "summary": "Absorbing US crime thriller. Two detectives attempt to untangle a dark, twisting mystery after a 17-year-old girl is murdered in Seattle. Starring Mireille Enos, Joel Kinnaman and Peter Sarsgaard.",
+        "secondaryTitle": "",
+        "image": {
+          "href": "https://ic.c4assets.com/brands/the-killing/f861b716-f635-470f-ab0a-8d6128c77219.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}"
+        },
+        "brand": {
+          "title": "The Killing",
+          "presentationBrand": "C4",
+          "websafeTitle": "the-killing",
+          "programmeType": "MST",
+          "summary": "Absorbing US crime thriller. Two detectives attempt to untangle a dark, twisting mystery after a 17-year-old girl is murdered in Seattle. Starring Mireille Enos, Joel Kinnaman and Peter Sarsgaard.",
+          "shortSummary": "Absorbing US crime thriller. Two detectives unravel a twisting murder mystery.",
+          "brandId": "6147031"
+        },
+        "episode": {}
+      }],
+      "template": "WATCH_MORE_LEVEL",
+      "title": "Because you watched... Jack Irish",
+      "type": "RECOMMENDATIONS"
+    }, {
+      "sliceItems": [{
+        "type": "brand",
+        "title": "Married at First Sight NZ",
+        "summary": "Would you get married to someone you just met? Single Kiwis do just that as they take part in a bold social experiment. Could tying the knot with a total stranger really lead to marital bliss?",
+        "secondaryTitle": "",
+        "image": {
+          "href": "https://ic.c4assets.com/vps/married-at-first-sight-new-zealand/8BC37464-AF64-48FD-A503EF2DF054504C.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}"
+        },
+        "brand": {
+          "title": "Married at First Sight NZ",
+          "presentationBrand": "C4",
+          "websafeTitle": "married-at-first-sight-nz",
+          "programmeType": "MSU",
+          "summary": "Would you get married to someone you just met? Single Kiwis do just that as they take part in a bold social experiment. Could tying the knot with a total stranger really lead to marital bliss?",
+          "shortSummary": "Could tying the knot with a total stranger lead to marital bliss? Single Kiwis find out.",
+          "earlyAccessEpisodesCount": 0
+        },
+        "episode": {}
+      }, {
+        "type": "brand",
+        "title": "Married at First Sight UK",
+        "summary": "The bold social experiment where single people, matched by experts, marry total strangers, who they meet for the very first time on their wedding day",
+        "secondaryTitle": "",
+        "image": {
+          "href": "https://ic.c4assets.com/vps/married-at-first-sight-uk/04609AAE-E2B6-43E2-B64ADBE5C5A18A7C.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}"
+        },
+        "brand": {
+          "title": "Married at First Sight UK",
+          "presentationBrand": "E4",
+          "websafeTitle": "married-at-first-sight-uk",
+          "programmeType": "MSU",
+          "summary": "The bold social experiment where single people, matched by experts, marry total strangers, who they meet for the very first time on their wedding day",
+          "shortSummary": "The bold social experiment where single people, matched by experts, marry total strangers",
+          "earlyAccessEpisodesCount": 0
+        },
+        "episode": {}
+      }, {
+        "type": "brand",
+        "title": "Married at First Sight Australia",
+        "summary": "Aussie singles tie the knot with partners selected for them by relationship experts, meeting for the first time on their wedding day. Will there be perfect matches or marriage mayhem?",
+        "secondaryTitle": "",
+        "image": {
+          "href": "https://ic.c4assets.com/vps/married-at-first-sight-australia/5F3BB573-F917-4FCC-9384C0308C22AA6D.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}"
+        },
+        "brand": {
+          "title": "Married at First Sight Australia",
+          "presentationBrand": "E4",
+          "websafeTitle": "married-at-first-sight-australia",
+          "programmeType": "MSU",
+          "summary": "Aussie singles tie the knot with partners selected for them by relationship experts, meeting for the first time on their wedding day. Will there be perfect matches or marriage mayhem?",
+          "shortSummary": "Aussie singles get hitched to spouses who they see for the first time on their wedding day",
+          "earlyAccessEpisodesCount": 0
+        },
+        "episode": {}
+      }],
+      "template": "WATCH_MORE_LEVEL",
+      "title": "My List",
+      "type": "MYLIST"
+    }]
+  }
+}

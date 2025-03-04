@@ -1,0 +1,115 @@
+{
+  "contractId": 77468,
+  "programmeNumber": 1,
+  "brandTitle": "Jack Irish",
+  "webSafeBrandTitle": "jack-irish",
+  "episodeTitle": "Jack Irish",
+  "duration": 3286,
+  "sinceBroadcast": -1,
+  "ptc": true,
+  "logging": false,
+  "ia": false,
+  "guidanceText": "Strong language, violence and nudity",
+  "rating": 16,
+  "transcodeId": "12137686",
+  "deliveryType": "STREAM",
+  "requestType": "ARCHIVE",
+  "programmeId": "77468/001",
+  "resolution": "SD",
+  "audioDescription": {
+    "isAudioDescribed": false
+  },
+  "endCredits": {
+    "squeeze": true,
+    "squeezeIn": 3209080,
+    "squeezeOut": 3285880
+  },
+  "subtitlesAssets": [{
+    "format": "webvtt_007",
+    "url": "https://subs.channel4.com/77468_001_2/573224d30773f735b4ba9744f706eece.vtt"
+  }, {
+    "format": "srt_009",
+    "url": "https://subs.channel4.com/77468_001_2/e7a1471ed6ee170641858582942ca75e.srt"
+  }, {
+    "format": "webvtt_003",
+    "url": "https://subs.channel4.com/77468_001_2/7d1b1e9c0bbaee6d9000fc5a70ba5152.m3u8"
+  }],
+  "thumbsAssets": [{
+    "format": "bif-small",
+    "url": "https://thumbs.channel4.com/77468_001_2/761b5b9eb36cf0379861a6fbcc747052_S.bif"
+  }, {
+    "format": "bif-large",
+    "url": "https://thumbs.channel4.com/77468_001_2/761b5b9eb36cf0379861a6fbcc747052_L.bif"
+  }, {
+    "format": "sprite-small 5x5",
+    "secondsPerSequence": 250,
+    "basePath": "https://thumbs.channel4.com/77468_001_2/7c0f78723da3fe91d300082f1ae80130_S",
+    "sequencePaths": ["_001.jpg", "_002.jpg", "_003.jpg", "_004.jpg", "_005.jpg", "_006.jpg", "_007.jpg", "_008.jpg", "_009.jpg", "_010.jpg", "_011.jpg", "_012.jpg", "_013.jpg", "_014.jpg"]
+  }, {
+    "format": "sprite-large 5x5",
+    "secondsPerSequence": 250,
+    "basePath": "https://thumbs.channel4.com/77468_001_2/7c0f78723da3fe91d300082f1ae80130_L",
+    "sequencePaths": ["_001.jpg", "_002.jpg", "_003.jpg", "_004.jpg", "_005.jpg", "_006.jpg", "_007.jpg", "_008.jpg", "_009.jpg", "_010.jpg", "_011.jpg", "_012.jpg", "_013.jpg", "_014.jpg"]
+  }],
+  "videoProfiles": [{
+    "streams": [{
+      "uri": "https://ak-jos-c4assets-com.akamaized.net/CH4_08_02_900_77468_001_2_173918475753369/CH4_08_02_900_77468_001_2_173918475753369_J01.ism/stream.mpd?c3.ri=13498268904348659904&mpd_segment_template=time&filter=%28type%3D%3D%22video%22%26%26%28%28DisplayHeight%3E%3D288%29%26%26%28DisplayHeight%3C%3D576%29%29%29%7C%7Ctype%21%3D%22video%22&ts=1740715895&e=600&st=TosbP0Xuq1n14SC6bJgbw1-slyYJIPyeWXhs4vItmsg",
+      "token": "A+p8X00U7mrXDD3ElLaqnb8FNWloEFetE6c83GB+7up0zGr2pb2A8WEvOvAapqNthMk1dS37dXzjIYMQJA1ZuBmT6xhoWV3wToAUIvJIe7Yq4gRhzkJJsWE3d5P0c3r5+xHWw5PBQOotKWp3j7eyH8A4uH/S3PAkXko79ktSX+YHi4xMLmV9C8l1kF7W/wBcYxE53KAyvlLsvMOgnBkXrg==",
+      "bitRate": 0,
+      "filesize": null
+    }],
+    "cdn": "ak",
+    "cdnFullName": "AKAMAI",
+    "name": "dashpr-dyn-stream-1"
+  }, {
+    "streams": [{
+      "uri": "https://ak-jos-c4assets-com.akamaized.net/CH4_08_02_900_77468_001_2_173918475753369/CH4_08_02_900_77468_001_2_173918475753369_J01.ism/stream.mpd?c3.ri=13495735632787729719&mpd_segment_template=time&filter=%28type%3D%3D%22video%22%26%26%28%28DisplayHeight%3E%3D288%29%26%26%28DisplayHeight%3C%3D576%29%29%29%7C%7Ctype%21%3D%22video%22&ts=1740715895&e=600&st=TosbP0Xuq1n14SC6bJgbw1-slyYJIPyeWXhs4vItmsg",
+      "token": "N7gcqe+YqA2R/w4/7MirY2EPVnn9KMt7pp/tAPBCeOxPTBgnuAAKao4vYCwg6+/iesCJyiJzl9p/HftP/8PfQMCuXuRDRdVtjQY7c1et4Qxb9OtecXg4oL+eCY0Gqza7ut3FoiTbqlw2bVVAJeY1/CxBBXRbIAM6JnG4RBmcRJgIEIQD9P7rfp5tttM6SdcEpj2wdBACEVXMeGRneoSPDYV51v6yAxrhGccVRaL7pkqE+bij5jV0Aa4eE4nRVjcxfJy4yh6nAhl8TKVM0E58HIW+ekEwjpuiXNC+WXx0V7pp9C/rPsJvKqKFIHhL89J5",
+      "bitRate": 0,
+      "filesize": null
+    }],
+    "cdn": "ak",
+    "cdnFullName": "AKAMAI",
+    "name": "dashwv-dyn-stream-1"
+  }, {
+    "streams": [{
+      "uri": "https://ak-jos-c4assets-com.akamaized.net/CH4_08_02_900_77468_001_2_173918475753369/CH4_08_02_900_77468_001_2_173918475753369_J01.ism/stream.m3u8?c3.ri=13510090846216503979&filter=%28type%3D%3D%22video%22%26%26%28%28DisplayHeight%3E%3D288%29%26%26%28DisplayHeight%3C%3D576%29%29%29%7C%7Ctype%21%3D%22video%22&ts=1740715895&e=600&st=lRajJ_q_tMsBp__511inDK1bQuHwsXj3TWhZLJ07jh4",
+      "token": "zPiuLamLKduzMEym/4qWw649aJWXZ/edXVBI/vDlzHurrF+27bsG/cmHlnrI/2zMIHIi/cWU0YIKMjSNmRYWmv4btkizpKk4J3QyN/mZGDMWaR3cslWqWjtpvuGLRvtB4l0xMI8W/m7Gi/kR0cj6VnMBKtwzd4AdLet6F623X3U=",
+      "bitRate": 0,
+      "filesize": null
+    }],
+    "cdn": "ak",
+    "cdnFullName": "AKAMAI",
+    "name": "hls-dyn-stream-1"
+  }],
+  "adverts": {
+    "siteSectionId": "www.channel4.com/4od",
+    "fwCacheBuster": "1",
+    "fwLogLevel": "QUIET",
+    "fwAdManagerLocation": "https://adm.fwmrm.net/p/c4_live/AdManager.swf",
+    "fwProfile": "174057:c4_live",
+    "fwNetworkId": "174057",
+    "fwServer": "https://2a7e9.v.fwmrm.net/ad/p/1?",
+    "fwAssetId": "77468/001",
+    "breaks": [{
+      "breakOffset": 0,
+      "resumeOffset": 0
+    }, {
+      "breakOffset": 677240,
+      "resumeOffset": 677240
+    }, {
+      "breakOffset": 1401040,
+      "resumeOffset": 1401040
+    }, {
+      "breakOffset": 1848360,
+      "resumeOffset": 1848360
+    }],
+    "adServer": "https://api.channel4.com/online/v1/adsproxy/advert/freewheel"
+  },
+  "contentClass": 2,
+  "skipIntro": {
+    "skip": true,
+    "skipStart": 150800,
+    "skipEnd": 203320
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "baseUrl": "//www.channel4.com",
+  "all4PlusUrl": "//www.channel4.com/plus",
+  "identityUrl": "https://www.channel4.com/sign-in-or-register?redirectUrl={redirectUrl}&pid={pid}&intcmp=registration_player&source=player",
+  "identityPBSEndpoint": "https://www.channel4.com/identity/programme",
+  "globalNavUrl": "//all4nav.channel4.com/v1/js/loader.js?fullNav=yes&header=header&footer=footer",
+  "dashJsUrl": "//static.c4assets.com/all4-dashjs/latest/dash.all.min.js",
+  "enableDASHManifestTimeSegments": "true",
+  "dtmUrl": "//static.c4assets.com/all4-dtm/latest/dtm.js",
+  "vodbsUrl": "https://www.channel4.com/vod/stream/{programmeId}",
+  "vodbsAdserverUrl": "https://www.channel4.com/adserver",
+  "assetStoreUrl": "//static.c4assets.com",
+  "sumologic": {
+    "metricsEndpoint": "https://monitor.channel4.com/metrics/dotcom/client/html5player",
+    "metricsEnabled": "true",
+    "logsEndpoint": "https://monitor.channel4.com/logs/dotcom/client/html5player",
+    "logsEnabled": "true"
+  },
+  "pps": {
+    "baseUri": "//www.channel4.com",
+    "assetUri": "/player/{websafeTitle}/asset/{assetId}",
+    "historyUri": "/player/history/{programmeId}/{resumeSeconds}",
+    "watchNextUri": "/player/watch-next/{programmeId}",
+    "watchMoreUri": "/player/watch-more/{programmeId}",
+    "viewCounterUri": "/player/view/{programmeId}/{requestType}"
+  },
+  "pin": {
+    "forgottenUri": "/4viewers/contact-us",
+    "disableUri": "/settings/parental-controls"
+  },
+  "debugEnabled": "false",
+  "sdkDebugEnabled": "false",
+  "watchMoreEnabled": "true",
+  "viewCounterEnabled": "true",
+  "gracePeriodSeconds": 120,
+  "initVolume": 0.5,
+  "autoPlay": "true",
+  "isLive": false,
+  "bytes1": "n9cLieYkqwzNCqvi",
+  "bytes2": "odzcU3WdUiXLucVd",
+  "abr": {
+    "initialBitRate": 15000,
+    "minBitRate": 0,
+    "maxBitRate": 4000000
+  },
+  "deviceData": {
+    "iosDownloadLink": "https://appsto.re/gb/vx1Xz",
+    "androidDownloadLink": "https://play.google.com/store/apps/details?id=com.channel4.ondemand",
+    "androidIntentScheme": "#Intent;scheme=all4;package=com.channel4.ondemand;end",
+    "androidLaunchLink": "intent://views/on-now",
+    "iosLaunchLink": "all4://views/on-now"
+  },
+  "protectionData": {
+    "com.widevine.alpha": {
+      "audioCapabilities": [{
+        "contentType": "audio/mp4; codecs=\\"
+        mp4a .40 .2\\ "",
+        "robustness": ""
+      }],
+      "videoCapabilities": [{
+        "contentType": "video/mp4; codecs=\\"
+        avc1 .42E01 F\\ "",
+        "robustness": ""
+      }, {
+        "contentType": "video/mp4; codecs=\\"
+        avc1 .42E01 E\\ "",
+        "robustness": ""
+      }, {
+        "contentType": "video/mp4; codecs=\\"
+        avc1 .42E015\\ "",
+        "robustness": ""
+      }],
+      "httpRequestHeaders": {
+        "Content-Type": "application/json"
+      },
+      "drmtoday": {
+        "video": {
+          "type": "ondemand"
+        },
+        "message": "CAQ="
+      }
+    },
+    "com.microsoft.playready": {
+      "drmtoday": {
+        "video": {
+          "type": "streaming"
+        }
+      }
+    },
+    "com.apple.fps.1_0": {
+      "certificateURI": "https://static.c4assets.com/all4-dashjs/1.0.23/channel4-fps-cert.der",
+      "licenseResponseType": "arraybuffer",
+      "httpRequestHeaders": {
+        "Content-type": "application/octet-stream"
+      }
+    }
+  },
+  "protectionExpiration": 84600,
+  "kantarTracking": {
+    "sitename": "c4dotcom",
+    "pl": "dotcom_html_player",
+    "plv": "1.0.0",
+    "stream": "od"
+  },
+  "conviva": {
+    "convivaVersion": "4",
+    "convivaEnabled": "true",
+    "convivaDebugEnabled": "false",
+    "heartbeatInterval": "20",
+    "clientKey": "b45f12f3d1d8ff61fde258f94943ae3b02a43d94",
+    "clientServiceUrl": "https://cws.conviva.com"
+  },
+  "chromecast": {
+    "appID": "10AAD887"
+  },
+  "optimizely": {
+    "dataFileUrl": "https://cdn.optimizely.com/json/9106712456.json",
+    "enabled": true
+  },
+  "brazeSDK": {
+    "brazeSdkEndpoint": "sdk.fra-01.braze.eu",
+    "brazeSdkApiKey": "2e1e6ac0-7468-40a8-bc2e-bc60be155231",
+    "brazeSdkEnabled": "true"
+  },
+  "freewheel": {
+    "networkID": "174057",
+    "serverUri": "//2a7e9.v.fwmrm.net",
+    "siteSection": {
+      "desktop": "www.channel4.com/4od",
+      "ios": "ios.browser.channel4.com/4od",
+      "android": "android.browser.channel4.com/4od"
+    },
+    "networkLabel": "c4_html5_live",
+    "freewheelStaticAdEnabled": "true",
+    "geolocationOverrideValue": "none"
+  }
+}
