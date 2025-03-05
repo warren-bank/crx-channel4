@@ -77,14 +77,7 @@ const download_decryption_parameters = async () => {
     strict:   true
   })
 
-  const message = find_needle({
-    haystack: bundle_js,
-    needle:   ',"message":"',
-    tail:     '"',
-    strict:   true
-  })
-
-  return {key, iv, video_type, message}
+  return {key, iv, video_type}
 }
 
 var find_needle = function(data) {
@@ -121,11 +114,11 @@ const download_encrypted_video_data = (programmeId) => {
 
 // ----------------------------------------------------------------------------- aio
 
-const get_video_data = async (programmeId) => {
-  const {key, iv, video_type, message} = await download_decryption_parameters()
+const get_video_data = async (programmeId, assetId) => {
+  const {key, iv, video_type} = await download_decryption_parameters()
   const {video_url, encrypted_token} = await download_encrypted_video_data(programmeId)
 
-  if (!key || !iv || !video_type || !message) {
+  if (!key || !iv || !video_type) {
     console.log('failed to parse video player JS bundle')
     return
   }
@@ -146,10 +139,10 @@ const get_video_data = async (programmeId) => {
 
   return {
     license_url,
+    request_id: assetId,
     token,
     video_url,
-    video_type,
-    message
+    video_type
   }
 }
 
@@ -212,8 +205,8 @@ var get_webcast_reloaded_url_airplay_sender = function(video_data) {
 
 // ----------------------------------------------------------------------------- init
 
-const init = async (programmeId, base_widevine_license_proxy_url) => {
-  const video_data = await get_video_data(programmeId)
+const init = async (programmeId, assetId, base_widevine_license_proxy_url) => {
+  const video_data = await get_video_data(programmeId, assetId)
   const video_player_sender_url = get_video_player_sender_url(video_data, base_widevine_license_proxy_url)
 
   console.log(video_player_sender_url)
@@ -221,4 +214,4 @@ const init = async (programmeId, base_widevine_license_proxy_url) => {
 
 // ----------------------------------------------------------------------------- bootstrap init
 
-init('77468-001', 'http://192.168.0.2:8080/channel4')
+init('77468-001', '12137686', 'http://192.168.0.2:8080/channel4')
