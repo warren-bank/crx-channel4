@@ -1,0 +1,98 @@
+{
+  "slotInfo": {
+    "episodeTitle": "Skinny Jab Scandal: Dispatches",
+    "contractId": "77334",
+    "programmeId": "77334-001",
+    "duration": "55:00",
+    "sinceSlot": 3212,
+    "startDate": 1741223100000,
+    "durationInMillis": 3300000,
+    "on4od": true,
+    "onAir": true,
+    "simulcastRights": true,
+    "startAgainRights": true
+  },
+  "channelInfo": {
+    "ptc": true,
+    "ia": true,
+    "videoProfiles": [{
+      "name": "dashpr-live-stream-iso-dash-sp-tl",
+      "streams": [{
+        "uri": "https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(c4)/manifest_sd.mpd",
+        "token": "A+p8X00U7mrXDD3ElLaqnb8FNWloEFetE6c83GB+7upyflLcN5QU1ZPUUrz1p0Tnx/+r6/HpEvVAIdohbBb5WMSJkyOWte7PXKSrqi0SWsU8A2zzFR7VGIgPP/PaOMxNtzpO8qplsZ4xe6bOkqL+u4n34dGQP78RKftlS3jIucDoD1U5sQbzLDzx/D963SLSl/r0ZrMD36PYN9LRq3jafw=="
+      }],
+      "startAgainStream": {
+        "uri": "https://tbc.mpd",
+        "token": "A+p8X00U7mrXDD3ElLaqnb8FNWloEFetE6c83GB+7upyflLcN5QU1ZPUUrz1p0Tnx/+r6/HpEvVAIdohbBb5WMSJkyOWte7PXKSrqi0SWsU8A2zzFR7VGIgPP/PaOMxNtzpO8qplsZ4xe6bOkqL+u4n34dGQP78RKftlS3jIucDoD1U5sQbzLDzx/D963SLSl/r0ZrMD36PYN9LRq3jafw=="
+      },
+      "startAgainRights": "true",
+      "cdn": "cdn",
+      "cdnFullName": "cdn",
+      "timeoutSeconds": "10"
+    }, {
+      "name": "dashpr-dai-live-stream-iso-dash-mp-tl",
+      "streams": [{
+        "uri": "https://csm-e-c4ukdash-eb.tls1.yospace.com/csm/extlive/channelfour01,c4-v3-iso-dash.mpd?yo.ac=true&yo.br=false&yo.d.sp=PT8.0S",
+        "token": "A+p8X00U7mrXDD3ElLaqnb8FNWloEFetE6c83GB+7upyflLcN5QU1ZPUUrz1p0Tnx/+r6/HpEvVAIdohbBb5WMSJkyOWte7PXKSrqi0SWsU8A2zzFR7VGIgPP/PaOMxNtzpO8qplsZ4xe6bOkqL+u4n34dGQP78RKftlS3jIucDoD1U5sQbzLDzx/D963SLSl/r0ZrMD36PYN9LRq3jafw=="
+      }],
+      "startAgainStream": {
+        "uri": "https://csm-e-c4ukdash-eb.tls1.yospace.com/csm/extevent.latest/channelfour01,c4-v3-iso-dash.mpd?yo.ac=true&yo.et=true&yo.d.sp=PT8.0S",
+        "token": "A+p8X00U7mrXDD3ElLaqnb8FNWloEFetE6c83GB+7upyflLcN5QU1ZPUUrz1p0Tnx/+r6/HpEvVAIdohbBb5WMSJkyOWte7PXKSrqi0SWsU8A2zzFR7VGIgPP/PaOMxNtzpO8qplsZ4xe6bOkqL+u4n34dGQP78RKftlS3jIucDoD1U5sQbzLDzx/D963SLSl/r0ZrMD36PYN9LRq3jafw=="
+      },
+      "startAgainRights": "true",
+      "cdn": "ys",
+      "cdnFullName": "yospace",
+      "timeoutSeconds": "5"
+    }, {
+      "name": "dashwv-live-stream-iso-dash-sp-tl",
+      "streams": [{
+        "uri": "https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(c4)/manifest_sd.mpd",
+        "token": "N7gcqe+YqA2R/w4/7MirY2EPVnn9KMt7pp/tAPBCeOxPTBgnuAAKao4vYCwg6+/iesCJyiJzl9p/HftP/8PfQCW9MQKwzaE0L3li2Py144lCnIkZs3KM7UlgW6qQTqrwsrEWte0tgwcfNayOuuoYuylqtn14ijEkSGHUySfoqY10dzqVBL9jHOgwDaFW9ChSG6DMhDjiuMDKKFheGWF2SnzQcl2ZABlfvea0dKF0TTB3HGXfw1FoPZuIIrA1BBPKw6PrAbFY7fPsD3BWxhAPYQ=="
+      }],
+      "cdn": "cdn",
+      "cdnFullName": "cdn",
+      "timeoutSeconds": "10"
+    }, {
+      "name": "dashwv-dai-live-stream-iso-dash-mp-tl",
+      "streams": [{
+        "uri": "https://csm-e-c4ukdash-eb.tls1.yospace.com/csm/extlive/channelfour01,c4-v3-iso-dash.mpd?yo.ac=true&yo.br=false&yo.d.sp=PT8.0S",
+        "token": "N7gcqe+YqA2R/w4/7MirY2EPVnn9KMt7pp/tAPBCeOxPTBgnuAAKao4vYCwg6+/iesCJyiJzl9p/HftP/8PfQCW9MQKwzaE0L3li2Py144lCnIkZs3KM7UlgW6qQTqrwsrEWte0tgwcfNayOuuoYuylqtn14ijEkSGHUySfoqY10dzqVBL9jHOgwDaFW9ChSG6DMhDjiuMDKKFheGWF2SnzQcl2ZABlfvea0dKF0TTB3HGXfw1FoPZuIIrA1BBPKw6PrAbFY7fPsD3BWxhAPYQ=="
+      }],
+      "startAgainStream": {
+        "uri": "https://csm-e-c4ukdash-eb.tls1.yospace.com/csm/extevent.latest/channelfour01,c4-v3-iso-dash.mpd?yo.ac=true&yo.et=true&yo.d.sp=PT8.0S",
+        "token": "N7gcqe+YqA2R/w4/7MirY2EPVnn9KMt7pp/tAPBCeOxPTBgnuAAKao4vYCwg6+/iesCJyiJzl9p/HftP/8PfQCW9MQKwzaE0L3li2Py144lCnIkZs3KM7UlgW6qQTqrwsrEWte0tgwcfNayOuuoYuylqtn14ijEkSGHUySfoqY10dzqVBL9jHOgwDaFW9ChSG6DMhDjiuMDKKFheGWF2SnzQcl2ZABlfvea0dKF0TTB3HGXfw1FoPZuIIrA1BBPKw6PrAbFY7fPsD3BWxhAPYQ=="
+      },
+      "startAgainRights": "true",
+      "cdn": "ys",
+      "cdnFullName": "yospace",
+      "timeoutSeconds": "5"
+    }, {
+      "name": "fps-livestream-1",
+      "streams": [{
+        "uri": "https://olsp.live.hls.c4assets.com/hls_fps/live/channel(c4)/index_sd.m3u8",
+        "token": "XBD6xQyk/Z9tquTiHWEp5/crRub8G/IO+NQn4Yn7TJVjn1K+sXoM32Rj0vN96Tiq7b/EkVrwhf++6Z0iTSvTJzSx9JlEtZdt7UTeLP4ii4ZbLG7NvNUtZYlW4YGzjpbfiQLB5fKPkIWjE7tzinoORVpuOxAfM+zCfOZS0HrT6mdVdMqjIB94O/ThAAeLrxNchg5/Objr0H4pPnUBFadYKg=="
+      }],
+      "cdn": "cdn",
+      "cdnFullName": "cdn",
+      "timeoutSeconds": "10"
+    }, {
+      "name": "fps-livestream-yospace-1",
+      "streams": [{
+        "uri": "https://csm-e-c4uk-eb.tls1.yospace.com/csm/extlive/channelfour01,c4-v3-hls.m3u8?yo.ac=false&yo.br=false",
+        "token": "XBD6xQyk/Z9tquTiHWEp5/crRub8G/IO+NQn4Yn7TJVjn1K+sXoM32Rj0vN96Tiq7b/EkVrwhf++6Z0iTSvTJzSx9JlEtZdt7UTeLP4ii4ZbLG7NvNUtZYlW4YGzjpbfiQLB5fKPkIWjE7tzinoORVpuOxAfM+zCfOZS0HrT6mdVdMqjIB94O/ThAAeLrxNchg5/Objr0H4pPnUBFadYKg=="
+      }],
+      "startAgainStream": {
+        "uri": "https://csm-e-c4uk-eb.tls1.yospace.com/csm/extevent.latest/channelfour01,c4-v3-hls.m3u8?yo.ac=false&yo.et=true",
+        "token": "XBD6xQyk/Z9tquTiHWEp5/crRub8G/IO+NQn4Yn7TJVjn1K+sXoM32Rj0vN96Tiq7b/EkVrwhf++6Z0iTSvTJzSx9JlEtZdt7UTeLP4ii4ZbLG7NvNUtZYlW4YGzjpbfiQLB5fKPkIWjE7tzinoORVpuOxAfM+zCfOZS0HrT6mdVdMqjIB94O/ThAAeLrxNchg5/Objr0H4pPnUBFadYKg=="
+      },
+      "startAgainRights": "true",
+      "cdn": "ys",
+      "cdnFullName": "yospace",
+      "timeoutSeconds": "5"
+    }]
+  },
+  "viewThreshold": {
+    "start": 5,
+    "end": 95
+  }
+}

@@ -1,0 +1,20 @@
+--------------------------------------------------------------------------------
+
+https://www.channel4.com/programmes/roman-holiday
+  film
+
+-------------------------------------------------------------------------------- before login:
+
+view-source:https://www.channel4.com/programmes/roman-holiday
+
+inline script:
+==============
+./data/01-dom-script-film.txt
+
+notes:
+======
+* window.__PARAMS__.initialData.brand.episodes.length === 1
+  - data structure is identical to series
+  - ie: a film is a series with 1 episode
+
+--------------------------------------------------------------------------------

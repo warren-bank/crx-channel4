@@ -1,0 +1,58 @@
+<script type="application/json" id="all4-config">
+  {
+    "urlToHTMLPlayerService": "https://static.channel4.com/all4-live-player/latest",
+    "urlToAIS": "https://ais.channel4.com",
+    "urlToFourID": "https://4id.channel4.com",
+    "urlToFreeWheel": "https://2a7e9.v.fwmrm.net",
+    "urlToAdManager": "https://mssl.fwmrm.net/p/c4_simulcast_live/AdManager.swf",
+    "urlToTvGuide": "https://www.channel4.com/tv-guide",
+    "channel": "C4",
+    "useYospace": true,
+    "useYospaceHTML5": true,
+    "adobeDTMUrl": "https://static.channel4.com/all4-dtm/latest/dtm.js",
+    "freeWheelProfile": {
+      "networkID": "174057",
+      "profileID": "174057:c4_simulcast_live",
+      "siteID": "watchlive.channel4.com"
+    },
+    "nowNextUrl": "https://www.channel4.com/api/now-next",
+    "defaultChannel": "C4",
+    "watchLiveSlotsDataPending": {
+      "maxPendingIntervalMs": 3000,
+      "errorMsg": "Sorry, that hasn’t worked",
+      "adviceMsg": "Please refresh the page to try again"
+    },
+    "updateSlotsIntervalMs": 300000,
+    "initialState": {
+      "slots": {
+        "now": [],
+        "next": [],
+        "byChannel": [{
+          "channel": "C4"
+        }, {
+          "channel": "E4"
+        }, {
+          "channel": "M4"
+        }, {
+          "channel": "F4"
+        }, {
+          "channel": "4S"
+        }],
+        "isUpdating": false
+      }
+    },
+    "braze": {
+      "enabled": true,
+      "endpoint": "sdk.fra-01.braze.eu",
+      "SDKApiKey": "2e1e6ac0-7468-40a8-bc2e-bc60be155231"
+    },
+    "sumoLogic": {
+      "url": "https://monitor.channel4.com/logs/dotcom/client/watchlive",
+      "resource": "WATCHLIVE",
+      "enabled": true,
+      "environment": "prod"
+    },
+    "downloadMobileAppBannerEnabled": false,
+    "optimizelyDatafileUrl": "https://cdn.optimizely.com/json/9106712456.json"
+  }
+</script>

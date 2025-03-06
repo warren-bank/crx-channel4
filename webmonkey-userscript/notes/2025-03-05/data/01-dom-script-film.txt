@@ -1,0 +1,377 @@
+<script>
+  window.__PARAMS__ = {
+  "initialData": {
+    "brand": {
+      "exclusive": undefined,
+      "websafeTitle": "roman-holiday",
+      "presentationBrand": "channel4",
+      "programmeType": "FM",
+      "title": "Roman Holiday",
+      "summary": "(1953) Comedy romance with Oscar-winning Audrey Hepburn and Gregory Peck. A bored princess runs away to Rome and meets an American journalist, who shows her all that the Eternal City has to offer.",
+      "shortSummary": "(1953) Romance starring Oscar-winning Audrey Hepburn. A bored princess finds love in Rome.",
+      "allEpisodesCount": 1,
+      "allSeriesCount": 1,
+      "onDemandEpisodesCount": 1,
+      "earlyAccessEpisodesCount": undefined,
+      "categories": [{
+        "id": "film",
+        "displayName": "Film",
+        "categoryPath": "https:\u002F\u002Fwww.channel4.com\u002Fcategories\u002Ffilm",
+        "source": "brandhub::textlink::|::film||"
+      }],
+      "brandInfo": " | First shown: Sun 25 Feb 2024 | 113 mins",
+      "episodeOrder": "latest_series_latest_episode",
+      "isInMyList": false,
+      "hasGuidance": false,
+      "hasSubtitles": true,
+      "hasHD": true,
+      "hasAD": true,
+      "images": {
+        "hero": {
+          "landscape": {
+            "src": "https:\u002F\u002Fic.c4assets.com\u002Fbrands\u002Froman-holiday\u002Fb3fbd6eb-8311-483c-981e-c44806b02b09.jpg?imformat=chrome",
+            "alt": "Roman Holiday",
+            "type": "image\u002Fjpeg"
+          },
+          "portrait": {
+            "src": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Froman-holiday\u002F8451ffd7-bab9-430e-be34-22fc9acd1b88.jpg?imformat=chrome",
+            "alt": "Roman Holiday",
+            "type": "image\u002Fjpeg"
+          }
+        },
+        "title": {
+          "landscape": {
+            "src": "https:\u002F\u002Fic.c4assets.com\u002Fbips\u002F21186430\u002F75EA919A-4DAD-42cb-8f72-da47435c5e4c.png?imformat=chrome",
+            "alt": "",
+            "type": "image\u002Fpng"
+          },
+          "portrait": {
+            "src": "https:\u002F\u002Fic.c4assets.com\u002Fbips\u002F21186430\u002FDD14AFD5-C9C1-4758-8aa6-d813590b3779.png?imformat=chrome",
+            "alt": "",
+            "type": "image\u002Fpng"
+          }
+        }
+      },
+      "series": [],
+      "nextOnLabel": undefined,
+      "episodes": [{
+        "dateLabel": "First shown: Sun 25 Feb 2024",
+        "episodeNumber": 1,
+        "firstTXChannel": "C4",
+        "seriesNumber": 1,
+        "image": {
+          "src": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Froman-holiday\u002Fdf4b6f35-a3a6-443d-84a6-944f840563da.jpg?imformat=chrome",
+          "alt": "ROMAN HOLIDAY",
+          "type": "image\u002Fjpeg"
+        },
+        "title": "",
+        "fullTitle": "",
+        "bottomText": "First shown: Sun 25 Feb 2024 | 113 mins",
+        "showPlayLabel": true,
+        "originalTitle": "Roman Holiday",
+        "secondaryTitle": "",
+        "summary": "(1953) Comedy romance with Oscar-winning Audrey Hepburn and Gregory Peck. A bored princess runs away to Rome and meets an American journalist, who shows her all that the Eternal City has to offer.",
+        "description": "(1953) Romance starring Oscar-winning Audrey Hepburn. A bored princess finds love in Rome.",
+        "fullDescription": "(1953) Romance starring Oscar-winning Audrey Hepburn. A bored princess finds love in Rome.",
+        "programmeId": "32647-001",
+        "upgradeToPlay": {
+          "active": false,
+          "label": undefined
+        },
+        "showPlusIcon": false,
+        "hrefLink": "\u002Fprogrammes\u002Froman-holiday\u002Fon-demand\u002F32647-001",
+        "guidance": "",
+        "hasSubtitles": true,
+        "hasAD": true,
+        "hasHD": true,
+        "durationLabel": "113 mins",
+        "assetId": "12169967",
+        "progressBar": {}
+      }],
+      "fwProgrammeId": "32647\u002F001",
+      "helpMessage": null
+    },
+    "pageData": {
+      "summary": "(1953) Comedy romance with Oscar-winning Audrey Hepburn and Gregory Peck. A bored princess runs away to Rome and meets an American journalist, who shows her all that the Eternal City has to offer.",
+      "theme": "c4",
+      "title": "Roman Holiday"
+    },
+    "recommendationsData": {
+      "items": [{
+        "imageLink": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Froom-with-a-view\u002FE62206E7-6F8D-4D1B-830701279FAE581E.jpg?imformat=chrome",
+        "labelText": "A Room with a View",
+        "altText": "A Room with a View",
+        "overlayText": "(1985) Oscar-and-BAFTA-winning Merchant\u002FIvory romance starring Helena Bonham Carter as an innocent abroad in Florence and Julian Sands as the man who she meets there",
+        "hrefLink": "\u002Fprogrammes\u002Fa-room-with-a-view",
+        "showExclusiveContentFlag": false,
+        "watchSeriesEarlyLabelText": "",
+        "expandedTile": {
+          "title": "A Room with a View",
+          "summary": "(1985) Oscar-and-BAFTA-winning Merchant\u002FIvory romance starring Helena Bonham Carter as an innocent abroad in Florence and Julian Sands as the man who she meets there",
+          "genres": ["Film", "Romance"],
+          "availableContent": "1 series"
+        }
+      }, {
+        "imageLink": "https:\u002F\u002Fic.c4assets.com\u002Fbrands\u002Fhowards-end\u002F1586c751-2e79-404d-8ebe-46c82fc4d4e8.jpg?imformat=chrome",
+        "labelText": "Howards End",
+        "altText": "Howards End",
+        "overlayText": "(1992) Romantic drama from Merchant\u002FIvory starring Anthony Hopkins, Emma Thompson and Helena Bonham Carter. Two families become entwined in both love and business.",
+        "hrefLink": "\u002Fprogrammes\u002Fhowards-end",
+        "showExclusiveContentFlag": false,
+        "watchSeriesEarlyLabelText": "",
+        "expandedTile": {
+          "title": "Howards End",
+          "summary": "(1992) Romantic drama from Merchant\u002FIvory starring Anthony Hopkins, Emma Thompson and Helena Bonham Carter. Two families become entwined in both love and business.",
+          "genres": ["Film", "Romance"],
+          "availableContent": "1 series"
+        }
+      }, {
+        "imageLink": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Foperation-petticoat\u002F829b895f-cbb9-4565-a211-2a22515d1f25.jpg?imformat=chrome",
+        "labelText": "Operation Petticoat",
+        "altText": "Operation Petticoat",
+        "overlayText": "(1959) Second World War comedy starring Tony Curtis and Cary Grant as crew members on a bright pink submarine trying to evade the Japanese Navy",
+        "hrefLink": "\u002Fprogrammes\u002Foperation-petticoat",
+        "showExclusiveContentFlag": false,
+        "watchSeriesEarlyLabelText": "",
+        "expandedTile": {
+          "title": "Operation Petticoat",
+          "summary": "(1959) Second World War comedy starring Tony Curtis and Cary Grant as crew members on a bright pink submarine trying to evade the Japanese Navy",
+          "genres": ["Film", "Comedy"],
+          "availableContent": "1 series"
+        }
+      }, {
+        "imageLink": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fjerry-marge-go-large\u002Fd256ccdf-582d-4d05-8cfd-01b37b54481b.jpg?imformat=chrome",
+        "labelText": "Jerry & Marge Go Large",
+        "altText": "Jerry & Marge Go Large",
+        "overlayText": "(2022) Fact-based comedy starring Bryan Cranston and Annette Bening as a retired couple who find a way to exploit a lottery loophole. But then some rich kids try to muscle in...",
+        "hrefLink": "\u002Fprogrammes\u002Fjerry-marge-go-large",
+        "showExclusiveContentFlag": false,
+        "watchSeriesEarlyLabelText": "",
+        "expandedTile": {
+          "title": "Jerry & Marge Go Large",
+          "summary": "(2022) Fact-based comedy starring Bryan Cranston and Annette Bening as a retired couple who find a way to exploit a lottery loophole. But then some rich kids try to muscle in...",
+          "genres": ["Film", "Comedy"],
+          "availableContent": "1 series"
+        }
+      }, {
+        "imageLink": "https:\u002F\u002Fic.c4assets.com\u002Fbrands\u002Fmodern-family\u002F47dfc22c-742d-4769-b02d-7238c3c89382.jpg?imformat=chrome",
+        "labelText": "Modern Family",
+        "altText": "Modern Family",
+        "overlayText": "Emmy and Golden Globe-winning comedy, shot from the perspective of an unseen documentary filmmaker. Modern Family takes a modern look at the complications that come with being a family.",
+        "hrefLink": "\u002Fprogrammes\u002Fmodern-family",
+        "showExclusiveContentFlag": false,
+        "watchSeriesEarlyLabelText": "",
+        "expandedTile": {
+          "title": "Modern Family",
+          "summary": "Emmy and Golden Globe-winning comedy, shot from the perspective of an unseen documentary filmmaker. Modern Family takes a modern look at the complications that come with being a family.",
+          "genres": ["Comedy", "Sitcoms"],
+          "availableContent": "2 series"
+        }
+      }, {
+        "imageLink": "https:\u002F\u002Fic.c4assets.com\u002Fbrands\u002Fa-royal-guide-to\u002Fed34da15-9d75-49b8-beba-37835b329f22.jpg?imformat=chrome",
+        "labelText": "A Royal Guide to...",
+        "altText": "A Royal Guide to...",
+        "overlayText": "An intimate portrait of the inner workings of the royal family, drawing on stunning archive footage and insider interviews, with each episode examining a different topic",
+        "hrefLink": "\u002Fprogrammes\u002Fa-royal-guide-to",
+        "showExclusiveContentFlag": false,
+        "watchSeriesEarlyLabelText": "",
+        "expandedTile": {
+          "title": "A Royal Guide to...",
+          "summary": "An intimate portrait of the inner workings of the royal family, drawing on stunning archive footage and insider interviews, with each episode examining a different topic",
+          "genres": ["Documentaries", "Life in Britain"],
+          "availableContent": "1 series"
+        }
+      }, {
+        "imageLink": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fshe's-gotta-have-it\u002F88FF9A7B-50F8-409B-A9427557A5945E8D.jpg?imformat=chrome",
+        "labelText": "She's Gotta Have It",
+        "altText": "She's Gotta Have It",
+        "overlayText": "Fashion show designed to demonstrate to women of all shapes, sizes and level of income how to grab the world of fashion and make style work for them",
+        "hrefLink": "\u002Fprogrammes\u002Fshes-gotta-have-it",
+        "showExclusiveContentFlag": false,
+        "watchSeriesEarlyLabelText": "",
+        "expandedTile": {
+          "title": "She's Gotta Have It",
+          "summary": "Fashion show designed to demonstrate to women of all shapes, sizes and level of income how to grab the world of fashion and make style work for them",
+          "genres": ["Lifestyle", "Shopping + Style"],
+          "availableContent": "1 series"
+        }
+      }, {
+        "imageLink": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Fanimal-control\u002FFB23BA77-B7CE-42E6-84FFD0D51A49D583.jpg?imformat=chrome",
+        "labelText": "Animal Control",
+        "altText": "Animal Control",
+        "overlayText": "US sitcom about a group of animal control officers, led by opinionated, eccentric, cynical and curmudgeonly ex-cop Frank",
+        "hrefLink": "\u002Fprogrammes\u002Fanimal-control",
+        "showExclusiveContentFlag": false,
+        "watchSeriesEarlyLabelText": "",
+        "expandedTile": {
+          "title": "Animal Control",
+          "summary": "US sitcom about a group of animal control officers, led by opinionated, eccentric, cynical and curmudgeonly ex-cop Frank",
+          "genres": ["Comedy", "Sitcoms"],
+          "availableContent": "1 series"
+        }
+      }],
+      "mvt": {
+        "userAction": [{
+          "action": "page_interaction",
+          "eventKeyPrefix": "click"
+        }, {
+          "action": "video_view",
+          "eventKeyPrefix": "video_view"
+        }, {
+          "action": "video_completion",
+          "eventKeyPrefix": "video_completion"
+        }],
+        "eventKey": ["_brandhub", "_brandhub_recommendations"]
+      },
+      "title": "More Like This"
+    },
+    "moreAboutThisProgrammeData": {
+      "items": [],
+      "title": ""
+    },
+    "selectedEpisode": {
+      "dateLabel": "First shown: Sun 25 Feb 2024",
+      "episodeNumber": 1,
+      "firstTXChannel": "C4",
+      "seriesNumber": 1,
+      "image": {
+        "src": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Froman-holiday\u002Fdf4b6f35-a3a6-443d-84a6-944f840563da.jpg?imformat=chrome",
+        "alt": "ROMAN HOLIDAY",
+        "type": "image\u002Fjpeg"
+      },
+      "title": "",
+      "fullTitle": "",
+      "bottomText": "First shown: Sun 25 Feb 2024 | 113 mins",
+      "showPlayLabel": true,
+      "originalTitle": "Roman Holiday",
+      "secondaryTitle": "",
+      "summary": "(1953) Comedy romance with Oscar-winning Audrey Hepburn and Gregory Peck. A bored princess runs away to Rome and meets an American journalist, who shows her all that the Eternal City has to offer.",
+      "description": "(1953) Romance starring Oscar-winning Audrey Hepburn. A bored princess finds love in Rome.",
+      "fullDescription": "(1953) Romance starring Oscar-winning Audrey Hepburn. A bored princess finds love in Rome.",
+      "programmeId": "32647-001",
+      "upgradeToPlay": {
+        "active": false,
+        "label": undefined
+      },
+      "showPlusIcon": false,
+      "hrefLink": "\u002Fprogrammes\u002Froman-holiday\u002Fon-demand\u002F32647-001",
+      "guidance": "",
+      "hasSubtitles": true,
+      "hasAD": true,
+      "hasHD": true,
+      "durationLabel": "113 mins",
+      "assetId": "12169967",
+      "progressBar": {}
+    },
+    "selectedEpisodeSeries": undefined,
+    "action": {
+      "type": "PLAY_NEXT_EPISODE",
+      "title": "Sign in to play",
+      "secondaryTitle": "",
+      "programmeId": "32647-001",
+      "progressBar": undefined,
+      "url": "https:\u002F\u002Fwww.channel4.com\u002Fprogrammes\u002Froman-holiday\u002Fon-demand\u002F32647-001",
+      "relativeUrl": "\u002Fprogrammes\u002Froman-holiday\u002Fon-demand\u002F32647-001",
+      "guidance": undefined
+    },
+    "isUserAuthenticated": false,
+    "ogTags": {
+      "title": "Roman Holiday",
+      "type": "video.movie",
+      "description": "(1953) Romance starring Oscar-winning Audrey Hepburn. A bored princess finds love in Rome.",
+      "image": {
+        "url": "https:\u002F\u002Fic.c4assets.com\u002Fbrands\u002Froman-holiday\u002Fb3fbd6eb-8311-483c-981e-c44806b02b09.jpg?imformat=chrome&resize=1200px:*",
+        "type": "image\u002Fjpeg"
+      }
+    },
+    "jsonLDSchema": {
+      "@context": "http:\u002F\u002Fschema.org",
+      "name": "Roman Holiday",
+      "description": "(1953) Romance starring Oscar-winning Audrey Hepburn. A bored princess finds love in Rome.",
+      "image": "https:\u002F\u002Fic.c4assets.com\u002Fbrands\u002Froman-holiday\u002Fb3fbd6eb-8311-483c-981e-c44806b02b09.jpg",
+      "genre": ["Film", "Romance"],
+      "publisher": "Channel 4",
+      "@type": "Movie",
+      "thumbnailUrl": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Froman-holiday\u002Fdf4b6f35-a3a6-443d-84a6-944f840563da.jpg",
+      "subtitleLanguage": "en",
+      "publication": [{
+        "@type": "BroadcastEvent",
+        "publishedOn": {
+          "@type": "BroadcastService",
+          "url": "https:\u002F\u002Fwww.channel4.com"
+        },
+        "startDate": "2024-02-25T16:35:00.000Z"
+      }, {
+        "@type": "OnDemandEvent",
+        "endDate": "2025-03-29T18:20:59.000Z",
+        "startDate": "2025-02-27T18:20:00.000Z"
+      }],
+      "url": "https:\u002F\u002Fwww.channel4.com\u002Fprogrammes\u002Froman-holiday\u002Fon-demand\u002F32647-001",
+      "video": {
+        "@type": "VideoObject",
+        "name": "Roman Holiday",
+        "contentUrl": "https:\u002F\u002Fwww.channel4.com\u002Fprogrammes\u002Froman-holiday\u002Fon-demand\u002F32647-001",
+        "url": "https:\u002F\u002Fwww.channel4.com\u002Fprogrammes\u002Froman-holiday\u002Fon-demand\u002F32647-001",
+        "uploadDate": "2024-02-25T16:35:00.000Z",
+        "thumbnailUrl": "https:\u002F\u002Fic.c4assets.com\u002Fvps\u002Froman-holiday\u002Fdf4b6f35-a3a6-443d-84a6-944f840563da.jpg",
+        "videoQuality": "HD",
+        "requiresSubscription": false,
+        "description": "(1953) Romance starring Oscar-winning Audrey Hepburn. A bored princess finds love in Rome.",
+        "contentRating": "NEUTRAL"
+      }
+    },
+    "all4PlusButtonConfig": undefined
+  },
+  "sumoLogic": {
+    "url": "https:\u002F\u002Fmonitor.channel4.com\u002Flogs\u002Fdotcom\u002Fclient\u002Fbrandhub",
+    "resource": "BRANDHUB",
+    "environment": "prod",
+    "enabled": "true"
+  },
+  "userId": null,
+  "playerEndpoint": "https:\u002F\u002Fwww.channel4.com\u002Fplayer\u002FplayerLoader.js?toBody=1&assetId=:assetId&brandWebSafeTitle=:brand&postponeTrackingUntilVisible=1",
+  "configUrls": {
+    "baseUrl": "https:\u002F\u002Fwww.channel4.com",
+    "episodeUrl": "\u002Fprogrammes\u002F:brand\u002Fon-demand\u002F:programmeId",
+    "identityUrl": "https:\u002F\u002Fwww.channel4.com\u002Fsign-in-or-register",
+    "brandUrl": "\u002Fprogrammes\u002F:brand",
+    "all4PlusUrl": "\u002Fplus",
+    "watchLiveUrl": "https:\u002F\u002Fwww.channel4.com\u002Fnow\u002F:channel",
+    "myListServiceUrl": "https:\u002F\u002Fwww.channel4.com\u002Fmy4\u002Fapi\u002Fv1\u002Fuser\u002Ffavourites\u002F"
+  },
+  "braze": {
+    "brazeSDKEndpointUrl": "sdk.fra-01.braze.eu",
+    "brazeSDKAPIKey": "2e1e6ac0-7468-40a8-bc2e-bc60be155231",
+    "brazeSDKEnabled": true,
+    "inAppMessagingEnabled": true,
+    "anonUsers": true
+  },
+  "mazeConfig": {
+    "mazeEnabled": true,
+    "mazeScriptUrl": "https:\u002F\u002Fsnippet.maze.co\u002Fmaze-universal-loader.js",
+    "mazeApiKey": "4f48c7e5-f420-4f3d-8fcf-810a018b62d4"
+  },
+  "hdEnabledFeature": true,
+  "turnOffPersonalisation": false,
+  "titleTreatmentsEnabled": true,
+  "mParticleConfig": {
+    "apiKey": "eu1-785e164941c9ed4880842cc0c6d6bf0c",
+    "developmentMode": "false",
+    "domainForCollectingEvents": "et.channel4.com",
+    "logLevel": "warning",
+    "planId": "main_data_plan",
+    "planVersion": 2
+  },
+  "appLink": {
+    "android": {
+      "appName": "Channel 4",
+      "package": "com.channel4.ondemand"
+    },
+    "ios": {
+      "appName": "Channel 4",
+      "appStoreId": "432494037"
+    }
+  },
+  "appContainerID": "app"
+}
+</script>

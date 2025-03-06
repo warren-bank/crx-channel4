@@ -1,0 +1,187 @@
+--------------------------------------------------------------------------------
+
+https://www.channel4.com/now/C4
+  livetv channel
+
+https://www.channel4.com/tv-guide
+  livetv EPG
+
+-------------------------------------------------------------------------------- before login:
+
+view-source:https://www.channel4.com/now/C4
+
+inline script:
+==============
+./data/02-dom-script-live.txt
+
+notes:
+======
+{
+  const data = JSON.parse(
+    document.getElementById('all4-config').textContent
+  )
+  const channels = data.initialState.slots.byChannel.map(obj => obj.channel)
+
+  console.log(channels.length + ' channels:', channels.join(', '))
+}
+
+output:
+=======
+5 channels: C4, E4, M4, F4, 4S
+
+notes:
+======
+* data.nowNextUrl === 'https://www.channel4.com/api/now-next'
+
+--------------------------------------------------------------------------------
+
+request:
+========
+
+curl 'https://www.channel4.com/api/now-next'
+
+response:
+=========
+./data/03-api-live-now-next.json
+
+notes:
+======
+{
+  const get_distinct_channels_in_slot = (slot) => {
+    const obj = {}
+    for (let program of slot) {
+      obj[ program.channel ] = true
+    }
+    return Object.keys(obj).sort()
+  }
+
+  for (let slot_name of Object.keys(data.slots)) {
+    const channels = get_distinct_channels_in_slot(data.slots[slot_name])
+
+    console.log('slot "' + slot_name + '" has ' + channels.length + ' channels:', channels.join(', '))
+  }
+}
+
+output:
+=======
+slot "now"   has 5 channels: 4S, C4, E4, F4, M4
+slot "next"  has 5 channels: 4S, C4, E4, F4, M4
+slot "later" has 5 channels: 4S, C4, E4, F4, M4
+
+notes:
+======
+"streamUri" values:
+  https://ais.channel4.com/simulcast/4S?client=c4
+  https://ais.channel4.com/simulcast/C4?client=c4
+  https://ais.channel4.com/simulcast/E4?client=c4
+  https://ais.channel4.com/simulcast/F4?client=c4
+  https://ais.channel4.com/simulcast/M4?client=c4
+
+-------------------------------------------------------------------------------- after login:
+
+request:
+========
+
+curl 'https://www.channel4.com/simulcast/channels/C4' \
+  --compressed \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0' \
+  -H 'Accept: application/json' \
+  -H 'Accept-Language: en-US,en;q=0.5' \
+  -H 'Accept-Encoding: gzip, deflate, br' \
+  -H 'DNT: 1' \
+  -H 'Connection: keep-alive' \
+  -H 'Referer: https://www.channel4.com/now/C4' \
+  -H 'Cookie: AKA_A2=A; _abck=0ED1E72C1F597950E1DC8015765E8116~0~YAAQOyhDFwSuwkKVAQAAiNosaQ3mrtatWUSmtjtizlqnGUg77GM2Xsq5Zm4jzVJPUuj1fTUKyzELj9rcufdl8bHxsvUjyEpeMaEZPJnOzoR676gwPh48HWB02gsKBg/utt4fvtqTRukJA8Galh5vxRRrGJMHJ7J3P4ejCCTl4sArG/U8xITl6jd7CV/JOLXmu6n5AsPgYy8iTCHG4U/dDw4qddnsTQsQaLv/s85LCD7M855CZKB1VXX/pcws2rTi+48Yg/PAihtQKB+7qvtnIVK7iQc9DDeSUNiyvhb/nmEtQcGSc+W8mbAGa/6ue2eUGrjzR24n1sknbzyJxv1L3NRJz22ygNzHSgjo19tqDa+C6x0B/wfwWQxY5LRqp4h2AyEdpdbrJW/LkWnkmGK5BflSo8AfKoi2znZkHrOOIWkfv0kb9tOe6MPjnRgR6+yHbem4NwMYZOQ9RisjC6WT3hqWTBP5kPU9MxnVcqvcBGBbp1x+yyVW7syD8ZFZ8LJ27dVRkwtHctqPy03EVCD+bnJt1on/7+1jgsP0TjSr2YSh6cWdurE9ZEWq0dyFQhlw6NxhQoNuUYrGJmp2jlcyS1y8zdJZY300CyLPrujsyEnGbsI3kyrhp6JaV0C/LmcA9e3VcBDYSkiMqFPHMQo3OVrDxvy1eNuEnj+MY1Ciw0JzgNHThILxj4xIPNl3jZ5rX7RqDjuXxbyWLWEtvWTQ7cX6XDkmo0QjuS9PozBuhMzeX2uyIbf6zA4XQljTy5D0HjVoumo=~-1~-1~-1; ak_bmsc=E07D6A4E931D0252D1627442633FAFF8~000000000000000000000000000000~YAAQOyhDFxP5wEKVAQAABHoOaRvLpwN1Q/BWJdtmpdu6Jiue0c+UHlrYC9MkTgrFAiWUhlinYCrp5g4pXl8Z2bu0JFvJLMPqHbQOrDpkD/VgOSvkS53FfAePO0bJFamN1vVbjWUmf/wMokaBvc/BeMEsLSCsps984Z8Hv2mes1sFcxoLznt/7gZxF93BAYqeByCVvRpuo2GjiZfNem7LzHsHIz7aweAppAC/z1bwAK27bsgzFzJnRNV92jCr0npfk5QCuAD/yCOyUjI3jwxVnkaxL9AwX9FjrEGM09DpFVi1ZKhQhk38r8IHikP85FWHchtST8LgQqYVI+S3ADRufEu8TUhCjePobn4QdeVP627PIe8IjXHJETzZXu0nFa7swRmy85tvzUbFu+Gb; bm_sz=506B8D5098CF140944BFF04D4BC09630~YAAQOyhDFyquwkKVAQAAddwsaRtUNVLVapNvlxj6GrJgxWl1k0B0fVsxC1Uts+hPseC9tuqwjJbMKmK7UZ2SjSPSITPVIWkZHMaP3cKiKbRSm4uMk3uSj3ES2uaVw4TBA+2WHa7tdlAgEjjwE2WLMl3ha+N6KOOBcLCiRWeBh/xpxvHHlC7Je2XvQ2X8ygGlse92N6LQ7+3/VL14ixAMtZbBCRMOQAlNxc2jw4oBRjEWmjfd16MoDPLbXLrMYU4KpbVWoJJysinHd+4Gch1kF+MNmXIYcqQxKEmehgj87DdP+zoSPPlZ9MTRHytvcsLpqNfZH2fBJBbW+pE75Oopiq0Ok5CW3izvJsbSaF3A+vQEPSKQmft+okZ+aLfxei6EtZElJqMJOxMlyapF0Yvn0afIPCcFSp2xPfIrbWEwq6PrD3l4IRsA6yMw0Z5/MRU2QkPeHn1MjHY=~4342840~4473145; AMCV_16B222CE527834FC0A490D4D%40AdobeOrg=179643557%7CMCIDTS%7C20154%7CMCMID%7C89421394708973728930187678192973856900%7CMCAID%7CNONE%7CMCOPTOUT-1741233509s%7CNONE%7CvVersion%7C5.5.0; AMCVS_16B222CE527834FC0A490D4D%40AdobeOrg=1; all4PreviousPageName=watch_live:c4; bm_sv=48E80D78F7BE8295FE97524D14626563~YAAQOyhDF1CvwkKVAQAAv/csaRuWBrLsepramYp6wAoJAhgoYTKEnlmjDCULSapuAk/voPd7cYat2QojyQdRGTiRDYseQ04ECVlhOl80EkRt9BKjO328GA/x6UmyD6yQTdC7dmbcTrK4uhWZZZb9Gznz2nHY7PnTlVRDVepISYh2cFWPdSubYN1RLI7mMocO/2JYseopgNOvaKJAJwHd6VRa6/kiKu3g0UPGtGA8EN7DixyDErK7K03q57/7nnTL4Kdk~1; s_cc=true; s_c4_gppn=c4:now:c4; c4_mor_notification=false%3Btrue%3Btrue%3B115; C4_AT=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1dWlkIjoiMjA2ODY4ZWUtNzA3MC00NGM2LThlZjItZDMwMWJjNWQzNWI4IiwiZGlzcGxheU5hbWUiOiJKYW1lcyIsImFjY2Vzc1Rva2VuIjoiQkFYNndud3pJWEN1QzVvUGVTTEZ1TlNUdUV4diIsImFjY2Vzc1Rva2VuRXhwaXJlc0F0IjoxNzQxMjM3MTAxMDE5LCJyZWZyZXNoVG9rZW4iOiJtRVhRWld5TU5xRGlteVhxYmpORHg1VmNtaXRNNjhlZyIsInJlZnJlc2hUb2tlbkV4cGlyZXNBdCI6MTgwNDI5ODMwMTAxOSwic3Vic2NyaXB0aW9uU3RhdHVzIjoibm9uZSIsImlhdCI6MTc0MTIyNjMwMn0.nGLX5qNx9DOXWqXN6S4qgaYEsVJ0cxj3PkeUEX-eBVQ; C4_CC=eyJ2ZXJzaW9uIjoxLCJjb25zZW50ZWQiOnRydWUsImV4cGlyeSI6IjIwMjUtMDMtMDdUMDE6MjU6MjEuMzM1WiIsImRldmljZUlkIjoiYzQtbGFwdG9wX2Rlc2t0b3AtZmlyZWZveC0xNmQ3ZGU0MS1jYjY4LTQ4YmMtOGJjZC02M2Q0ZDQ1MjgwZDIiLCJwdXJwb3NlU2V0Ijp7InZlcnNpb24iOjIwLCJwdXJwb3NlcyI6W3siaWQiOiJlc3NlbnRpYWwtaW5mb3JtYXRpb24iLCJjb25zZW50UHVycG9zZVZlcnNpb24iOjUsImNvbnNlbnRTdGF0dXMiOiJhY2NlcHRlZCIsInRvcGljcyI6WyJhcHBkeW5hbWljcyIsInN1bW8tbG9naWMiLCJjcmFzaGx5dGljcyIsImNvbnZpdmEiLCJicmlnaHRjb3ZlIiwib3B0aW1pemVseS1yb2xsb3V0Il19LHsiaWQiOiJzdGF0aXN0aWNzIiwiY29uc2VudFB1cnBvc2VWZXJzaW9uIjo0LCJjb25zZW50U3RhdHVzIjoiYWNjZXB0ZWQiLCJ0b3BpY3MiOlsiYWRvYmUtYW5hbHl0aWNzIiwia2FudGFyIiwib3B0aW1pemVseS1kYXRhIiwib3B0aW1pemVseS1mZWF0dXJlIiwib3B0aW1pemVseS1wcmVzZW50YXRpb24iLCJicmF6ZS1jb3JlIl19LHsiaWQiOiJtYXJrZXRpbmciLCJjb25zZW50UHVycG9zZVZlcnNpb24iOjcsImNvbnNlbnRTdGF0dXMiOiJhY2NlcHRlZCIsInRvcGljcyI6WyJmYWNlYm9vayJdfSx7ImlkIjoidGFyZ2V0ZWQtYWR2ZXJ0aXNpbmciLCJjb25zZW50UHVycG9zZVZlcnNpb24iOjcsImNvbnNlbnRTdGF0dXMiOiJhY2NlcHRlZCIsInRvcGljcyI6WyJ5b3NwYWNlIiwiZnJlZXdoZWVsIl19LHsiaWQiOiJ3ZWItbWVzc2FnaW5nIiwiY29uc2VudFB1cnBvc2VWZXJzaW9uIjo0LCJjb25zZW50U3RhdHVzIjoiYWNjZXB0ZWQiLCJ0b3BpY3MiOlsiYnJhemUtbWFya2V0aW5nIl19LHsiaWQiOiJ0aGlyZC1wYXJ0eS1jb250ZW50IiwiY29uc2VudFB1cnBvc2VWZXJzaW9uIjozLCJjb25zZW50U3RhdHVzIjoiYWNjZXB0ZWQiLCJ0b3BpY3MiOlsieW91dHViZSIsInNwb3RpZnkiLCJ0d2l0dGVyIl19XX0sImNvbnNlbnRTb3VyY2UiOiJwcm9tcHQifQ==; s_sq=%5B%5BB%5D%5D; mParticlePreviousPageName=registration:sign_in_password; 4id_Identity=lhqAn7fI6hpNNPD3cNeFhxE/eD6TtSgo5PToBjNX3+v36Hf+XgJsD7NZ5a2Z25K+HGk5ZqNVh3bKGgSECwSVVpGwwoJPDpDTQnL17RyxjITTr32BN5ZwbSh+x9qoK7eY/eI92HwWj6VfuTqP8tZjMvN7XbeH8pAVUNqkcsSu9GwOUDPPPH5q3KthA4sRJ6IAVkE+Nsrq2bBoCZIcdfaAC2IqcOhljYhY2CeLiBPddBt3iXFlw3Ylt6LMewfRaU/dlJJCZP9x/3XJICuxxX/2+g==; 4id_Session=lG6lVXY45Mj+mHh5wFws8cKVLer4tU3JDSXekrHnP1W18gae74sFvupHwVDtzKHI2XDnLCzBFMxE4in5Upbua4GKjWHUEhBTMO9GSmwjzkp8tu99967Y9U68Q7yOzA8KKKEevhmQxgzpuUKEKnXMlg==; journey=sign-in; ab.storage.userId.2e1e6ac0-7468-40a8-bc2e-bc60be155231=%7B%22g%22%3A%22206868ee-7070-44c6-8ef2-d301bc5d35b8%22%2C%22c%22%3A1741226310702%2C%22l%22%3A1741226310708%7D; ab.storage.sessionId.2e1e6ac0-7468-40a8-bc2e-bc60be155231=%7B%22g%22%3A%22689f75ce-5969-d4bc-d709-847bdf2945c3%22%2C%22e%22%3A1741228110767%2C%22c%22%3A1741226310706%2C%22l%22%3A1741226310767%7D; ab.storage.deviceId.2e1e6ac0-7468-40a8-bc2e-bc60be155231=%7B%22g%22%3A%2249e1fd10-8b3a-574b-c6a0-14d4a0a389b9%22%2C%22c%22%3A1741226310710%2C%22l%22%3A1741226310710%7D' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Site: same-origin'
+
+response:
+=========
+./data/04-api-live-channel-c4.json
+
+notes (request):
+================
+* the unique id for each channel (ex: "C4") is included in the DOM data
+
+notes (response):
+=================
+* the data structure for livetv streams is nearly identical to VOD streams
+  - VOD:
+      data.subtitlesAssets = [{format, url}]
+      data.videoProfiles = [{name, streams: [{uri, token}]}]
+      ----
+      data.subtitlesAssets.map(obj => obj.format).join(', ') === "webvtt_007, srt_009, webvtt_003"
+        where: "webvtt_003" is an .m3u8
+      data.videoProfiles.map(obj => obj.name).join(', ') === "dashpr-dyn-stream-1, dashwv-dyn-stream-1, hls-dyn-stream-1"
+        where: PLAY_READY, WIDEVINE, FAIR_PLAY
+  - live:
+      data.channelInfo.videoProfiles = [{name, streams: [{uri, token}]}]
+      ----
+      data.channelInfo.videoProfiles.map(obj => obj.name).join(', ') === "dashpr-live-stream-iso-dash-sp-tl, dashpr-dai-live-stream-iso-dash-mp-tl, dashwv-live-stream-iso-dash-sp-tl, dashwv-dai-live-stream-iso-dash-mp-tl, fps-livestream-1, fps-livestream-yospace-1"
+* all WIDEVINE streams have a name that begins with: 'dashwv-'
+
+--------------------------------------------------------------------------------
+
+request:
+========
+
+curl 'https://c4.eme.lp.aws.redbeemedia.com/wvlicenceproxy-service/widevine/acquire' \
+  -X POST \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0' \
+  -H 'Accept: */*' \
+  -H 'Accept-Language: en-US,en;q=0.5' \
+  -H 'Accept-Encoding: gzip, deflate, br' \
+  -H 'Referer: https://www.channel4.com/' \
+  -H 'content-type: application/json' \
+  -H 'Origin: https://www.channel4.com' \
+  -H 'DNT: 1' \
+  -H 'Connection: keep-alive' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Site: cross-site' \
+  --data-raw '{"token":"WmdVZUNGa1JZ1JNJgJCKxzMaukZ4Vmyn1bV7_DOC5CFuaDBpUjgUbkAVtiM-NLG5aPJXiNIDIeUB1zWAhuuTkEpOeQuBxwT-","video":{"type":"simulcast","url":"https://csm-e-c4ukdash-eb.tls1.yospace.com/csm/extlive/channelfour01,c4-v3-iso-dash.mpd?yo.ac=true&yo.br=false&yo.d.sp=PT8.0S"},"message":"CAQ="}'
+
+response:
+=========
+
+{
+  "license": "CAUSxwUKwQIIAxIQFwW5F8wSBIaLBjM6L3cqjBiCtIKSBSKOAjCCAQoCggEBAJntWzsyfateJO/DtiqVtZhSCtW8yzdQPgZFuBTYdrjfQFEEQa2M462xG7iMTnJaXkqeB5UpHVhYQCOn4a8OOKkSeTkwCGELbxWMh4x+Ib/7/up34QGeHleB6KRfRiY9FOYOgFioYHrc4E+shFexN6jWfM3rM3BdmDoh+07svUoQykdJDKR+ql1DghjduvHK3jOS8T1v+2RC/THhv0CwxgTRxLpMlSCkv5fuvWCSmvzu9Vu69WTi0Ods18Vcc6CCuZYSC4NZ7c4kcHCCaA1vZ8bYLErF8xNEkKdO7DevSy8BDFnoKEPiWC8La59dsPxebt9k+9MItHEbzxJQAZyfWgkCAwEAAToUbGljZW5zZS53aWRldmluZS5jb20SgAOuNHMUtag1KX8nE4j7e7jLUnfSSYI83dHaMLkzOVEes8y96gS5RLknwSE0bv296snUE5F+bsF2oQQ4RgpQO8GVK5uk5M4PxL/CCpgIqq9L/NGcHc/N9XTMrCjRtBBBbPneiAQwHL2zNMr80NQJeEI6ZC5UYT3wr8+WykqSSdhV5Cs6cD7xdn9qm9Nta/gr52u/DLpP3lnSq8x2/rZCR7hcQx+8pSJmthn8NpeVQ/ypy727+voOGlXnVaPHvOZV+WRvWCq5z3CqCLl5+Gf2Ogsrf9s2LFvE7NVV2FvKqcWTw4PIV9Sdqrd+QLeFHd/SSZiAjjWyWOddeOrAyhb3BHMEwg2T7eTo/xxvF+YkPj89qPwXCYcOxF+6gjomPwzvofcJOxkJkoMmMzcFBDopvab5tDQsyN9UPLGhGC98X/8z8QSQ+spbJTYLdgFenFoGq47gLwDS6NWYYQSqzE3Udf2W7pzk4ybyG4PHBYV3s4cyzdq8amvtE/sNSdOKReuHpfQ=",
+  "status": {
+    "success": true,
+    "type": "Success"
+  }
+}
+
+--------------------------------------------------------------------------------
+
+
+question:
+=========
+assuming that Widevine license acquisition for livetv channel streams follows the same procedure as VOD,
+then what is the "request_id" parameter value sent in the request?
+  - VOD uses the "assetId" for the episode
+  - live channels don't appear to have any "assetId"
+
+observations:
+=============
+inspecting previous request..
+
+POST data = {
+  "token": "WmdVZUNGa1JZ1JNJgJCKxzMaukZ4Vmyn1bV7_DOC5CFuaDBpUjgUbkAVtiM-NLG5aPJXiNIDIeUB1zWAhuuTkEpOeQuBxwT-",
+  "video": {
+    "type": "simulcast",
+    "url": "https://csm-e-c4ukdash-eb.tls1.yospace.com/csm/extlive/channelfour01,c4-v3-iso-dash.mpd?yo.ac=true&yo.br=false&yo.d.sp=PT8.0S"
+  },
+  "message": "CAQ="
+}
+
+answer:
+=======
+this JSON object is slightly different from VOD!
+  * removed:
+      request_id
+  * edited:
+      video.type === 'simulcast' (rather than 'ondemand')
+
+--------------------------------------------------------------------------------

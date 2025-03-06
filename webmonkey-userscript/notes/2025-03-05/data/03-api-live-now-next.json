@@ -1,0 +1,401 @@
+{
+  "slots": {
+    "now": [{
+      "title": "Sun, Sea and Selling Houses",
+      "summary": "In Almería, the Garners help Sue and Don find their dream holiday home. The Hamiltons search for a beachfront property in Málaga for sports fanatic and former client Neal. (S5 Ep12)",
+      "channel": "C4",
+      "start": "2025-03-05T13:10:00.000Z",
+      "end": "2025-03-05T14:10:00.000Z",
+      "duration": 3600,
+      "offair": false,
+      "available": true,
+      "streamUri": "https://ais.channel4.com/simulcast/C4?client=c4",
+      "startAgainRights": true,
+      "image": {
+        "href": "https://ic.c4assets.com/brands/sun-sea-and-selling-houses/series-5/episode-5/da3dc904-8e5e-42e4-9e59-87b61102825a.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}"
+      },
+      "programmeId": "71823-005",
+      "episode": {
+        "title": "Series 5 Episode 12",
+        "secondaryTitle": "",
+        "seriesNumber": 5,
+        "episodeNumber": 12,
+        "programmeId": "71823-005",
+        "shortSummary": "Sue and Don find their dream holiday home. Neal looks for a beachfront property in Málaga.",
+        "summary": "In Almería, the Garners help Sue and Don find their dream holiday home. The Hamiltons search for a beachfront property in Málaga for sports fanatic and former client Neal."
+      },
+      "brand": {
+        "title": "Sun, Sea and Selling Houses",
+        "programmeType": "FB",
+        "websafeTitle": "sun-sea-and-selling-houses"
+      }
+    }, {
+      "title": "The Big Bang Theory",
+      "summary": "The Geology Elevation: Sheldon can't contain his jealousy when he hears that his university colleague, Bert the geologist, has won a prestigious fellowship. (S10 Ep9/24)",
+      "channel": "E4",
+      "start": "2025-03-05T13:00:00.000Z",
+      "end": "2025-03-05T13:30:00.000Z",
+      "duration": 1800,
+      "offair": false,
+      "available": true,
+      "streamUri": "https://ais.channel4.com/simulcast/E4?client=c4",
+      "startAgainRights": true,
+      "image": {
+        "href": "https://ic.c4assets.com/brands/the-big-bang-theory/series-10/episode-9/94d323d7-6c01-494d-8ecb-a23a02868830.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}"
+      },
+      "programmeId": "59422-009",
+      "episode": {
+        "title": "Series 10 Episode 9",
+        "secondaryTitle": "The Geology Elevation",
+        "seriesNumber": 10,
+        "episodeNumber": 9,
+        "programmeId": "59422-009",
+        "shortSummary": "Sheldon is jealous when he hears that his colleague has won a prestigious fellowship",
+        "summary": "Sheldon is jealous when he hears that his university colleague has won a prestigious fellowship. Howard finds an old remote-controlled toy that he made in the past."
+      },
+      "brand": {
+        "title": "The Big Bang Theory",
+        "programmeType": "MST",
+        "websafeTitle": "the-big-bang-theory"
+      }
+    }, {
+      "title": "Car S.O.S",
+      "summary": "Alpine A110: Tim Shaw and Fuzz Townshend fix up one of France's most legendary rally cars. Guido has owned it for 20 years but never driven it. (S9 Ep8)",
+      "channel": "M4",
+      "start": "2025-03-05T13:05:00.000Z",
+      "end": "2025-03-05T14:05:00.000Z",
+      "duration": 3600,
+      "offair": false,
+      "available": true,
+      "streamUri": "https://ais.channel4.com/simulcast/M4?client=c4",
+      "startAgainRights": true,
+      "image": {
+        "href": "https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&output-format=png&output-quality=90{&resize}"
+      },
+      "programmeId": "72729-008"
+    }, {
+      "title": "The Cockleshell Heroes",
+      "summary": "(1955) World War II drama. In a true-life tale of incredible bravery, ten marines try to break the blockade of Bordeaux. With José Ferrer, Trevor Howard, Victor Maddern and Anthony Newley.",
+      "channel": "F4",
+      "start": "2025-03-05T13:00:00.000Z",
+      "end": "2025-03-05T15:00:00.000Z",
+      "duration": 7200,
+      "offair": false,
+      "available": true,
+      "streamUri": "https://ais.channel4.com/simulcast/F4?client=c4",
+      "startAgainRights": false,
+      "image": {
+        "href": "https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&output-format=png&output-quality=90{&resize}"
+      },
+      "programmeId": "24424-001"
+    }, {
+      "title": "A Place in the Sun",
+      "summary": "Stephanie wants to fulfil her late mother's dream of owning a holiday home in southern Abruzzo. Can Lee Juggurnauth find her the perfect Italian place for £110k?",
+      "channel": "4S",
+      "start": "2025-03-05T12:30:00.000Z",
+      "end": "2025-03-05T13:30:00.000Z",
+      "duration": 3600,
+      "offair": false,
+      "available": true,
+      "streamUri": "https://ais.channel4.com/simulcast/4S?client=c4",
+      "startAgainRights": true,
+      "image": {
+        "href": "https://ic.c4assets.com/vps/a-place-in-the-sun-2022/A68E8521-8256-4451-80957187E67D02A6.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}"
+      },
+      "programmeId": "72018-029",
+      "episode": {
+        "title": "Thu 12 Sep 2024: Abruzzo, Italy",
+        "secondaryTitle": "",
+        "seriesNumber": 17,
+        "episodeNumber": 62,
+        "programmeId": "72018-029",
+        "shortSummary": "Stephanie wants to fulfil her late mother's dream of owning an Italian home in Abruzzo",
+        "summary": "Stephanie wants to fulfil her late mother's dream of owning an Italian holiday home in southern Abruzzo. Can Lee Juggurnauth find her the perfect place for her budget of £110k?"
+      },
+      "brand": {
+        "title": "A Place in the Sun",
+        "programmeType": "FB",
+        "websafeTitle": "a-place-in-the-sun"
+      }
+    }],
+    "next": [{
+      "title": "Countdown",
+      "summary": "Colin Murray, Dr Tom Crawford and Susie Dent host, with Jenny Powell in Dictionary Corner, as contestants race against the clock to pit their wits against vowels, consonants and numbers.",
+      "channel": "C4",
+      "start": "2025-03-05T14:10:00.000Z",
+      "end": "2025-03-05T15:00:00.000Z",
+      "duration": 3000,
+      "offair": false,
+      "available": true,
+      "streamUri": "https://ais.channel4.com/simulcast/C4?client=c4",
+      "startAgainRights": true,
+      "image": {
+        "href": "https://ic.c4assets.com/brands/countdown/series-2024/03cc91c2-0129-4ddf-9e35-2a5c57a0925f.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}"
+      },
+      "programmeId": "75051-238",
+      "episode": {
+        "title": "",
+        "secondaryTitle": "",
+        "seriesNumber": 2024,
+        "episodeNumber": 238,
+        "programmeId": "75051-238",
+        "shortSummary": "Colin Murray, Dr Tom Crawford and Susie Dent host, with Jenny Powell in Dictionary Corner",
+        "summary": "Colin Murray, Dr Tom Crawford and Susie Dent host, with Jenny Powell in Dictionary Corner, as contestants race against the clock to pit their wits against vowels, consonants and numbers"
+      },
+      "brand": {
+        "title": "Countdown",
+        "programmeType": "LR",
+        "websafeTitle": "countdown"
+      }
+    }, {
+      "title": "The Big Bang Theory",
+      "summary": "The Property Division Collision: Sheldon, Amy, Leonard and Penny attempt to divide up all their possessions. It doesn't go well. (S10 Ep10/24)",
+      "channel": "E4",
+      "start": "2025-03-05T13:30:00.000Z",
+      "end": "2025-03-05T14:00:00.000Z",
+      "duration": 1800,
+      "offair": false,
+      "available": true,
+      "streamUri": "https://ais.channel4.com/simulcast/E4?client=c4",
+      "startAgainRights": true,
+      "image": {
+        "href": "https://ic.c4assets.com/brands/the-big-bang-theory/series-10/episode-10/81e2c848-c285-4376-9049-93c0f6425d29.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}"
+      },
+      "programmeId": "59422-010",
+      "episode": {
+        "title": "Series 10 Episode 10",
+        "secondaryTitle": "The Property Division Collision",
+        "seriesNumber": 10,
+        "episodeNumber": 10,
+        "programmeId": "59422-010",
+        "shortSummary": "Sheldon, Amy, Leonard and Penny divide their possessions into two separate households",
+        "summary": "Sheldon, Amy, Leonard and Penny divide their possessions into two separate households, but tension ensues. Raj and Stuart compete to become indispensable to Howard and Bernadette."
+      },
+      "brand": {
+        "title": "The Big Bang Theory",
+        "programmeType": "MST",
+        "websafeTitle": "the-big-bang-theory"
+      }
+    }, {
+      "title": "Four in a Bed",
+      "summary": "The competition kicks off at Rob and Jo Smith's dog-friendly B&B in Hope Mountain, north Wales. But tough feedback leaves them ready to fight back.",
+      "channel": "M4",
+      "start": "2025-03-05T14:05:00.000Z",
+      "end": "2025-03-05T14:40:00.000Z",
+      "duration": 2100,
+      "offair": false,
+      "available": true,
+      "streamUri": "https://ais.channel4.com/simulcast/M4?client=c4",
+      "startAgainRights": true,
+      "image": {
+        "href": "https://ic.c4assets.com/brands/four-in-a-bed/series-11/episode-86/827f77e1-da32-46a3-b33d-26a829abe454.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}"
+      },
+      "programmeId": "63432-086",
+      "episode": {
+        "title": "Mon 8 May 2017: Hope Mountain",
+        "secondaryTitle": "",
+        "seriesNumber": 11,
+        "episodeNumber": 61,
+        "programmeId": "63432-086",
+        "shortSummary": "At Hope Mountain in North Wales, Rob and Jo Smith their dog-friendly B&B will win the day",
+        "summary": "The competition kicks off at Hope Mountain in North Wales, where Rob and Jo Smith hope their dog-friendly B&B will win the day. But tough scores at feedback leave them ready to fight back."
+      },
+      "brand": {
+        "title": "Four in a Bed",
+        "programmeType": "FB",
+        "websafeTitle": "four-in-a-bed"
+      }
+    }, {
+      "title": "Comanche Station",
+      "summary": "(1960) A western from Budd Boetticher. A hero and an outlaw must work together to save a kidnapped woman from a band of warring Comanche. Starring Randolph Scott and Nancy Gates.",
+      "channel": "F4",
+      "start": "2025-03-05T15:00:00.000Z",
+      "end": "2025-03-05T16:35:00.000Z",
+      "duration": 5700,
+      "offair": false,
+      "available": true,
+      "streamUri": "https://ais.channel4.com/simulcast/F4?client=c4",
+      "startAgainRights": true,
+      "image": {
+        "href": "https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&output-format=png&output-quality=90{&resize}"
+      },
+      "programmeId": "24425-001"
+    }, {
+      "title": "A Place in the Sun",
+      "summary": "Trish and Ruth love Lanzarote so much that they want to buy a holiday home there, near the popular resort of Puerto del Carmen. Sara Damergi shows them what their £140k can buy.",
+      "channel": "4S",
+      "start": "2025-03-05T13:30:00.000Z",
+      "end": "2025-03-05T14:30:00.000Z",
+      "duration": 3600,
+      "offair": false,
+      "available": true,
+      "streamUri": "https://ais.channel4.com/simulcast/4S?client=c4",
+      "startAgainRights": true,
+      "image": {
+        "href": "https://ic.c4assets.com/vps/a-place-in-the-sun-2023---puerto-del-carmen-lanzarote/DA05C034-3E2A-4DDC-A7472BA939245D80.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}"
+      },
+      "programmeId": "75273-006",
+      "episode": {
+        "title": "Mon 3 Mar 2025: Puerto del Carmen, Lanzarote",
+        "secondaryTitle": "",
+        "seriesNumber": 18,
+        "episodeNumber": 26,
+        "programmeId": "75273-006",
+        "shortSummary": "Trish and Ruth look for a holiday home near Puerto del Carmen for their £140k",
+        "summary": "Trish and Ruth love Lanzarote so much that they want to buy a holiday home there, near the popular resort of Puerto del Carmen. Sara Damergi shows them what their £140k can buy."
+      },
+      "brand": {
+        "title": "A Place in the Sun",
+        "programmeType": "FB",
+        "websafeTitle": "a-place-in-the-sun"
+      }
+    }],
+    "later": [{
+      "title": "A Place in the Sun",
+      "summary": "Sharon and Paul would love to own a holiday home in the seaside town of Gran Alacant on Spain's southern Costa Blanca. Jean Johansson shows them what £135k can buy.",
+      "channel": "C4",
+      "start": "2025-03-05T15:00:00.000Z",
+      "end": "2025-03-05T16:00:00.000Z",
+      "duration": 3600,
+      "offair": false,
+      "available": true,
+      "streamUri": "https://ais.channel4.com/simulcast/C4?client=c4",
+      "startAgainRights": true,
+      "image": {
+        "href": "https://ic.c4assets.com/vps/a-place-in-the-sun-2022/C5432909-ED44-4335-B006924F4B9FCFC0.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}"
+      },
+      "programmeId": "72018-038",
+      "episode": {
+        "title": "Mon 25 Nov 2024: Gran Alacant",
+        "secondaryTitle": "",
+        "seriesNumber": 17,
+        "episodeNumber": 80,
+        "programmeId": "72018-038",
+        "shortSummary": "Jean Johansson helps Sharon and Paul find a bolthole by the sea in Gran Alacant",
+        "summary": "Sharon and Paul would love to own a holiday home in the seaside town of Gran Alacant on Spain's southern Costa Blanca. Jean Johansson shows them what £135k can buy."
+      },
+      "brand": {
+        "title": "A Place in the Sun",
+        "programmeType": "FB",
+        "websafeTitle": "a-place-in-the-sun"
+      }
+    }, {
+      "title": "Young Sheldon",
+      "summary": "A Virus, Heartbreak and a World of Possibilities: Sheldon is caught in a moral dilemma when he's offered a bootleg copy of a computer game that he can't afford. (S4 Ep15)",
+      "channel": "E4",
+      "start": "2025-03-05T14:00:00.000Z",
+      "end": "2025-03-05T14:30:00.000Z",
+      "duration": 1800,
+      "offair": false,
+      "available": true,
+      "streamUri": "https://ais.channel4.com/simulcast/E4?client=c4",
+      "startAgainRights": true,
+      "image": {
+        "href": "https://ic.c4assets.com/brands/young-sheldon/series-4/episode-15/f274aff4-4a24-4978-925f-18eb911bc2db.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}"
+      },
+      "programmeId": "73280-015",
+      "episode": {
+        "title": "Series 4 Episode 15",
+        "secondaryTitle": "A Virus, Heartbreak and a World of Possibilities",
+        "seriesNumber": 4,
+        "episodeNumber": 15,
+        "programmeId": "73280-015",
+        "shortSummary": "Morally torn, Sheldon is offered a bootleg copy of a computer game that he can't afford",
+        "summary": "Sheldon is caught in a moral dilemma when he's offered a bootleg copy of a computer game that he can't afford"
+      },
+      "brand": {
+        "title": "Young Sheldon",
+        "programmeType": "MST",
+        "websafeTitle": "young-sheldon"
+      }
+    }, {
+      "title": "Four in a Bed",
+      "summary": "Self-confessed 'queens of clean' Steffi and Sarah welcome their rivals to the Beaumont Hotel in Louth, near Lincoln. Jo and Rob inspect their room with a fine-tooth comb.",
+      "channel": "M4",
+      "start": "2025-03-05T14:40:00.000Z",
+      "end": "2025-03-05T15:15:00.000Z",
+      "duration": 2100,
+      "offair": false,
+      "available": true,
+      "streamUri": "https://ais.channel4.com/simulcast/M4?client=c4",
+      "startAgainRights": true,
+      "image": {
+        "href": "https://ic.c4assets.com/brands/four-in-a-bed/series-11/episode-87/6f159d4b-80ce-481f-9d33-b19539aac528.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}"
+      },
+      "programmeId": "63432-087",
+      "episode": {
+        "title": "Tue 9 May 2017: The Beaumont Hotel",
+        "secondaryTitle": "",
+        "seriesNumber": 11,
+        "episodeNumber": 62,
+        "programmeId": "63432-087",
+        "shortSummary": "The second visit is to The Beaumont Hotel in Louth, near Lincoln, run by Steffi and Sarah",
+        "summary": "The second visit is to The Beaumont Hotel in Louth, near Lincoln, where managers and best friends Steffi Stevenson and Sarah Banks pride themselves on being the 'queens of clean'"
+      },
+      "brand": {
+        "title": "Four in a Bed",
+        "programmeType": "FB",
+        "websafeTitle": "four-in-a-bed"
+      }
+    }, {
+      "title": "Jubal",
+      "summary": "(1956) Western with Glenn Ford, Ernest Borgnine, Rod Steiger and Valerie French. A cowboy is given a job by a rancher, sparking lethal jealousy in a colleague and desire in the boss's wife.",
+      "channel": "F4",
+      "start": "2025-03-05T16:35:00.000Z",
+      "end": "2025-03-05T18:40:00.000Z",
+      "duration": 7500,
+      "offair": false,
+      "available": true,
+      "streamUri": "https://ais.channel4.com/simulcast/F4?client=c4",
+      "startAgainRights": true,
+      "image": {
+        "href": "https://ic.c4assets.com/vps/jubal/103D5567-2DDF-47D5-A8EF65EE1956FC60.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}"
+      },
+      "programmeId": "13326-001",
+      "episode": {
+        "title": "",
+        "secondaryTitle": "",
+        "seriesNumber": 1,
+        "episodeNumber": 1,
+        "programmeId": "13326-001",
+        "shortSummary": "(1956) Desire and envy cause discord in this western with Glenn Ford and Valerie French",
+        "summary": "(1956) Western starring Glenn Ford, Ernest Borgnine, Rod Steiger and Valerie French. When a rancher gives a cowboy a job, it sparks lethal jealousy in a colleague and desire in the boss's wife."
+      },
+      "brand": {
+        "title": "Jubal",
+        "programmeType": "FM",
+        "websafeTitle": "jubal"
+      }
+    }, {
+      "title": "Come Dine with Me",
+      "summary": "Liverpool. The first host, 41-year-old taxi business owner Rob, plans a Liverpool-themed evening that celebrates his beloved city. (Ep1/5)",
+      "channel": "4S",
+      "start": "2025-03-05T14:30:00.000Z",
+      "end": "2025-03-05T15:00:00.000Z",
+      "duration": 1800,
+      "offair": false,
+      "available": true,
+      "streamUri": "https://ais.channel4.com/simulcast/4S?client=c4",
+      "startAgainRights": true,
+      "image": {
+        "href": "https://ic.c4assets.com/vps/come-dine-with-me/d5bd062c-9c7d-408c-bab1-4d9c33852f39.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}"
+      },
+      "programmeId": "62451-011",
+      "episode": {
+        "title": "",
+        "secondaryTitle": "",
+        "seriesNumber": 36,
+        "episodeNumber": 11,
+        "programmeId": "62451-011",
+        "shortSummary": "The first host in Liverpool is 41-year-old Rob, who is hosting a Scouse themed evening",
+        "summary": "This week's competition is in and around Liverpool, where the first to host is 41-year-old taxi business owner Rob, who is hosting a Scouse themed evening."
+      },
+      "brand": {
+        "title": "Come Dine with Me",
+        "programmeType": "LR",
+        "websafeTitle": "come-dine-with-me"
+      }
+    }]
+  },
+  "status": 200
+}
