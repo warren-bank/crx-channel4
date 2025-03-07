@@ -69,7 +69,7 @@ Its purpose is to:
   - a [plugin for _channel4_](https://github.com/warren-bank/node-widevine-license-proxy/tree/master/.recipes/02.%20channel4) is included
     * as a "recipe" in the _github_ repo, but not [_npm_](https://www.npmjs.com/package/@warren-bank/widevine-license-proxy)
 * this userscript needs to be configured with the URL for an instance of this proxy server
-  - the default is: `http://localhost:8080/channel4`
+  - the default is: `http://localhost:8081/channel4`
 
 #### Credits:
 

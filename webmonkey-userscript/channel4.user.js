@@ -21,7 +21,7 @@
 
 var user_options = {
   "drm": {
-    "widevine_license_proxy":           "http://localhost:8080/channel4",
+    "widevine_license_proxy":           "http://localhost:8081/channel4",
     "use_static_decryption_parameters": true // `true`: use values in all4 video player JS bundle when userscript was last updated. `false`: download and extract at runtime.
   },
   "common": {
